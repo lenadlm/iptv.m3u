@@ -1,2 +1,2 @@
 # iptv_playlist.m3u
-my iptv playlist
+<i>Curated playlist of my favorite iptv channels.<i>
