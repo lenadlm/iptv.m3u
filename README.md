@@ -2,3 +2,7 @@
 
 # iptvlist.m3u
 <i>Curated list of my favorite iptv channels.<i>
+
+<ul>
+  <li> <a href="url">https://m3u4u.com/</a> </li>
+</ul>
