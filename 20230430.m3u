@@ -2257,3 +2257,552 @@ https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
 https://dai.google.com/linear/hls/event/AaFxJXOhQl-BsTVC9OCunQ/master.m3u8
 #EXTINF:-1 tvg-id="externallinearfeed-10-06-2020-10-06-2020" tvg-name="DJAZZ" tvg-logo="https://i.mjh.nz/Stirr/.images/8b901076b2.png" group-title="STIRR",DJAZZ
 https://dai.google.com/linear/hls/event/C-lfmhUVTGeDNWwU13_EgA/master.m3u8
+##
+##
+##
+##
+#EXTINF:-1 tvg-id="" tvg-name="AF: DBM TV" tvg-logo="" group-title="AFRICA",AF: DBM TV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/397737
+#EXTINF:-1 tvg-id="" tvg-name="AF: D5TV" tvg-logo="" group-title="AFRICA",AF: D5TV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/397736
+#EXTINF:-1 tvg-id="supersportaction.za" tvg-name="AF: SUPERSPORT Action" tvg-logo="https://asiagrandiptv.us/logo/supersportaction.png" group-title="AFRICA",AF: SUPERSPORT Action
+http://parkpay.live:8080/overkill/dB2hBKSxdP/135966
+#EXTINF:-1 tvg-id="supersportblitz.za" tvg-name="AF: SUPERSPORT BLITZ" tvg-logo="https://asiagrandiptv.us/logo/supersportblitz.png" group-title="AFRICA",AF: SUPERSPORT BLITZ
+http://parkpay.live:8080/overkill/dB2hBKSxdP/135965
+#EXTINF:-1 tvg-id="supersportcricket.za" tvg-name="AF: SUPERSPORT CRICKET" tvg-logo="https://asiagrandiptv.us/logo/supersportcricket.png" group-title="AFRICA",AF: SUPERSPORT CRICKET
+http://parkpay.live:8080/overkill/dB2hBKSxdP/135964
+#EXTINF:-1 tvg-id="" tvg-name="AF: SUPERSPORT FOOTBALL" tvg-logo="https://asiagrandiptv.us/logo/supersportfootball.png" group-title="AFRICA",AF: SUPERSPORT FOOTBALL
+http://parkpay.live:8080/overkill/dB2hBKSxdP/135963
+#EXTINF:-1 tvg-id="" tvg-name="AF: SUPERSPORT Golf" tvg-logo="https://asiagrandiptv.us/logo/supersportgolf.png" group-title="AFRICA",AF: SUPERSPORT Golf
+http://parkpay.live:8080/overkill/dB2hBKSxdP/165884
+#EXTINF:-1 tvg-id="supersportgrandstand.za" tvg-name="AF: SUPERSPORT GRANDSTAND" tvg-logo="https://asiagrandiptv.us/logo/supersportgrandstand.png" group-title="AFRICA",AF: SUPERSPORT GRANDSTAND
+http://parkpay.live:8080/overkill/dB2hBKSxdP/135961
+#EXTINF:-1 tvg-id="supersportlaliga.za" tvg-name="AF: SUPERSPORT LALIGA" tvg-logo="https://asiagrandiptv.us/logo/supersportlaliga.png" group-title="AFRICA",AF: SUPERSPORT LALIGA
+http://parkpay.live:8080/overkill/dB2hBKSxdP/135960
+#EXTINF:-1 tvg-id="" tvg-name="AF: SUPERSPORT maximo 1" tvg-logo="https://asiagrandiptv.us/logo/supersportmaximo1.png" group-title="AFRICA",AF: SUPERSPORT maximo 1
+http://parkpay.live:8080/overkill/dB2hBKSxdP/235537
+#EXTINF:-1 tvg-id="supersportmotorsport.za" tvg-name="AF: SUPERSPORT MOTORSPORT" tvg-logo="https://asiagrandiptv.us/logo/supersportmotorsport.png" group-title="AFRICA",AF: SUPERSPORT MOTORSPORT
+http://parkpay.live:8080/overkill/dB2hBKSxdP/135959
+#EXTINF:-1 tvg-id="" tvg-name="AF: SUPERSPORT PREMIER LEAGUE" tvg-logo="https://asiagrandiptv.us/logo/supersportpremierleague.png" group-title="AFRICA",AF: SUPERSPORT PREMIER LEAGUE
+http://parkpay.live:8080/overkill/dB2hBKSxdP/135956
+#EXTINF:-1 tvg-id="supersportpsl.za" tvg-name="AF: SUPERSPORT PSL" tvg-logo="https://asiagrandiptv.us/logo/supersportpsl.png" group-title="AFRICA",AF: SUPERSPORT PSL
+http://parkpay.live:8080/overkill/dB2hBKSxdP/235538
+#EXTINF:-1 tvg-id="" tvg-name="AF: SUPERSPORT RUGBY" tvg-logo="https://asiagrandiptv.us/logo/supersportrugby.png" group-title="AFRICA",AF: SUPERSPORT RUGBY
+http://parkpay.live:8080/overkill/dB2hBKSxdP/135954
+#EXTINF:-1 tvg-id="supersporttennis.za" tvg-name="AF: SUPERSPORT TENNIS" tvg-logo="https://asiagrandiptv.us/logo/supersporttennis.png" group-title="AFRICA",AF: SUPERSPORT TENNIS
+http://parkpay.live:8080/overkill/dB2hBKSxdP/140560
+#EXTINF:-1 tvg-id="supersportvariety1.za" tvg-name="AF: SUPERSPORT VARIETY 1" tvg-logo="https://asiagrandiptv.us/logo/supersportvariety1.png" group-title="AFRICA",AF: SUPERSPORT VARIETY 1
+http://parkpay.live:8080/overkill/dB2hBKSxdP/135952
+#EXTINF:-1 tvg-id="supersportvariety2.za" tvg-name="AF: SUPERSPORT VARIETY 2" tvg-logo="https://asiagrandiptv.us/logo/supersportvariety2.png" group-title="AFRICA",AF: SUPERSPORT VARIETY 2
+http://parkpay.live:8080/overkill/dB2hBKSxdP/4367
+#EXTINF:-1 tvg-id="supersportvariety3.za" tvg-name="AF: SUPERSPORT VARIETY 3" tvg-logo="https://asiagrandiptv.us/logo/supersportvariety3.png" group-title="AFRICA",AF: SUPERSPORT VARIETY 3
+http://parkpay.live:8080/overkill/dB2hBKSxdP/135950
+#EXTINF:-1 tvg-id="supersportvariety4.za" tvg-name="AF: SUPERSPORT VARIETY 4" tvg-logo="https://asiagrandiptv.us/logo/supersportvariety4.png" group-title="AFRICA",AF: SUPERSPORT VARIETY 4
+http://parkpay.live:8080/overkill/dB2hBKSxdP/4371
+#EXTINF:-1 tvg-id="1kzn.za" tvg-name="AF: 1 KZN" tvg-logo="https://asiagrandiptv.us/logo/1kzn.png" group-title="AFRICA",AF: 1 KZN
+http://parkpay.live:8080/overkill/dB2hBKSxdP/235476
+#EXTINF:-1 tvg-id="" tvg-name="AF: 7 ENTERTAINMENT TV" tvg-logo="https://asiagrandiptv.us/logo//eentertainmenttv.png" group-title="AFRICA",AF: 7 ENTERTAINMENT TV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/9204
+#EXTINF:-1 tvg-id="" tvg-name="AF: 7 TV" tvg-logo="https://asiagrandiptv.us/logo/7tv.png" group-title="AFRICA",AF: 7 TV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/9129
+#EXTINF:-1 tvg-id="" tvg-name="AF: 2STV" tvg-logo="https://asiagrandiptv.us/logo/2stv.png" group-title="AFRICA",AF: 2STV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/9041
+#EXTINF:-1 tvg-id="" tvg-name="AF: A+" tvg-logo="https://asiagrandiptv.us/logo/aplus.png" group-title="AFRICA",AF: A+
+http://parkpay.live:8080/overkill/dB2hBKSxdP/38268
+#EXTINF:-1 tvg-id="" tvg-name="AF: A2I RELIGION" tvg-logo="https://asiagrandiptv.us/logo/a2i.png" group-title="AFRICA",AF: A2I RELIGION
+http://parkpay.live:8080/overkill/dB2hBKSxdP/9174
+#EXTINF:-1 tvg-id="" tvg-name="AF: ABN" tvg-logo="https://asiagrandiptv.us/logo/abn.png" group-title="AFRICA",AF: ABN
+http://parkpay.live:8080/overkill/dB2hBKSxdP/9066
+#EXTINF:-1 tvg-id="" tvg-name="AF: ACTION" tvg-logo="https://asiagrandiptv.us/logo/action.png" group-title="AFRICA",AF: ACTION
+http://parkpay.live:8080/overkill/dB2hBKSxdP/278753
+#EXTINF:-1 tvg-id="" tvg-name="AF: ADOM TV" tvg-logo="https://asiagrandiptv.us/logo/adomtv.png" group-title="AFRICA",AF: ADOM TV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/9042
+#EXTINF:-1 tvg-id="" tvg-name="AF: AFRICA 1" tvg-logo="https://asiagrandiptv.us/logo//AFRICA1.jpg" group-title="AFRICA",AF: AFRICA 1
+http://parkpay.live:8080/overkill/dB2hBKSxdP/9044
+#EXTINF:-1 tvg-id="" tvg-name="AF: AFRICA 2" tvg-logo="https://asiagrandiptv.us/logo//AFRICA1.jpg" group-title="AFRICA",AF: AFRICA 2
+http://parkpay.live:8080/overkill/dB2hBKSxdP/9045
+#EXTINF:-1 tvg-id="" tvg-name="AF: AFRICA 24" tvg-logo="https://asiagrandiptv.us/logo/africa24.png" group-title="AFRICA",AF: AFRICA 24
+http://parkpay.live:8080/overkill/dB2hBKSxdP/9071
+#EXTINF:-1 tvg-id="" tvg-name="AF: AFRICABLE" tvg-logo="https://asiagrandiptv.us/logo//AFRICABLE.jpg" group-title="AFRICA",AF: AFRICABLE
+http://parkpay.live:8080/overkill/dB2hBKSxdP/140317
+#EXTINF:-1 tvg-id="africamagicepic.za" tvg-name="AF: AFRICA MAGIC EPIC" tvg-logo="https://asiagrandiptv.us/logo/africamagicepic.png" group-title="AFRICA",AF: AFRICA MAGIC EPIC
+http://parkpay.live:8080/overkill/dB2hBKSxdP/4300
+#EXTINF:-1 tvg-id="africamagicfamily.za" tvg-name="AF: AFRICA MAGIC FAMILY" tvg-logo="https://asiagrandiptv.us/logo/africamagicfamily.png" group-title="AFRICA",AF: AFRICA MAGIC FAMILY
+http://parkpay.live:8080/overkill/dB2hBKSxdP/4301
+#EXTINF:-1 tvg-id="" tvg-name="AF: AFRICA NEWS" tvg-logo="https://asiagrandiptv.us/logo/africanews.png" group-title="AFRICA",AF: AFRICA NEWS
+http://parkpay.live:8080/overkill/dB2hBKSxdP/9043
+#EXTINF:-1 tvg-id="" tvg-name="AF: AFRICA NEWS EN" tvg-logo="https://asiagrandiptv.us/logo//AFRICANEWSEN.jpeg" group-title="AFRICA",AF: AFRICA NEWS EN
+http://parkpay.live:8080/overkill/dB2hBKSxdP/140489
+#EXTINF:-1 tvg-id="" tvg-name="AF: AFRICA NEWS FR" tvg-logo="https://asiagrandiptv.us/logo//AFRICANEWSFR.png" group-title="AFRICA",AF: AFRICA NEWS FR
+http://parkpay.live:8080/overkill/dB2hBKSxdP/61745
+#EXTINF:-1 tvg-id="" tvg-name="AF: AFRICA 7" tvg-logo="https://asiagrandiptv.us/logo/africa7.png" group-title="AFRICA",AF: AFRICA 7
+http://parkpay.live:8080/overkill/dB2hBKSxdP/140432
+#EXTINF:-1 tvg-id="" tvg-name="AF: AFRIQUE MEDIA" tvg-logo="https://asiagrandiptv.us/logo/afriquemediatv.png" group-title="AFRICA",AF: AFRIQUE MEDIA
+http://parkpay.live:8080/overkill/dB2hBKSxdP/38349
+#EXTINF:-1 tvg-id="" tvg-name="AF: Al Jazeera" tvg-logo="https://asiagrandiptv.us/logo/aljazeera.png" group-title="AFRICA",AF: Al Jazeera
+http://parkpay.live:8080/overkill/dB2hBKSxdP/4302
+#EXTINF:-1 tvg-id="" tvg-name="AF: ALAZHAR TOUBA" tvg-logo="https://asiagrandiptv.us/logo//ALAZHARTOUBA.png" group-title="AFRICA",AF: ALAZHAR TOUBA
+http://parkpay.live:8080/overkill/dB2hBKSxdP/9215
+#EXTINF:-1 tvg-id="" tvg-name="AF: ANIMAUX" tvg-logo="https://asiagrandiptv.us/logo/animaux.png" group-title="AFRICA",AF: ANIMAUX
+http://parkpay.live:8080/overkill/dB2hBKSxdP/278754
+#EXTINF:-1 tvg-id="" tvg-name="AF: ARISE NEWS" tvg-logo="https://asiagrandiptv.us/logo/arisenews.png" group-title="AFRICA",AF: ARISE NEWS
+http://parkpay.live:8080/overkill/dB2hBKSxdP/9107
+#EXTINF:-1 tvg-id="" tvg-name="AF: ASFIYAHI TV" tvg-logo="" group-title="AFRICA",AF: ASFIYAHI TV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/140434
+#EXTINF:-1 tvg-id="" tvg-name="AF: ASHOROOQ TV" tvg-logo="https://asiagrandiptv.us/logo/ashorooqtv.png" group-title="AFRICA",AF: ASHOROOQ TV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/140495
+#EXTINF:-1 tvg-id="" tvg-name="AF: AYV TV" tvg-logo="https://asiagrandiptv.us/logo/ayvtv.png" group-title="AFRICA",AF: AYV TV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/9171
+#EXTINF:-1 tvg-id="" tvg-name="AF: B ONE" tvg-logo="https://asiagrandiptv.us/logo/bone.png" group-title="AFRICA",AF: B ONE
+http://parkpay.live:8080/overkill/dB2hBKSxdP/278756
+#EXTINF:-1 tvg-id="" tvg-name="AF: BBLACK AFRICA" tvg-logo="https://asiagrandiptv.us/logo/bblackafrica.png" group-title="AFRICA",AF: BBLACK AFRICA
+http://parkpay.live:8080/overkill/dB2hBKSxdP/278757
+#EXTINF:-1 tvg-id="" tvg-name="AF: BICHRI TV" tvg-logo="https://asiagrandiptv.us/logo/bichritv.png" group-title="AFRICA",AF: BICHRI TV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/9203
+#EXTINF:-1 tvg-id="bloomberg.za" tvg-name="AF: BLOOMBERG" tvg-logo="https://asiagrandiptv.us/logo/bloomberg.png" group-title="AFRICA",AF: BLOOMBERG
+http://parkpay.live:8080/overkill/dB2hBKSxdP/4305
+#EXTINF:-1 tvg-id="" tvg-name="AF: C 2" tvg-logo="" group-title="AFRICA",AF: C 2
+http://parkpay.live:8080/overkill/dB2hBKSxdP/278758
+#EXTINF:-1 tvg-id="" tvg-name="AF: CANAL+ ACTION" tvg-logo="" group-title="AFRICA",AF: CANAL+ ACTION
+http://parkpay.live:8080/overkill/dB2hBKSxdP/278761
+#EXTINF:-1 tvg-id="" tvg-name="AF: CANAL+ CINEMA" tvg-logo="" group-title="AFRICA",AF: CANAL+ CINEMA
+http://parkpay.live:8080/overkill/dB2hBKSxdP/278762
+#EXTINF:-1 tvg-id="" tvg-name="AF: CANAL+ ELLES" tvg-logo="" group-title="AFRICA",AF: CANAL+ ELLES
+http://parkpay.live:8080/overkill/dB2hBKSxdP/278763
+#EXTINF:-1 tvg-id="" tvg-name="AF: CANAL+ FAMILY" tvg-logo="" group-title="AFRICA",AF: CANAL+ FAMILY
+http://parkpay.live:8080/overkill/dB2hBKSxdP/278764
+#EXTINF:-1 tvg-id="" tvg-name="AF: CANAL+ POP" tvg-logo="" group-title="AFRICA",AF: CANAL+ POP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/278765
+#EXTINF:-1 tvg-id="" tvg-name="AF: CANAL+ PREMIERE" tvg-logo="" group-title="AFRICA",AF: CANAL+ PREMIERE
+http://parkpay.live:8080/overkill/dB2hBKSxdP/278766
+#EXTINF:-1 tvg-id="" tvg-name="AF: CANAL+ SPORT 1" tvg-logo="" group-title="AFRICA",AF: CANAL+ SPORT 1
+http://parkpay.live:8080/overkill/dB2hBKSxdP/278767
+#EXTINF:-1 tvg-id="" tvg-name="AF: CANAL+ SPORT 3" tvg-logo="" group-title="AFRICA",AF: CANAL+ SPORT 3
+http://parkpay.live:8080/overkill/dB2hBKSxdP/278769
+#EXTINF:-1 tvg-id="" tvg-name="AF: CANAL+ SPORT 4" tvg-logo="https://asiagrandiptv.us/logo//CANAL+SPORT4.png" group-title="AFRICA",AF: CANAL+ SPORT 4
+http://parkpay.live:8080/overkill/dB2hBKSxdP/278770
+#EXTINF:-1 tvg-id="" tvg-name="AF: CANAL+ SPORT 5" tvg-logo="" group-title="AFRICA",AF: CANAL+ SPORT 5
+http://parkpay.live:8080/overkill/dB2hBKSxdP/278771
+#EXTINF:-1 tvg-id="capetowntv.za" tvg-name="AF: CAPE TOWN TV" tvg-logo="https://asiagrandiptv.us/logo/capetowntv.png" group-title="AFRICA",AF: CAPE TOWN TV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/4307
+#EXTINF:-1 tvg-id="cbsreality.za" tvg-name="AF: CBS REALITY" tvg-logo="https://asiagrandiptv.us/logo/cbsreality.png" group-title="AFRICA",AF: CBS REALITY
+http://parkpay.live:8080/overkill/dB2hBKSxdP/4308
+#EXTINF:-1 tvg-id="cgtnnews.za" tvg-name="AF: CGTN NEWS" tvg-logo="https://asiagrandiptv.us/logo/cgtnnews.png" group-title="AFRICA",AF: CGTN NEWS
+http://parkpay.live:8080/overkill/dB2hBKSxdP/4309
+#EXTINF:-1 tvg-id="" tvg-name="AF: CHANNELS 24 TV" tvg-logo="https://asiagrandiptv.us/logo/channels24.png" group-title="AFRICA",AF: CHANNELS 24 TV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/9104
+#EXTINF:-1 tvg-id="" tvg-name="AF: CHERIFLA TV" tvg-logo="" group-title="AFRICA",AF: CHERIFLA TV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/278772
+#EXTINF:-1 tvg-id="cnbcafrica.za" tvg-name="AF: CNBC AFRICA" tvg-logo="https://asiagrandiptv.us/logo/cnbcafrica.png" group-title="AFRICA",AF: CNBC AFRICA
+http://parkpay.live:8080/overkill/dB2hBKSxdP/235490
+#EXTINF:-1 tvg-id="comedycentral.za" tvg-name="AF: COMEDY CENTRAL" tvg-logo="https://asiagrandiptv.us/logo/comedycentral.png" group-title="AFRICA",AF: COMEDY CENTRAL
+http://parkpay.live:8080/overkill/dB2hBKSxdP/4311
+#EXTINF:-1 tvg-id="" tvg-name="AF: CONGO TV" tvg-logo="" group-title="AFRICA",AF: CONGO TV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/140339
+#EXTINF:-1 tvg-id="" tvg-name="AF: CRTV TV" tvg-logo="https://asiagrandiptv.us/logo/crtv.png" group-title="AFRICA",AF: CRTV TV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/9135
+#EXTINF:-1 tvg-id="" tvg-name="AF: CUISINES" tvg-logo="" group-title="AFRICA",AF: CUISINES
+http://parkpay.live:8080/overkill/dB2hBKSxdP/278773
+#EXTINF:-1 tvg-id="discoverychannel.za" tvg-name="AF: DISCOVERY CHANNEL" tvg-logo="https://asiagrandiptv.us/logo/discoverychannel.png" group-title="AFRICA",AF: DISCOVERY CHANNEL
+http://parkpay.live:8080/overkill/dB2hBKSxdP/235496
+#EXTINF:-1 tvg-id="disneychannel.za" tvg-name="AF: DISNEY CHANNEL" tvg-logo="https://asiagrandiptv.us/logo/disneychannel.png" group-title="AFRICA",AF: DISNEY CHANNEL
+http://parkpay.live:8080/overkill/dB2hBKSxdP/235498
+#EXTINF:-1 tvg-id="disneyjunior.za" tvg-name="AF: DISNEY JUNIOR" tvg-logo="https://asiagrandiptv.us/logo/disneyjunior.png" group-title="AFRICA",AF: DISNEY JUNIOR
+http://parkpay.live:8080/overkill/dB2hBKSxdP/235499
+#EXTINF:-1 tvg-id="" tvg-name="AF: DOVE TV" tvg-logo="https://asiagrandiptv.us/logo/dovetv.png" group-title="AFRICA",AF: DOVE TV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/9182
+#EXTINF:-1 tvg-id="" tvg-name="AF: DTV" tvg-logo="https://asiagrandiptv.us/logo//recordtv.png" group-title="AFRICA",AF: DTV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/9206
+#EXTINF:-1 tvg-id="dumisa.za" tvg-name="AF: DUMISA" tvg-logo="https://asiagrandiptv.us/logo/dumisa.png" group-title="AFRICA",AF: DUMISA
+http://parkpay.live:8080/overkill/dB2hBKSxdP/4315
+#EXTINF:-1 tvg-id="" tvg-name="AF: DUNAMIS TV" tvg-logo="https://asiagrandiptv.us/logo/dunamistv.png" group-title="AFRICA",AF: DUNAMIS TV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/140400
+#EXTINF:-1 tvg-id="emovies.za" tvg-name="AF: E MOVIES" tvg-logo="https://asiagrandiptv.us/logo/emovies.png" group-title="AFRICA",AF: E MOVIES
+http://parkpay.live:8080/overkill/dB2hBKSxdP/135994
+#EXTINF:-1 tvg-id="eentertainment.za" tvg-name="AF: ENCA" tvg-logo="https://asiagrandiptv.us/logo/enca.png" group-title="AFRICA",AF: ENCA
+http://parkpay.live:8080/overkill/dB2hBKSxdP/235503
+#EXTINF:-1 tvg-id="etoonz.za" tvg-name="AF: ETOONZ" tvg-logo="https://asiagrandiptv.us/logo/etoonz.png" group-title="AFRICA",AF: ETOONZ
+http://parkpay.live:8080/overkill/dB2hBKSxdP/4322
+#EXTINF:-1 tvg-id="eentertainment.za" tvg-name="AF: E TV AFRICA" tvg-logo="https://asiagrandiptv.us/logo/entertainment.png" group-title="AFRICA",AF: E TV AFRICA
+http://parkpay.live:8080/overkill/dB2hBKSxdP/9095
+#EXTINF:-1 tvg-id="etv.za" tvg-name="AF: ETV" tvg-logo="https://asiagrandiptv.us/logo/etv.png" group-title="AFRICA",AF: ETV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/235501
+#EXTINF:-1 tvg-id="etvextra.za" tvg-name="AF: eTV Extra" tvg-logo="https://asiagrandiptv.us/logo/etvextra.png" group-title="AFRICA",AF: eTV Extra
+http://parkpay.live:8080/overkill/dB2hBKSxdP/301047
+#EXTINF:-1 tvg-id="" tvg-name="AF: EBS TV" tvg-logo="https://asiagrandiptv.us/logo/ebs.png" group-title="AFRICA",AF: EBS TV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/140377
+#EXTINF:-1 tvg-id="emmanueltv.za" tvg-name="AF: EMMANUEL TV" tvg-logo="https://asiagrandiptv.us/logo/emmanueltv.png" group-title="AFRICA",AF: EMMANUEL TV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/4318
+#EXTINF:-1 tvg-id="emoviesextra.za" tvg-name="AF: EMOVIES EXTRA" tvg-logo="https://asiagrandiptv.us/logo/emoviesextra.png" group-title="AFRICA",AF: EMOVIES EXTRA
+http://parkpay.live:8080/overkill/dB2hBKSxdP/4317
+#EXTINF:-1 tvg-id="" tvg-name="AF: ERI TV" tvg-logo="https://asiagrandiptv.us/logo/eritv.png" group-title="AFRICA",AF: ERI TV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/140347
+#EXTINF:-1 tvg-id="" tvg-name="AF: MGGTV" tvg-logo="https://asiagrandiptv.us/logo/es1.png" group-title="AFRICA",AF: MGGTV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/278774
+#EXTINF:-1 tvg-id="" tvg-name="AF: ESPACE TV" tvg-logo="https://asiagrandiptv.us/logo//ESPACE.jpg" group-title="AFRICA",AF: ESPACE TV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/9092
+#EXTINF:-1 tvg-id="" tvg-name="AF: EUROSPORT 1" tvg-logo="https://asiagrandiptv.us/logo/eurosport1.png" group-title="AFRICA",AF: EUROSPORT 1
+http://parkpay.live:8080/overkill/dB2hBKSxdP/278775
+#EXTINF:-1 tvg-id="" tvg-name="AF: EUROSPORT 2" tvg-logo="https://asiagrandiptv.us/logo/eurosport2.png" group-title="AFRICA",AF: EUROSPORT 2
+http://parkpay.live:8080/overkill/dB2hBKSxdP/278776
+#EXTINF:-1 tvg-id="" tvg-name="AF: FASHION TV" tvg-logo="https://asiagrandiptv.us/logo/fashiontv.png" group-title="AFRICA",AF: FASHION TV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/78372
+#EXTINF:-1 tvg-id="foodnetwork.za" tvg-name="AF: FOOD NETWORK" tvg-logo="https://asiagrandiptv.us/logo/foodnetwork.png" group-title="AFRICA",AF: FOOD NETWORK
+http://parkpay.live:8080/overkill/dB2hBKSxdP/301025
+#EXTINF:-1 tvg-id="" tvg-name="AF: FRANCE 24" tvg-logo="https://asiagrandiptv.us/logo/france24.png" group-title="AFRICA",AF: FRANCE 24
+http://parkpay.live:8080/overkill/dB2hBKSxdP/278778
+#EXTINF:-1 tvg-id="" tvg-name="AF: GABON 1" tvg-logo="https://asiagrandiptv.us/logo//GABON1.jpg" group-title="AFRICA",AF: GABON 1
+http://parkpay.live:8080/overkill/dB2hBKSxdP/278779
+#EXTINF:-1 tvg-id="" tvg-name="AF: GAME ONE" tvg-logo="https://asiagrandiptv.us/logo/gameone.png" group-title="AFRICA",AF: GAME ONE
+http://parkpay.live:8080/overkill/dB2hBKSxdP/278780
+#EXTINF:-1 tvg-id="gautv.za" tvg-name="AF: GAU TV" tvg-logo="https://asiagrandiptv.us/logo/gautv.png" group-title="AFRICA",AF: GAU TV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/4325
+#EXTINF:-1 tvg-id="" tvg-name="AF: GHANA TV" tvg-logo="https://asiagrandiptv.us/logo//GHANATV.jpg" group-title="AFRICA",AF: GHANA TV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/9122
+#EXTINF:-1 tvg-id="" tvg-name="AF: GTV" tvg-logo="https://asiagrandiptv.us/logo/gtv.png" group-title="AFRICA",AF: GTV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/9058
+#EXTINF:-1 tvg-id="" tvg-name="AF: GULLI" tvg-logo="https://asiagrandiptv.us/logo/gulli.png" group-title="AFRICA",AF: GULLI
+http://parkpay.live:8080/overkill/dB2hBKSxdP/278781
+#EXTINF:-1 tvg-id="" tvg-name="AF: IBN TV" tvg-logo="https://asiagrandiptv.us/logo//IBNTV.png" group-title="AFRICA",AF: IBN TV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/9068
+#EXTINF:-1 tvg-id="ignition.za" tvg-name="AF: IGNITION" tvg-logo="https://asiagrandiptv.us/logo/ignition.png" group-title="AFRICA",AF: IGNITION
+http://parkpay.live:8080/overkill/dB2hBKSxdP/4329
+#EXTINF:-1 tvg-id="" tvg-name="AF: IMPACT TV" tvg-logo="https://asiagrandiptv.us/logo/impacttv.png" group-title="AFRICA",AF: IMPACT TV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/61760
+#EXTINF:-1 tvg-id="" tvg-name="AF: IS+" tvg-logo="" group-title="AFRICA",AF: IS+
+http://parkpay.live:8080/overkill/dB2hBKSxdP/278782
+#EXTINF:-1 tvg-id="" tvg-name="AF: J ONE" tvg-logo="https://asiagrandiptv.us/logo/jone.png" group-title="AFRICA",AF: J ONE
+http://parkpay.live:8080/overkill/dB2hBKSxdP/278783
+#EXTINF:-1 tvg-id="jimjam.za" tvg-name="AF: JIM JAM" tvg-logo="https://asiagrandiptv.us/logo/jimjam.png" group-title="AFRICA",AF: JIM JAM
+http://parkpay.live:8080/overkill/dB2hBKSxdP/301029
+#EXTINF:-1 tvg-id="" tvg-name="AF: JOY NEWS" tvg-logo="https://asiagrandiptv.us/logo/joynews.png" group-title="AFRICA",AF: JOY NEWS
+http://parkpay.live:8080/overkill/dB2hBKSxdP/9123
+#EXTINF:-1 tvg-id="" tvg-name="AF: JOY NEWS GHANA" tvg-logo="https://asiagrandiptv.us/logo/joynewsghana.png" group-title="AFRICA",AF: JOY NEWS GHANA
+http://parkpay.live:8080/overkill/dB2hBKSxdP/140368
+#EXTINF:-1 tvg-id="" tvg-name="AF: JOY PRIME" tvg-logo="https://asiagrandiptv.us/logo//joyprime.png" group-title="AFRICA",AF: JOY PRIME
+http://parkpay.live:8080/overkill/dB2hBKSxdP/301030
+#EXTINF:-1 tvg-id="" tvg-name="AF: KALSAN TV" tvg-logo="https://asiagrandiptv.us/logo//logokalsantv3.png" group-title="AFRICA",AF: KALSAN TV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/140457
+#EXTINF:-1 tvg-id="" tvg-name="AF: KYKNET" tvg-logo="https://asiagrandiptv.us/logo/kyknet.png" group-title="AFRICA",AF: KYKNET
+http://parkpay.live:8080/overkill/dB2hBKSxdP/4332
+#EXTINF:-1 tvg-id="" tvg-name="AF: LCI" tvg-logo="https://asiagrandiptv.us/logo/lci.png" group-title="AFRICA",AF: LCI
+http://parkpay.live:8080/overkill/dB2hBKSxdP/278784
+#EXTINF:-1 tvg-id="" tvg-name="AF: LOVEWORLD PLUS TV" tvg-logo="https://asiagrandiptv.us/logo/loveworldplus.png" group-title="AFRICA",AF: LOVEWORLD PLUS TV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/9054
+#EXTINF:-1 tvg-id="mnet.za" tvg-name="AF: M-NET" tvg-logo="https://asiagrandiptv.us/logo/mnet.png" group-title="AFRICA",AF: M-NET
+http://parkpay.live:8080/overkill/dB2hBKSxdP/4334
+#EXTINF:-1 tvg-id="mmovies1.za" tvg-name="AF: M-Net Movies 1" tvg-logo="https://asiagrandiptv.us/logo/mnetmovies1.png" group-title="AFRICA",AF: M-Net Movies 1
+http://parkpay.live:8080/overkill/dB2hBKSxdP/4338
+#EXTINF:-1 tvg-id="mmovies2.za" tvg-name="AF: M-NET MOVIES 2" tvg-logo="https://asiagrandiptv.us/logo/mnetmovies2.png" group-title="AFRICA",AF: M-NET MOVIES 2
+http://parkpay.live:8080/overkill/dB2hBKSxdP/4335
+#EXTINF:-1 tvg-id="mmovies3.za" tvg-name="AF: M-Net Movies 3" tvg-logo="https://asiagrandiptv.us/logo/mnetmovies3.png" group-title="AFRICA",AF: M-Net Movies 3
+http://parkpay.live:8080/overkill/dB2hBKSxdP/4339
+#EXTINF:-1 tvg-id="mmovies4.za" tvg-name="AF: M-NET MOVIES 4" tvg-logo="https://asiagrandiptv.us/logo/mnetmovies4.png" group-title="AFRICA",AF: M-NET MOVIES 4
+http://parkpay.live:8080/overkill/dB2hBKSxdP/301032
+#EXTINF:-1 tvg-id="" tvg-name="AF: M6 INTERNATIONAL" tvg-logo="" group-title="AFRICA",AF: M6 INTERNATIONAL
+http://parkpay.live:8080/overkill/dB2hBKSxdP/278785
+#EXTINF:-1 tvg-id="mindset.za" tvg-name="AF: MINDSET" tvg-logo="https://asiagrandiptv.us/logo/mindset.png" group-title="AFRICA",AF: MINDSET
+http://parkpay.live:8080/overkill/dB2hBKSxdP/235428
+#EXTINF:-1 tvg-id="" tvg-name="AF: MOURIDE TV" tvg-logo="https://asiagrandiptv.us/logo/mouridetv.png" group-title="AFRICA",AF: MOURIDE TV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/9200
+#EXTINF:-1 tvg-id="mtvbase.za" tvg-name="AF: MTV BASE" tvg-logo="https://asiagrandiptv.us/logo/mtvbase.png" group-title="AFRICA",AF: MTV BASE
+http://parkpay.live:8080/overkill/dB2hBKSxdP/4344
+#EXTINF:-1 tvg-id="mzansimagic.za" tvg-name="AF: MZANSI MAGIC" tvg-logo="https://asiagrandiptv.us/logo/mzansimagic.png" group-title="AFRICA",AF: MZANSI MAGIC
+http://parkpay.live:8080/overkill/dB2hBKSxdP/170271
+#EXTINF:-1 tvg-id="natgeo.za" tvg-name="AF: NAT GEO" tvg-logo="https://asiagrandiptv.us/logo/natgeo.png" group-title="AFRICA",AF: NAT GEO
+http://parkpay.live:8080/overkill/dB2hBKSxdP/136000
+#EXTINF:-1 tvg-id="natgeowild.za" tvg-name="AF: NAT GEO WILD" tvg-logo="https://asiagrandiptv.us/logo//NATGEOWILD.png" group-title="AFRICA",AF: NAT GEO WILD
+http://parkpay.live:8080/overkill/dB2hBKSxdP/136001
+#EXTINF:-1 tvg-id="" tvg-name="AF: NBA TV" tvg-logo="https://asiagrandiptv.us/logo/nbatv.png" group-title="AFRICA",AF: NBA TV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/278787
+#EXTINF:-1 tvg-id="ndtv247.za" tvg-name="AF: NDTV 24/7" tvg-logo="https://asiagrandiptv.us/logo/ndtv24x7.png" group-title="AFRICA",AF: NDTV 24/7
+http://parkpay.live:8080/overkill/dB2hBKSxdP/4347
+#EXTINF:-1 tvg-id="nickelodeon.za" tvg-name="AF: NICKELODEON FR" tvg-logo="https://asiagrandiptv.us/logo/NICKELODEONE.png" group-title="AFRICA",AF: NICKELODEON FR
+http://parkpay.live:8080/overkill/dB2hBKSxdP/4349
+#EXTINF:-1 tvg-id="" tvg-name="AF: NILE CINEMA" tvg-logo="https://asiagrandiptv.us/logo/nilecinema.png" group-title="AFRICA",AF: NILE CINEMA
+http://parkpay.live:8080/overkill/dB2hBKSxdP/38075
+#EXTINF:-1 tvg-id="" tvg-name="AF: NOLLYWOOD EPIC" tvg-logo="" group-title="AFRICA",AF: NOLLYWOOD EPIC
+http://parkpay.live:8080/overkill/dB2hBKSxdP/278788
+#EXTINF:-1 tvg-id="" tvg-name="AF: NOLLYWOOD TV" tvg-logo="https://asiagrandiptv.us/logo//nollywoodtv.png" group-title="AFRICA",AF: NOLLYWOOD TV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/9218
+#EXTINF:-1 tvg-id="" tvg-name="AF: NOVELAS TV" tvg-logo="https://asiagrandiptv.us/logo/novelastv.png" group-title="AFRICA",AF: NOVELAS TV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/140534
+#EXTINF:-1 tvg-id="" tvg-name="AF: NTV" tvg-logo="https://asiagrandiptv.us/logo/ntv.png" group-title="AFRICA",AF: NTV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/140383
+#EXTINF:-1 tvg-id="" tvg-name="AF: NTV KENYA" tvg-logo="" group-title="AFRICA",AF: NTV KENYA
+http://parkpay.live:8080/overkill/dB2hBKSxdP/135946
+#EXTINF:-1 tvg-id="" tvg-name="AF: NW MAGAZINE TOGO" tvg-logo="https://asiagrandiptv.us/logo//NWMAGAZINETOGO.png" group-title="AFRICA",AF: NW MAGAZINE TOGO
+http://parkpay.live:8080/overkill/dB2hBKSxdP/38155
+#EXTINF:-1 tvg-id="" tvg-name="AF: ORTB" tvg-logo="https://asiagrandiptv.us/logo/ortb.png" group-title="AFRICA",AF: ORTB
+http://parkpay.live:8080/overkill/dB2hBKSxdP/38338
+#EXTINF:-1 tvg-id="" tvg-name="AF: ORTM" tvg-logo="https://asiagrandiptv.us/logo/ortm.png" group-title="AFRICA",AF: ORTM
+http://parkpay.live:8080/overkill/dB2hBKSxdP/9078
+#EXTINF:-1 tvg-id="parliamentaryservice.za" tvg-name="AF: PARLIAMENTARY SERVICE" tvg-logo="https://asiagrandiptv.us/logo/parliamentaryservice.png" group-title="AFRICA",AF: PARLIAMENTARY SERVICE
+http://parkpay.live:8080/overkill/dB2hBKSxdP/4350
+#EXTINF:-1 tvg-id="pbskids.za" tvg-name="AF: PBS KIDS" tvg-logo="https://asiagrandiptv.us/logo/pbskids.png" group-title="AFRICA",AF: PBS KIDS
+http://parkpay.live:8080/overkill/dB2hBKSxdP/235528
+#EXTINF:-1 tvg-id="" tvg-name="AF: PLANET+" tvg-logo="" group-title="AFRICA",AF: PLANET+
+http://parkpay.live:8080/overkill/dB2hBKSxdP/278791
+#EXTINF:-1 tvg-id="" tvg-name="AF: PLAY TV" tvg-logo="https://asiagrandiptv.us/logo/playtv.png" group-title="AFRICA",AF: PLAY TV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/9155
+#EXTINF:-1 tvg-id="" tvg-name="AF: PIWI+" tvg-logo="https://asiagrandiptv.us/logo//PIWI+.jpg" group-title="AFRICA",AF: PIWI+
+http://parkpay.live:8080/overkill/dB2hBKSxdP/140329
+#EXTINF:-1 tvg-id="" tvg-name="AF: PUNTLAND" tvg-logo="https://asiagrandiptv.us/logo/puntland.png" group-title="AFRICA",AF: PUNTLAND
+http://parkpay.live:8080/overkill/dB2hBKSxdP/140459
+#EXTINF:-1 tvg-id="" tvg-name="AF: RAI ITALIA" tvg-logo="https://asiagrandiptv.us/logo/raiitalia.png" group-title="AFRICA",AF: RAI ITALIA
+http://parkpay.live:8080/overkill/dB2hBKSxdP/235531
+#EXTINF:-1 tvg-id="" tvg-name="AF: RAVE TV" tvg-logo="https://asiagrandiptv.us/logo/ravetv.png" group-title="AFRICA",AF: RAVE TV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/9077
+#EXTINF:-1 tvg-id="" tvg-name="AF: REAL TIME" tvg-logo="https://asiagrandiptv.us/logo/realtime.png" group-title="AFRICA",AF: REAL TIME
+http://parkpay.live:8080/overkill/dB2hBKSxdP/9325
+#EXTINF:-1 tvg-id="" tvg-name="AF: RESURRECTION TV" tvg-logo="https://asiagrandiptv.us/logo/resurrectiontv.png" group-title="AFRICA",AF: RESURRECTION TV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/9196
+#EXTINF:-1 tvg-id="" tvg-name="AF: RMC SPORT 1" tvg-logo="https://asiagrandiptv.us/logo/rmcsport1.png" group-title="AFRICA",AF: RMC SPORT 1
+http://parkpay.live:8080/overkill/dB2hBKSxdP/278792
+#EXTINF:-1 tvg-id="rok.za" tvg-name="AF: ROK TV" tvg-logo="https://asiagrandiptv.us/logo/roktv.png" group-title="AFRICA",AF: ROK TV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/9085
+#EXTINF:-1 tvg-id="" tvg-name="AF: RTB TV" tvg-logo="https://asiagrandiptv.us/logo//ortbtv.png" group-title="AFRICA",AF: RTB TV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/9076
+#EXTINF:-1 tvg-id="" tvg-name="AF: RTG" tvg-logo="https://asiagrandiptv.us/logo//RTG.jpg" group-title="AFRICA",AF: RTG
+http://parkpay.live:8080/overkill/dB2hBKSxdP/140544
+#EXTINF:-1 tvg-id="" tvg-name="AF: RTI 1" tvg-logo="https://asiagrandiptv.us/logo/rti1.png" group-title="AFRICA",AF: RTI 1
+http://parkpay.live:8080/overkill/dB2hBKSxdP/9075
+#EXTINF:-1 tvg-id="" tvg-name="AF: RTI 2" tvg-logo="https://asiagrandiptv.us/logo/rti2.png" group-title="AFRICA",AF: RTI 2
+http://parkpay.live:8080/overkill/dB2hBKSxdP/140442
+#EXTINF:-1 tvg-id="" tvg-name="AF: RTL 9" tvg-logo="https://asiagrandiptv.us/logo/rtl9.png" group-title="AFRICA",AF: RTL 9
+http://parkpay.live:8080/overkill/dB2hBKSxdP/278793
+#EXTINF:-1 tvg-id="" tvg-name="AF: RTNC" tvg-logo="https://asiagrandiptv.us/logo/rtnc.png" group-title="AFRICA",AF: RTNC
+http://parkpay.live:8080/overkill/dB2hBKSxdP/140344
+#EXTINF:-1 tvg-id="rtpinternacional.za" tvg-name="AF: RTP INTERNACIONAL" tvg-logo="https://asiagrandiptv.us/logo/rtpinternacional.png" group-title="AFRICA",AF: RTP INTERNACIONAL
+http://parkpay.live:8080/overkill/dB2hBKSxdP/9326
+#EXTINF:-1 tvg-id="" tvg-name="AF: RTS 1" tvg-logo="https://asiagrandiptv.us/logo/rts1.png" group-title="AFRICA",AF: RTS 1
+http://parkpay.live:8080/overkill/dB2hBKSxdP/9072
+#EXTINF:-1 tvg-id="" tvg-name="AF: RTS 2" tvg-logo="https://asiagrandiptv.us/logo/rts2.png" group-title="AFRICA",AF: RTS 2
+http://parkpay.live:8080/overkill/dB2hBKSxdP/9147
+#EXTINF:-1 tvg-id="" tvg-name="AF: RTV" tvg-logo="https://asiagrandiptv.us/logo/rtv.png" group-title="AFRICA",AF: RTV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/9250
+#EXTINF:-1 tvg-id="" tvg-name="AF: RWANDA TV" tvg-logo="https://asiagrandiptv.us/logo/rwandatv.png" group-title="AFRICA",AF: RWANDA TV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/9252
+#EXTINF:-1 tvg-id="" tvg-name="AF: SAAB TV" tvg-logo="" group-title="AFRICA",AF: SAAB TV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/140461
+#EXTINF:-1 tvg-id="sabc1.za" tvg-name="AF: SABC 1" tvg-logo="https://asiagrandiptv.us/logo/sabc1.png" group-title="AFRICA",AF: SABC 1
+http://parkpay.live:8080/overkill/dB2hBKSxdP/4357
+#EXTINF:-1 tvg-id="sabc2.za" tvg-name="AF: SABC 2" tvg-logo="https://asiagrandiptv.us/logo/sabc2.png" group-title="AFRICA",AF: SABC 2
+http://parkpay.live:8080/overkill/dB2hBKSxdP/4358
+#EXTINF:-1 tvg-id="sabc3.za" tvg-name="AF: SABC 3" tvg-logo="https://asiagrandiptv.us/logo/sabc3.png" group-title="AFRICA",AF: SABC 3
+http://parkpay.live:8080/overkill/dB2hBKSxdP/4359
+#EXTINF:-1 tvg-id="sabcnews.za" tvg-name="AF: SABC NEWS" tvg-logo="https://asiagrandiptv.us/logo/sabcnews.png" group-title="AFRICA",AF: SABC NEWS
+http://parkpay.live:8080/overkill/dB2hBKSxdP/4360
+#EXTINF:-1 tvg-id="" tvg-name="AF: SEN TV" tvg-logo="https://asiagrandiptv.us/logo/sentv.png" group-title="AFRICA",AF: SEN TV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/9087
+#EXTINF:-1 tvg-id="" tvg-name="AF: SKY NEWS" tvg-logo="https://asiagrandiptv.us/logo/skysportnews.png" group-title="AFRICA",AF: SKY NEWS
+http://parkpay.live:8080/overkill/dB2hBKSxdP/4377
+#EXTINF:-1 tvg-id="" tvg-name="AF: SOMALI CABLE" tvg-logo="https://asiagrandiptv.us/logo/somalicable.png" group-title="AFRICA",AF: SOMALI CABLE
+http://parkpay.live:8080/overkill/dB2hBKSxdP/140463
+#EXTINF:-1 tvg-id="soundcity.za" tvg-name="AF: SOUND CITY" tvg-logo="https://asiagrandiptv.us/logo/soundcity.png" group-title="AFRICA",AF: SOUND CITY
+http://parkpay.live:8080/overkill/dB2hBKSxdP/4361
+#EXTINF:-1 tvg-id="sowetotv.za" tvg-name="AF: SOWETO TV" tvg-logo="https://asiagrandiptv.us/logo/sowetotv.png" group-title="AFRICA",AF: SOWETO TV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/4362
+#EXTINF:-1 tvg-id="spicetv.za" tvg-name="AF: SPICE TV" tvg-logo="https://asiagrandiptv.us/logo/spicetv.png" group-title="AFRICA",AF: SPICE TV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/235535
+#EXTINF:-1 tvg-id="starlife.za" tvg-name="AF: STAR LIFE" tvg-logo="https://asiagrandiptv.us/logo/starlife.png" group-title="AFRICA",AF: STAR LIFE
+http://parkpay.live:8080/overkill/dB2hBKSxdP/4364
+#EXTINF:-1 tvg-id="" tvg-name="AF: STV" tvg-logo="https://asiagrandiptv.us/logo/stv.png" group-title="AFRICA",AF: STV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/61781
+#EXTINF:-1 tvg-id="" tvg-name="AF: SUNU YEUF" tvg-logo="" group-title="AFRICA",AF: SUNU YEUF
+http://parkpay.live:8080/overkill/dB2hBKSxdP/278794
+#EXTINF:-1 tvg-id="" tvg-name="AF: SYFY" tvg-logo="https://asiagrandiptv.us/logo/syfy.png" group-title="AFRICA",AF: SYFY
+http://parkpay.live:8080/overkill/dB2hBKSxdP/278795
+#EXTINF:-1 tvg-id="" tvg-name="AF: TELE CONGO" tvg-logo="https://asiagrandiptv.us/logo//TELECONGO.png" group-title="AFRICA",AF: TELE CONGO
+http://parkpay.live:8080/overkill/dB2hBKSxdP/61782
+#EXTINF:-1 tvg-id="" tvg-name="AF: TELE TCHAD" tvg-logo="https://asiagrandiptv.us/logo/teletchad.png" group-title="AFRICA",AF: TELE TCHAD
+http://parkpay.live:8080/overkill/dB2hBKSxdP/9110
+#EXTINF:-1 tvg-id="" tvg-name="AF: TELETOON+" tvg-logo="" group-title="AFRICA",AF: TELETOON+
+http://parkpay.live:8080/overkill/dB2hBKSxdP/278796
+#EXTINF:-1 tvg-id="tellytrack.za" tvg-name="AF: TELLYTRACK" tvg-logo="https://asiagrandiptv.us/logo/tellytrack.png" group-title="AFRICA",AF: TELLYTRACK
+http://parkpay.live:8080/overkill/dB2hBKSxdP/235543
+#EXTINF:-1 tvg-id="" tvg-name="AF: TF1" tvg-logo="https://asiagrandiptv.us/logo/tf1.png" group-title="AFRICA",AF: TF1
+http://parkpay.live:8080/overkill/dB2hBKSxdP/278797
+#EXTINF:-1 tvg-id="" tvg-name="AF: TFM" tvg-logo="https://asiagrandiptv.us/logo/tfm.png" group-title="AFRICA",AF: TFM
+http://parkpay.live:8080/overkill/dB2hBKSxdP/140447
+#EXTINF:-1 tvg-id="" tvg-name="AF: TFM RELIGIONS" tvg-logo="https://asiagrandiptv.us/logo/tfmreligions.png" group-title="AFRICA",AF: TFM RELIGIONS
+http://parkpay.live:8080/overkill/dB2hBKSxdP/140448
+#EXTINF:-1 tvg-id="" tvg-name="AF: TFX" tvg-logo="https://asiagrandiptv.us/logo/tfx.png" group-title="AFRICA",AF: TFX
+http://parkpay.live:8080/overkill/dB2hBKSxdP/278798
+#EXTINF:-1 tvg-id="thehomechannel.za" tvg-name="AF: THE HOME CHANNEL" tvg-logo="https://asiagrandiptv.us/logo/thehomechannel.png" group-title="AFRICA",AF: THE HOME CHANNEL
+http://parkpay.live:8080/overkill/dB2hBKSxdP/4381
+#EXTINF:-1 tvg-id="" tvg-name="AF: TIJI" tvg-logo="https://asiagrandiptv.us/logo/tiji.png" group-title="AFRICA",AF: TIJI
+http://parkpay.live:8080/overkill/dB2hBKSxdP/278799
+#EXTINF:-1 tvg-id="" tvg-name="AF: TLC" tvg-logo="https://asiagrandiptv.us/logo/tlc.png" group-title="AFRICA",AF: TLC
+http://parkpay.live:8080/overkill/dB2hBKSxdP/301040
+#EXTINF:-1 tvg-id="" tvg-name="AF: TOUBA TV" tvg-logo="https://asiagrandiptv.us/logo/toubatv.png" group-title="AFRICA",AF: TOUBA TV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/140450
+#EXTINF:-1 tvg-id="" tvg-name="AF: TPA" tvg-logo="https://asiagrandiptv.us/logo/tpa.png" group-title="AFRICA",AF: TPA
+http://parkpay.live:8080/overkill/dB2hBKSxdP/9117
+#EXTINF:-1 tvg-id="traceafrica.za" tvg-name="AF: TRACE AFRICA" tvg-logo="https://asiagrandiptv.us/logo/traceafrica.png" group-title="AFRICA",AF: TRACE AFRICA
+http://parkpay.live:8080/overkill/dB2hBKSxdP/172607
+#EXTINF:-1 tvg-id="" tvg-name="AF: TRACE GOSPEL" tvg-logo="https://asiagrandiptv.us/logo/tracegospel.png" group-title="AFRICA",AF: TRACE GOSPEL
+http://parkpay.live:8080/overkill/dB2hBKSxdP/172608
+#EXTINF:-1 tvg-id="" tvg-name="AF: TRACE MZIKI" tvg-logo="https://asiagrandiptv.us/logo//tracemziki.png" group-title="AFRICA",AF: TRACE MZIKI
+http://parkpay.live:8080/overkill/dB2hBKSxdP/9270
+#EXTINF:-1 tvg-id="" tvg-name="AF: TRACE KITOKO" tvg-logo="https://asiagrandiptv.us/logo/tracekitoko.png" group-title="AFRICA",AF: TRACE KITOKO
+http://parkpay.live:8080/overkill/dB2hBKSxdP/9273
+#EXTINF:-1 tvg-id="" tvg-name="AF: TREK" tvg-logo="https://asiagrandiptv.us/logo/trek.png" group-title="AFRICA",AF: TREK
+http://parkpay.live:8080/overkill/dB2hBKSxdP/278802
+#EXTINF:-1 tvg-id="tshwanetv.za" tvg-name="AF: TSHWANE TV" tvg-logo="https://asiagrandiptv.us/logo/tshwanetv.png" group-title="AFRICA",AF: TSHWANE TV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/4384
+#EXTINF:-1 tvg-id="" tvg-name="AF: TV FRANCOPHONIE 24" tvg-logo="" group-title="AFRICA",AF: TV FRANCOPHONIE 24
+http://parkpay.live:8080/overkill/dB2hBKSxdP/140571
+#EXTINF:-1 tvg-id="tv5mondeafrique.za" tvg-name="AF: TV5 MONDE EUROPE" tvg-logo="https://asiagrandiptv.us/logo/tv5mondeeurope.png" group-title="AFRICA",AF: TV5 MONDE EUROPE
+http://parkpay.live:8080/overkill/dB2hBKSxdP/140358
+#EXTINF:-1 tvg-id="" tvg-name="AF: TV7 COLMAR" tvg-logo="https://asiagrandiptv.us/logo/tv7colmar.png" group-title="AFRICA",AF: TV7 COLMAR
+http://parkpay.live:8080/overkill/dB2hBKSxdP/140355
+#EXTINF:-1 tvg-id="" tvg-name="AF: C NEWS" tvg-logo="https://asiagrandiptv.us/logo/tvcnews.png" group-title="AFRICA",AF: C NEWS
+http://parkpay.live:8080/overkill/dB2hBKSxdP/140425
+#EXTINF:-1 tvg-id="" tvg-name="AF: TVC NEWS NIGERIA" tvg-logo="https://asiagrandiptv.us/logo/tvcnews.png" group-title="AFRICA",AF: TVC NEWS NIGERIA
+http://parkpay.live:8080/overkill/dB2hBKSxdP/264152
+#EXTINF:-1 tvg-id="" tvg-name="AF: TVM" tvg-logo="https://asiagrandiptv.us/logo/tvm.png" group-title="AFRICA",AF: TVM
+http://parkpay.live:8080/overkill/dB2hBKSxdP/61365
+#EXTINF:-1 tvg-id="" tvg-name="AF: TVM 2" tvg-logo="https://asiagrandiptv.us/logo/tvm2.png" group-title="AFRICA",AF: TVM 2
+http://parkpay.live:8080/overkill/dB2hBKSxdP/140391
+#EXTINF:-1 tvg-id="" tvg-name="AF: TVT" tvg-logo="https://asiagrandiptv.us/logo/tvt.png" group-title="AFRICA",AF: TVT
+http://parkpay.live:8080/overkill/dB2hBKSxdP/9257
+#EXTINF:-1 tvg-id="" tvg-name="AF: UNIVERSAL TV" tvg-logo="https://asiagrandiptv.us/logo/universaltv.png" group-title="AFRICA",AF: UNIVERSAL TV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/140573
+#EXTINF:-1 tvg-id="" tvg-name="AF: Vox Africa" tvg-logo="https://asiagrandiptv.us/logo/voxafrica.png" group-title="AFRICA",AF: Vox Africa
+http://parkpay.live:8080/overkill/dB2hBKSxdP/38060
+#EXTINF:-1 tvg-id="" tvg-name="AF: WALF TV" tvg-logo="https://asiagrandiptv.us/logo//WALFTV.jpg" group-title="AFRICA",AF: WALF TV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/9116
+#EXTINF:-1 tvg-id="" tvg-name="AF: WES AFRICA" tvg-logo="https://asiagrandiptv.us/logo/wesafricatv.png" group-title="AFRICA",AF: WES AFRICA
+http://parkpay.live:8080/overkill/dB2hBKSxdP/61788
+#EXTINF:-1 tvg-id="" tvg-name="AF: WWE SUPERSLAM" tvg-logo="https://asiagrandiptv.us/logo/wwesuperslam.png" group-title="AFRICA",AF: WWE SUPERSLAM
+http://parkpay.live:8080/overkill/dB2hBKSxdP/4387
+#EXTINF:-1 tvg-id="" tvg-name="AF: KYKNET & KIE" tvg-logo="https://asiagrandiptv.us/logo/kyknetkie.png" group-title="AFRICA",AF: KYKNET & KIE
+http://parkpay.live:8080/overkill/dB2hBKSxdP/342787
+#EXTINF:-1 tvg-id="via.za" tvg-name="AF: VIA" tvg-logo="https://asiagrandiptv.us/logo/via.png" group-title="AFRICA",AF: VIA
+http://parkpay.live:8080/overkill/dB2hBKSxdP/309711
+#EXTINF:-1 tvg-id="" tvg-name="AF: STAR TV" tvg-logo="https://asiagrandiptv.us/logo/startv.png" group-title="AFRICA",AF: STAR TV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/344056
+#EXTINF:-1 tvg-id="" tvg-name="AF: CANAL+ SPORT" tvg-logo="https://asiagrandiptv.us/logo//CANAL+SPORT.png" group-title="AFRICA",AF: CANAL+ SPORT
+http://parkpay.live:8080/overkill/dB2hBKSxdP/344051
+#EXTINF:-1 tvg-id="" tvg-name="AF: AFRICA MUSIC" tvg-logo="" group-title="AFRICA",AF: AFRICA MUSIC
+http://parkpay.live:8080/overkill/dB2hBKSxdP/344002
+#EXTINF:-1 tvg-id="" tvg-name="AF: MTV MUSIC 24" tvg-logo="https://asiagrandiptv.us/logo/mtvmusic24.png" group-title="AFRICA",AF: MTV MUSIC 24
+http://parkpay.live:8080/overkill/dB2hBKSxdP/3969
+#EXTINF:-1 tvg-id="" tvg-name="AF: AFRO MUSIC" tvg-logo="https://asiagrandiptv.us/logo/afromusic.png" group-title="AFRICA",AF: AFRO MUSIC
+http://parkpay.live:8080/overkill/dB2hBKSxdP/108
+#EXTINF:-1 tvg-id="discoveryid.za" tvg-name="AF: INVESTIGATION DISCOVERY" tvg-logo="https://asiagrandiptv.us/logo/investigationdiscovery.png" group-title="AFRICA",AF: INVESTIGATION DISCOVERY
+http://parkpay.live:8080/overkill/dB2hBKSxdP/309883
+#EXTINF:-1 tvg-id="" tvg-name="AF: EQUINOXE TV" tvg-logo="" group-title="AFRICA",AF: EQUINOXE TV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/310455
+#EXTINF:-1 tvg-id="1magic.za" tvg-name="AF: 1 MAGIC" tvg-logo="https://asiagrandiptv.us/logo/1magic.png" group-title="AFRICA",AF: 1 MAGIC
+http://parkpay.live:8080/overkill/dB2hBKSxdP/309979
+#EXTINF:-1 tvg-id="" tvg-name="AF: AIT" tvg-logo="" group-title="AFRICA",AF: AIT
+http://parkpay.live:8080/overkill/dB2hBKSxdP/309976
+#EXTINF:-1 tvg-id="africamagicurban.za" tvg-name="AF: AFRICA MAGIC URBAN" tvg-logo="https://asiagrandiptv.us/logo/africamagicurban.png" group-title="AFRICA",AF: AFRICA MAGIC URBAN
+http://parkpay.live:8080/overkill/dB2hBKSxdP/309970
+#EXTINF:-1 tvg-id="bbcbrit.za" tvg-name="AF: BBC BRIT" tvg-logo="https://asiagrandiptv.us/logo/bbcbrit.png" group-title="AFRICA",AF: BBC BRIT
+http://parkpay.live:8080/overkill/dB2hBKSxdP/309956
+#EXTINF:-1 tvg-id="bbcearth.za" tvg-name="AF: BBC EARTH" tvg-logo="https://asiagrandiptv.us/logo/bbcearth.png" group-title="AFRICA",AF: BBC EARTH
+http://parkpay.live:8080/overkill/dB2hBKSxdP/309955
+#EXTINF:-1 tvg-id="bbclifestyle.za" tvg-name="AF: BBC LIFESTYLE" tvg-logo="https://asiagrandiptv.us/logo/bbclifestyle.png" group-title="AFRICA",AF: BBC LIFESTYLE
+http://parkpay.live:8080/overkill/dB2hBKSxdP/309953
+#EXTINF:-1 tvg-id="bet.za" tvg-name="AF: BET" tvg-logo="https://asiagrandiptv.us/logo/bet.png" group-title="AFRICA",AF: BET
+http://parkpay.live:8080/overkill/dB2hBKSxdP/309950
+#EXTINF:-1 tvg-id="baytv.za" tvg-name="AF: BAY TV" tvg-logo="https://asiagrandiptv.us/logo/baytv.png" group-title="AFRICA",AF: BAY TV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/309947
+#EXTINF:-1 tvg-id="boomerang.za" tvg-name="AF: BOOMERANG" tvg-logo="https://asiagrandiptv.us/logo/boomerang.png" group-title="AFRICA",AF: BOOMERANG
+http://parkpay.live:8080/overkill/dB2hBKSxdP/309944
+#EXTINF:-1 tvg-id="businessdaytv.za" tvg-name="AF: BUSINESS DAY TV" tvg-logo="https://asiagrandiptv.us/logo/businessdaytv.png" group-title="AFRICA",AF: BUSINESS DAY TV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/309941
+#EXTINF:-1 tvg-id="cbsjustice.za" tvg-name="AF: CBS JUSTICE" tvg-logo="https://asiagrandiptv.us/logo/cbsjustice.png" group-title="AFRICA",AF: CBS JUSTICE
+http://parkpay.live:8080/overkill/dB2hBKSxdP/309939
+#EXTINF:-1 tvg-id="cartoonnetwork.za" tvg-name="AF: CARTOON NETWORK" tvg-logo="https://asiagrandiptv.us/logo/cartoonnetwork.png" group-title="AFRICA",AF: CARTOON NETWORK
+http://parkpay.live:8080/overkill/dB2hBKSxdP/309929
+#EXTINF:-1 tvg-id="cbeebies.za" tvg-name="AF: CBEEBIES" tvg-logo="https://asiagrandiptv.us/logo/cbeebies.png" group-title="AFRICA",AF: CBEEBIES
+http://parkpay.live:8080/overkill/dB2hBKSxdP/309928
+#EXTINF:-1 tvg-id="channelo.za" tvg-name="AF: CHANNEL O" tvg-logo="https://asiagrandiptv.us/logo/channelo.png" group-title="AFRICA",AF: CHANNEL O
+http://parkpay.live:8080/overkill/dB2hBKSxdP/309926
+#EXTINF:-1 tvg-id="" tvg-name="AF: CITIZEN TV" tvg-logo="https://asiagrandiptv.us/logo/citizentv.png" group-title="AFRICA",AF: CITIZEN TV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/309922
+#EXTINF:-1 tvg-id="curiositystream.za" tvg-name="AF: CURIOSITY STREAM" tvg-logo="https://asiagrandiptv.us/logo/curiositystream.png" group-title="AFRICA",AF: CURIOSITY STREAM
+http://parkpay.live:8080/overkill/dB2hBKSxdP/309918
+#EXTINF:-1 tvg-id="" tvg-name="AF: DAYSTAR" tvg-logo="https://asiagrandiptv.us/logo/daystar.png" group-title="AFRICA",AF: DAYSTAR
+http://parkpay.live:8080/overkill/dB2hBKSxdP/309915
+#EXTINF:-1 tvg-id="discoveryfamily.za" tvg-name="AF: DISCOVERY FAMILY" tvg-logo="https://asiagrandiptv.us/logo/discoveryfamily.png" group-title="AFRICA",AF: DISCOVERY FAMILY
+http://parkpay.live:8080/overkill/dB2hBKSxdP/309911
+#EXTINF:-1 tvg-id="" tvg-name="AF: E! ENTERTAINMENT TV" tvg-logo="https://asiagrandiptv.us/logo/entertainment.png" group-title="AFRICA",AF: E! ENTERTAINMENT TV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/309905
+#EXTINF:-1 tvg-id="ginx.za" tvg-name="AF: Ginx eSports TV" tvg-logo="https://asiagrandiptv.us/logo/ginxesportstv.png" group-title="AFRICA",AF: Ginx eSports TV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/309890
+#EXTINF:-1 tvg-id="" tvg-name="AF: K24" tvg-logo="" group-title="AFRICA",AF: K24
+http://parkpay.live:8080/overkill/dB2hBKSxdP/309878
+#EXTINF:-1 tvg-id="" tvg-name="AF: KTN NEWS" tvg-logo="https://asiagrandiptv.us/logo/ktnnews.png" group-title="AFRICA",AF: KTN NEWS
+http://parkpay.live:8080/overkill/dB2hBKSxdP/309873
+#EXTINF:-1 tvg-id="" tvg-name="AF: KAMEME" tvg-logo="" group-title="AFRICA",AF: KAMEME
+http://parkpay.live:8080/overkill/dB2hBKSxdP/309871
+#EXTINF:-1 tvg-id="lifetime.za" tvg-name="AF: LIFETIME" tvg-logo="https://asiagrandiptv.us/logo/lifetime.png" group-title="AFRICA",AF: LIFETIME
+http://parkpay.live:8080/overkill/dB2hBKSxdP/309866
+#EXTINF:-1 tvg-id="mnetcity.za" tvg-name="AF: M-NET CITY" tvg-logo="https://asiagrandiptv.us/logo/mnetcity.png" group-title="AFRICA",AF: M-NET CITY
+http://parkpay.live:8080/overkill/dB2hBKSxdP/309863
+#EXTINF:-1 tvg-id="mtv.za" tvg-name="AF: MTV" tvg-logo="https://asiagrandiptv.us/logo/mtv.png" group-title="AFRICA",AF: MTV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/309850
+#EXTINF:-1 tvg-id="mzansibioskop.za" tvg-name="AF: MZANSI BIOSKOP" tvg-logo="https://asiagrandiptv.us/logo/mzansibioskop.png" group-title="AFRICA",AF: MZANSI BIOSKOP
+http://parkpay.live:8080/overkill/dB2hBKSxdP/309838
+#EXTINF:-1 tvg-id="mzansiwethu.za" tvg-name="AF: MZANSI WETHU" tvg-logo="https://asiagrandiptv.us/logo/mzansiwethu.png" group-title="AFRICA",AF: MZANSI WETHU
+http://parkpay.live:8080/overkill/dB2hBKSxdP/309835
+#EXTINF:-1 tvg-id="" tvg-name="AF: NBS" tvg-logo="" group-title="AFRICA",AF: NBS
+http://parkpay.live:8080/overkill/dB2hBKSxdP/309832
+#EXTINF:-1 tvg-id="nickjr.za" tvg-name="AF: NICK JR" tvg-logo="https://asiagrandiptv.us/logo/nickjr.png" group-title="AFRICA",AF: NICK JR
+http://parkpay.live:8080/overkill/dB2hBKSxdP/309821
+#EXTINF:-1 tvg-id="nicktoons.za" tvg-name="AF: NICKTOONS" tvg-logo="https://asiagrandiptv.us/logo/nicktoons.png" group-title="AFRICA",AF: NICKTOONS
+http://parkpay.live:8080/overkill/dB2hBKSxdP/309820
+#EXTINF:-1 tvg-id="onegospel.za" tvg-name="AF: ONE GOSPEL" tvg-logo="https://asiagrandiptv.us/logo/onegospel.png" group-title="AFRICA",AF: ONE GOSPEL
+http://parkpay.live:8080/overkill/dB2hBKSxdP/309813
+#EXTINF:-1 tvg-id="supersportplay.za" tvg-name="AF: SUPERSPORT PLAY" tvg-logo="https://asiagrandiptv.us/logo/supersportplay.png" group-title="AFRICA",AF: SUPERSPORT PLAY
+http://parkpay.live:8080/overkill/dB2hBKSxdP/309758
+#EXTINF:-1 tvg-id="tbn.za" tvg-name="AF: TBN Africa" tvg-logo="https://asiagrandiptv.us/logo/tbnafrica.png" group-title="AFRICA",AF: TBN Africa
+http://parkpay.live:8080/overkill/dB2hBKSxdP/309747
+#EXTINF:-1 tvg-id="tnt.za" tvg-name="AF: TNT AFRICA" tvg-logo="https://asiagrandiptv.us/logo/tntafrica.png" group-title="AFRICA",AF: TNT AFRICA
+http://parkpay.live:8080/overkill/dB2hBKSxdP/309745
+#EXTINF:-1 tvg-id="" tvg-name="AF: TOONAMI" tvg-logo="https://asiagrandiptv.us/logo/toonami.png" group-title="AFRICA",AF: TOONAMI
+http://parkpay.live:8080/overkill/dB2hBKSxdP/309720
+#EXTINF:-1 tvg-id="" tvg-name="AF: UTV" tvg-logo="https://asiagrandiptv.us/logo/utv.png" group-title="AFRICA",AF: UTV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/309715
+#EXTINF:-1 tvg-id="" tvg-name="AF: WWE CHANNEL" tvg-logo="https://asiagrandiptv.us/logo/wwechannel.png" group-title="AFRICA",AF: WWE CHANNEL
+http://parkpay.live:8080/overkill/dB2hBKSxdP/309710
+#EXTINF:-1 tvg-id="" tvg-name="AF: WILD EARTH" tvg-logo="https://asiagrandiptv.us/logo//WILDEARTH.png" group-title="AFRICA",AF: WILD EARTH
+http://parkpay.live:8080/overkill/dB2hBKSxdP/309707
+#EXTINF:-1 tvg-id="" tvg-name="AF: YADAH TV" tvg-logo="" group-title="AFRICA",AF: YADAH TV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/309705
+#EXTINF:-1 tvg-id="zeeworld.za" tvg-name="AF: Zee World" tvg-logo="https://asiagrandiptv.us/logo/zeeworld.png" group-title="AFRICA",AF: Zee World
+http://parkpay.live:8080/overkill/dB2hBKSxdP/309701
+#EXTINF:-1 tvg-id="" tvg-name="AF: INOORO TV" tvg-logo="https://asiagrandiptv.us/logo/inoorotv.png" group-title="AFRICA",AF: INOORO TV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/309689
+#EXTINF:-1 tvg-id="" tvg-name="AF: KYKNET NOU!" tvg-logo="https://asiagrandiptv.us/logo/kyknetnou.png" group-title="AFRICA",AF: KYKNET NOU!
+http://parkpay.live:8080/overkill/dB2hBKSxdP/309685
+#EXTINF:-1 tvg-id="" tvg-name="AF: TRACE TOCA" tvg-logo="https://asiagrandiptv.us/logo/tracetoca.png" group-title="AFRICA",AF: TRACE TOCA
+http://parkpay.live:8080/overkill/dB2hBKSxdP/220469
+#EXTINF:-1 tvg-id="" tvg-name="AF: REPENTANCE" tvg-logo="" group-title="AFRICA",AF: REPENTANCE
+http://parkpay.live:8080/overkill/dB2hBKSxdP/9156
+#EXTINF:-1 tvg-id="" tvg-name="AF: SOMALIA PLTV" tvg-logo="" group-title="AFRICA",AF: SOMALIA PLTV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/400395
+#EXTINF:-1 tvg-id="" tvg-name="AF: SOMALIA PUNTLAND" tvg-logo="" group-title="AFRICA",AF: SOMALIA PUNTLAND
+http://parkpay.live:8080/overkill/dB2hBKSxdP/400394
+#EXTINF:-1 tvg-id="" tvg-name="AF: SOMALIA SBC" tvg-logo="" group-title="AFRICA",AF: SOMALIA SBC
+http://parkpay.live:8080/overkill/dB2hBKSxdP/400393
+#EXTINF:-1 tvg-id="" tvg-name="AF: SOMALIA KALSAN" tvg-logo="" group-title="AFRICA",AF: SOMALIA KALSAN
+http://parkpay.live:8080/overkill/dB2hBKSxdP/400392
+#EXTINF:-1 tvg-id="" tvg-name="AF: Somalia National" tvg-logo="" group-title="AFRICA",AF: Somalia National
+http://parkpay.live:8080/overkill/dB2hBKSxdP/400391
+#EXTINF:-1 tvg-id="" tvg-name="AF: UNIVERSEL SOMALI TV" tvg-logo="https://asiagrandiptv.us/logo//UNIVERSELSOMALITV.jpeg" group-title="AFRICA",AF: UNIVERSEL SOMALI TV
+http://parkpay.live:8080/overkill/dB2hBKSxdP/400289
+#EXTINF:-1 tvg-id="" tvg-name="AF: Somalie Saab" tvg-logo="" group-title="AFRICA",AF: Somalie Saab
+http://parkpay.live:8080/overkill/dB2hBKSxdP/400266
+#EXTINF:-1 tvg-id="" tvg-name="AF: Sntv Somalie" tvg-logo="" group-title="AFRICA",AF: Sntv Somalie
+http://parkpay.live:8080/overkill/dB2hBKSxdP/400265
+#EXTINF:-1 tvg-id="" tvg-name="AF: DACWA TV Somalia" tvg-logo="" group-title="AFRICA",AF: DACWA TV Somalia
+http://parkpay.live:8080/overkill/dB2hBKSxdP/400215
+#EXTINF:-1 tvg-id="" tvg-name="AF: Supersport Motosports" tvg-logo="" group-title="AFRICA",AF: Supersport Motosports
+http://parkpay.live:8080/overkill/dB2hBKSxdP/407631
+
