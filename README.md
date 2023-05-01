@@ -7,6 +7,6 @@
 
 
 <ul>
-  <li> <a href="https://m3u4u.com/" target="_blank">https://m3u4u.com/</a> </li>
-  <li> <a href="https://i.mjh.nz" target="_blank">https://i.mjh.nz/</a> </li>
+  <li> <a href="https://m3u4u.com/" target="_blank" rel="noopener noreferrer">https://m3u4u.com/</a> </li>
+  <li> <a href="https://i.mjh.nz" target="_blank" rel="noopener noreferrer">https://i.mjh.nz/</a> </li>
 </ul>
