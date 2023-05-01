@@ -3,9 +3,10 @@
 # iptvlist.m3u
 <i>Curated list of my favorite iptv channels.<i> 
 <br></br>
-<i>Tools;<i>
+<i>Useful links<i>
 
 
 <ul>
   <li> <a href="url">https://m3u4u.com/</a> </li>
+  <li> <a href="url">https://i.mjh.nz/</a> </li>
 </ul>
