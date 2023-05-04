@@ -2225,23 +2225,5 @@ https://dai.google.com/linear/hls/event/AaFxJXOhQl-BsTVC9OCunQ/master.m3u8
 https://dai.google.com/linear/hls/event/C-lfmhUVTGeDNWwU13_EgA/master.m3u8
 #EXTINF:-1 tvg-id="soar-11-20-2019" tvg-name="SOAR" tvg-logo="https://i.mjh.nz/Stirr/.images/19086698bc.png" group-title="STIRR",SOAR
 https://dai.google.com/linear/hls/event/_PDxBUttQYqkxPnmh3VOZA/master.m3u8
-##
-##
-## Added ##
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/dstv.com.xml,https://iptv-org.github.io/epg/guides/en/startimestv.com.xml,https://iptv-org.github.io/epg/guides/pt/meo.pt.xml"
-#EXTINF:-1 tvg-id="BloombergTVEMEALiveEvent.uk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Africa",Bloomberg TV EMEA Live Event (720p)
-https://bloomberg.com/media-manifest/streams/eu-event.m3u8
-#EXTINF:-1 tvg-id="Africanews.cg" tvg-name="AfricaNews" tvg-chno=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Africanews_logo.svg/512px-Africanews_logo.svg.png" group-title="Africa",AfricaNews English (720p)
-https://rakuten-africanews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="InooroTV.ke" tvg-logo="https://i.imgur.com/5qFJtmo.png" group-title="Africa",Inooro Tv (720p)
-https://74937-castr.akamaized.net/5ea49827ff3b5d7b22708777/live_cd93fa8063f411ecb28b5d4f40b51a46/index.m3u8
-#EXTINF:-1 tvg-id="KTNNews.ke" tvg-logo="https://i.imgur.com/AYxanoy.png" group-title="Africa",KTN News (720p)
-https://ythls.onrender.com/channel/UCKVsdeoHExltrWMuK0hOWmg.m3u8
-#EXTINF:-1 tvg-id="Al Jazeera English ARB" tvg-name="Al Jazeera English ARB" tvg-language="English" tvg-logo="https://i.imgur.com/PITp6xA.jpg" group-title="News",Al Jazeera English
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-id="DWEnglish.de" tvg-name="DW English" tvg-chno="1007" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW English (1080p)
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-id="BlackNewsChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/BNC_logo_2021.png/512px-BNC_logo_2021.png" group-title="News",Black News Channel (1080p)
-http://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8
 
 
