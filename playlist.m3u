@@ -785,7 +785,7 @@ https://stream.hydeinnovations.com/bukedde1flussonic/index.m3u8
 https://stream.hydeinnovations.com/bukedde2flussonic/index.m3u8
 #EXTINF:-1 tvg-id="CapeTownTV.za" tvg-name="Cape Town TV (720p)" tvg-logo="https://i.imgur.com/Y8FK1Kk.png" group-title="General",Cape Town TV (720p)
 https://capetowntv.net/lvod/6107c8d77d6b693df801ae2e/playlist.m3u8
-#EXTINF:-1 tvg-id="CitizenTV.ke" tvg-name="Citizen TV (720p) [Not 24/7]" tvg-logo="https://www.seekpng.com/png/detail/227-2275787_logo-citizen-tv-kenya-logo.png" group-title="General",Citizen TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="CitizenTV.ke" tvg-name="Citizen TV (720p) [Not 24/7]" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Citizen_TV_%28Kenya%29_logo.png" group-title="General",Citizen TV (720p) [Not 24/7]
 https://ythls.onrender.com/channel/UChBQgieUidXV1CmDxSdRm3g.m3u8
 #EXTINF:-1 tvg-id="CNBCAfrica.za" tvg-name="CNBC Africa (480p)" tvg-logo="https://i.imgur.com/BnNYzWI.png" group-title="General",CNBC Africa (480p)
 https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8
