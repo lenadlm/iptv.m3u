@@ -785,9 +785,7 @@ https://stream.hydeinnovations.com/bukedde1flussonic/index.m3u8
 https://stream.hydeinnovations.com/bukedde2flussonic/index.m3u8
 #EXTINF:-1 tvg-id="CapeTownTV.za" tvg-name="Cape Town TV (720p)" tvg-logo="https://i.imgur.com/Y8FK1Kk.png" group-title="General",Cape Town TV (720p)
 https://capetowntv.net/lvod/6107c8d77d6b693df801ae2e/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Citizen Extra (720p)" tvg-logo="" group-title="General",Citizen Extra (720p)
-https://74937.global.ssl.fastly.net/5ea49827ff3b5d7b22708777/live_40c5808063f711ec89a87b62db2ecab5/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Citizen TV (720p) [Not 24/7]" tvg-logo="" group-title="General",Citizen TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="CitizenTV.ke" tvg-name="Citizen TV (720p) [Not 24/7]" tvg-logo="https://www.seekpng.com/png/detail/227-2275787_logo-citizen-tv-kenya-logo.png" group-title="General",Citizen TV (720p) [Not 24/7]
 https://ythls.onrender.com/channel/UChBQgieUidXV1CmDxSdRm3g.m3u8
 #EXTINF:-1 tvg-id="CNBCAfrica.za" tvg-name="CNBC Africa (480p)" tvg-logo="https://i.imgur.com/BnNYzWI.png" group-title="General",CNBC Africa (480p)
 https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8
@@ -813,7 +811,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-en-p
 https://ythls.onrender.com/channel/UCqBJ47FjJcl61fmSbcadAVg.m3u8
 #EXTINF:-1 tvg-id="NTVUganda.ug" tvg-name="NTV Uganda [Not 24/7]" tvg-logo="https://i.imgur.com/ej5A6RZ.png" group-title="General",NTV Uganda [Not 24/7]
 https://ythls.onrender.com/channel/UCwga1dPCqBddbtq5KYRii2g.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ramogi TV (720p)" tvg-logo="" group-title="General",Ramogi TV (720p)
+#EXTINF:-1 tvg-id="RamogiTV.ke" tvg-name="Ramogi TV (720p)" tvg-logo="https://royalmedia.s3.amazonaws.com/wp-content/uploads/2022/05/ramogitv.jpg" group-title="General",Ramogi TV (720p)
 https://citizentv.castr.com/5ea49827ff3b5d7b22708777/live_9b761ff063f511eca12909b8ef1524b4/index.m3u8
 #EXTINF:-1 tvg-id="RealWild.us" tvg-name="Real Wild" tvg-logo="https://i.imgur.com/T9HHmAO.png" group-title="General",Real Wild
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
