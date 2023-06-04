@@ -1,4 +1,5 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/68m7n4g88wh4ee28y1ge, https://i.mjh.nz/SamsungTVPlus/all.xml, https://i.mjh.nz/PlutoTV/all.xml, https://i.mjh.nz/Stirr/all.xml, https://i.mjh.nz/Plex/all.xml, https://i.mjh.nz/all/epg.xml, https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml, https://iptv-org.github.io/epg/guides/en/startimestv.com.xml, https://iptv-org.github.io/epg/guides/en/dstv.com.xml"
+#EXTM3U url-tvg="http://m3u4u.com/epg/68m7n4g88wh4ee28y1ge"
 #EXTINF:-1 tvg-id="BumblebeeTVAuroraLive.us" tvg-name="Bumblebee TV Aurora Live (1080p)" tvg-logo="https://i.imgur.com/1WIEWK7.png" group-title="Bumblebee TV",Bumblebee TV Aurora Live (1080p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
 #EXTINF:-1 tvg-id="BumblebeeTVAutoMoto.us" tvg-name="Bumblebee TV AutoMoto (720p)" tvg-logo="https://i.imgur.com/CnbWNc1.png" group-title="Bumblebee TV",Bumblebee TV AutoMoto (720p)
@@ -781,6 +782,8 @@ https://i.mjh.nz/PlutoTV/637e55347427a40007fac703-alt.m3u8
 https://i.mjh.nz/PlutoTV/5c3f8f12a93c2d61b9990a4e-alt.m3u8
 #EXTINF:-1 tvg-id="5f4ec10ed9636f00089b8c89" tvg-name="Yu-Gi-Oh!" tvg-logo="https://images.pluto.tv/channels/5f4ec10ed9636f00089b8c89/colorLogoPNG.png" group-title="Gaming + Anime",Yu-Gi-Oh!
 https://i.mjh.nz/PlutoTV/5f4ec10ed9636f00089b8c89-alt.m3u8
+#EXTINF:-1 tvg-id="DareToDreamNetwork.us" tvg-name="3ABN Dare To Dream Network" tvg-logo="https://i.imgur.com/JwCLwQ2.png" group-title="General",3ABN Dare To Dream Network
+https://3abn-live.akamaized.net/hls/live/2010545/D2D/master.m3u8
 #EXTINF:-1 tvg-id="3ABNInternational.us" tvg-name="3ABN International" tvg-logo="https://i.imgur.com/8YMLPA3.png" group-title="General",3ABN International
 https://3abn-live.akamaized.net/hls/live/2010544/International/master.m3u8
 #EXTINF:-1 tvg-id="3ABNKids.us" tvg-name="3ABN Kids Network" tvg-logo="https://i.imgur.com/SUPQAok.png" group-title="General",3ABN Kids Network
@@ -817,6 +820,10 @@ https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8
 https://hls-live-media.cdn01.net/dvr/stream_37099_1.m3u8
 #EXTINF:-1 tvg-id="DoveChannel.us" tvg-name="Dove Channel" tvg-logo="https://i.imgur.com/FVWqYQG.png" group-title="General",Dove Channel
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
+#EXTINF:-1 tvg-id="ChristmasMusic.us" tvg-name="Faithlife TV Christmas Music" tvg-logo="https://i.imgur.com/75Sq48R.png" group-title="General",Faithlife TV Christmas Music
+https://vse2-na-us-ne24.secdn.net/logos-channel/live/christmas/playlist.m3u8
+#EXTINF:-1 tvg-id="GBNTV.us" tvg-name="Gospel Broadcasting Network (GBN)" tvg-logo="https://i.imgur.com/DsFyyHy.png" group-title="General",Gospel Broadcasting Network (GBN)
+https://cdn3.wowza.com/5/Wi9jakJPdFhPREFj/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="Hope4LifeTV.us" tvg-name="Hope4Life TV" tvg-logo="https://i.imgur.com/p24tAjs.jpg" group-title="General",Hope4Life TV
 http://144.217.14.88/hls/hope4life.m3u8
 #EXTINF:-1 tvg-id="InooroTV.ke" tvg-name="Inooro TV" tvg-logo="https://i.imgur.com/5qFJtmo.png" group-title="General",Inooro TV
