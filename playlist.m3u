@@ -821,14 +821,14 @@ https://74937.global.ssl.fastly.net/5ea49827ff3b5d7b22708777/live_40c5808063f711
 https://ythls.onrender.com/channel/UChBQgieUidXV1CmDxSdRm3g.m3u8
 #EXTINF:-1 tvg-id="CNBCAfrica.za" tvg-name="CNBC Africa" tvg-logo="https://i.imgur.com/BnNYzWI.png" group-title="General",CNBC Africa
 https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Gabon24.ga" tvg-name="Gabon 24" tvg-logo="https://i.imgur.com/UwO2Nby.png" group-title="General",Gabon 24
-https://ythls.onrender.com/channel/UC7E__Dp9FSIgt6iMa5_uvlw.m3u8
 #EXTINF:-1 tvg-id="DaystarTV.us" tvg-name="Daystar TV" tvg-logo="https://i.imgur.com/IjzCv8f.png" group-title="General",Daystar TV
 https://hls-live-media.cdn01.net/dvr/stream_37099_1.m3u8
 #EXTINF:-1 tvg-id="DoveChannel.us" tvg-name="Dove Channel" tvg-logo="https://i.imgur.com/FVWqYQG.png" group-title="General",Dove Channel
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
 #EXTINF:-1 tvg-id="ChristmasMusic.us" tvg-name="Faithlife TV Christmas Music" tvg-logo="https://i.imgur.com/75Sq48R.png" group-title="General",Faithlife TV Christmas Music
 https://vse2-na-us-ne24.secdn.net/logos-channel/live/christmas/playlist.m3u8
+#EXTINF:-1 tvg-id="Gabon24.ga" tvg-name="Gabon 24" tvg-logo="https://i.imgur.com/UwO2Nby.png" group-title="General",Gabon 24
+https://ythls.onrender.com/channel/UC7E__Dp9FSIgt6iMa5_uvlw.m3u8
 #EXTINF:-1 tvg-id="GBNTV.us" tvg-name="Gospel Broadcasting Network (GBN)" tvg-logo="https://i.imgur.com/DsFyyHy.png" group-title="General",Gospel Broadcasting Network (GBN)
 https://cdn3.wowza.com/5/Wi9jakJPdFhPREFj/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="Hope4LifeTV.us" tvg-name="Hope4Life TV" tvg-logo="https://i.imgur.com/p24tAjs.jpg" group-title="General",Hope4Life TV
@@ -857,8 +857,6 @@ https://cdn.lwuk.live/live/smil:lwukweb.smil/playlist.m3u8
 https://ythls.onrender.com/channel/UCqBJ47FjJcl61fmSbcadAVg.m3u8
 #EXTINF:-1 tvg-id="NTVUganda.ug" tvg-name="NTV Uganda" tvg-logo="https://i.imgur.com/ej5A6RZ.png" group-title="General",NTV Uganda
 https://ythls.onrender.com/channel/UCwga1dPCqBddbtq5KYRii2g.m3u8
-#EXTINF:-1 tvg-id="VoxAfrica.uk" tvg-name="VoxAfrica" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/63/Voxafrica-1.png/512px-Voxafrica-1.png" group-title="General",VoxAfrica
-http://188.227.164.31/tsstreamer/VoxAfrica_SD.ts
 #EXTINF:-1 tvg-id="RamogiTV.ke" tvg-name="Ramogi" tvg-logo="https://royalmedia.s3.amazonaws.com/wp-content/uploads/2022/05/ramogitv.jpg" group-title="General",Ramogi
 https://citizentv.castr.com/5ea49827ff3b5d7b22708777/live_9b761ff063f511eca12909b8ef1524b4/index.m3u8
 #EXTINF:-1 tvg-id="TanzaniaSafariChannel.tz" tvg-name="Tanzania Safari Channel" tvg-logo="https://i.imgur.com/fcLFYhn.png" group-title="General",Tanzania Safari Channel
@@ -875,6 +873,8 @@ https://origin3.afxp.telemedia.co.za/PremiumFree/trueafrican/playlist.m3u8
 https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="TrustTV.ng" tvg-name="Trust TV" tvg-logo="https://i.imgur.com/2le4qYj.png" group-title="General",Trust TV
 https://ythls.onrender.com/channel/UCTlqstA2Wrt4fimd_VWKr8g.m3u8
+#EXTINF:-1 tvg-id="VoxAfrica.uk" tvg-name="VoxAfrica" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/63/Voxafrica-1.png/512px-Voxafrica-1.png" group-title="General",VoxAfrica
+http://188.227.164.31/tsstreamer/VoxAfrica_SD.ts
 #EXTINF:-1 tvg-id="3ABNKids.us" tvg-name="3ABN Kids Network" tvg-logo="https://i.imgur.com/SUPQAok.png" group-title="Kids",3ABN Kids Network
 https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8
 #EXTINF:-1 tvg-id="AghapyKids.us" tvg-name="Aghapy Kids" tvg-logo="https://i.imgur.com/8ariztD.png" group-title="Kids",Aghapy Kids
@@ -965,6 +965,8 @@ https://i.mjh.nz/PlutoTV/5fb584b7613a31000789de5a-alt.m3u8
 https://i.mjh.nz/PlutoTV/5d94a5451754e6a4298d1059-alt.m3u8
 #EXTINF:-1 tvg-id="GBBD1300001WA" tvg-name="Smurf TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1300001WA_20230426T015622SQUARE.png_20230426015623.png" group-title="Kids",Smurf TV
 https://d144py1prrd7ns.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-affg2ev32s0dq/smrfe.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="63fc71e4764b6f00085cd576" tvg-name="SpongeBob SquarePants World Ocean’s Day" tvg-logo="https://images.pluto.tv/channels/63fc71e4764b6f00085cd576/colorLogoPNG.png" group-title="Kids",SpongeBob SquarePants World Ocean’s Day
+https://i.mjh.nz/PlutoTV/63fc71e4764b6f00085cd576-alt.m3u8
 #EXTINF:-1 tvg-id="GBBA3300032S9" tvg-name="SuperToons TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300032S9_20220824T005413SQUARE.png_20220824005413.png" group-title="Kids",SuperToons TV
 https://ba60d73b54dd41b68ae2a0601454ed52.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_SuperToonsTV/playlist.m3u8?ads.wurl_channel=606&ads.wurl_name=SuperToonsTV&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="60f9ebb06f0b3d000746fbdb" tvg-name="Team Spirit" tvg-logo="https://images.pluto.tv/channels/60f9ebb06f0b3d000746fbdb/colorLogoPNG.png" group-title="Kids",Team Spirit
@@ -1189,10 +1191,14 @@ https://i.mjh.nz/PlutoTV/5f779951372da90007fd45e8-alt.m3u8
 https://d155cvi1zborvr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vxnxkaeuajpu2-ssai-prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="5f68f53eb1e5800007390bf8" tvg-name="CMT Equal Play" tvg-logo="https://images.pluto.tv/channels/5f68f53eb1e5800007390bf8/colorLogoPNG.png" group-title="Music",CMT Equal Play
 https://i.mjh.nz/PlutoTV/5f68f53eb1e5800007390bf8-alt.m3u8
-#EXTINF:-1 tvg-id="DeejayTV.it" tvg-name="Deejay TV (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/9/93/Logo_Deejay.svg/512px-Logo_Deejay.svg.png" group-title="Music",Deejay TV (1080p)
+#EXTINF:-1 tvg-id="DeejayTV.it" tvg-name="Deejay TV" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/9/93/Logo_Deejay.svg/512px-Logo_Deejay.svg.png" group-title="Music",Deejay TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 #EXTINF:-1 tvg-id="GBBA15000034L" tvg-name="Deluxe Lounge HD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA15000034L_20220323T071408SQUARE.png_20220323071411.png" group-title="Music",Deluxe Lounge HD
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/abb4746a-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=GB&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="DeluxeMusic.de" tvg-name="Deluxe Music" tvg-logo="https://i.imgur.com/XWWTrKW.png" group-title="Music",Deluxe Music
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 tvg-id="IbizaGlobalTV.es" tvg-name="Ibiza Global TV" tvg-logo="https://i.imgur.com/7etSMR5.png" group-title="Music",Ibiza Global TV
+https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
 #EXTINF:-1 tvg-id="5873fc21cad696fb37aa9054" tvg-name="Live Music Replay" tvg-logo="https://images.pluto.tv/channels/5873fc21cad696fb37aa9054/colorLogoPNG.png" group-title="Music",Live Music Replay
 https://i.mjh.nz/PlutoTV/5873fc21cad696fb37aa9054-alt.m3u8
 #EXTINF:-1 tvg-id="MTVBeats.in" tvg-name="MTV Beats" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="Music",MTV Beats
@@ -1267,14 +1273,8 @@ https://i.mjh.nz/PlutoTV/5fd7b8bf927e090007685853-alt.m3u8
 https://i.mjh.nz/PlutoTV/5fd7bb1f86d94a000796e2c2-alt.m3u8
 #EXTINF:-1 tvg-id="GBBC2100002HP" tvg-name="Vevo '90s & '00s" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2100002HP_20230412T042246SQUARE.png_20230412042247.png" group-title="Music",Vevo '90s & '00s
 https://d2yw87dguyr3x7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gm31ezw31rx7a/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 tvg-id="DeluxeLoungeHD.de" tvg-name="Deluxe Lounge HD" tvg-logo="https://i.imgur.com/DnMzWiG.png" group-title="Music",Deluxe Lounge HD
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
-#EXTINF:-1 tvg-id="DeluxeMusic.de" tvg-name="Deluxe Music" tvg-logo="https://i.imgur.com/XWWTrKW.png" group-title="Music",Deluxe Music
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 tvg-id="5fd7bca3e0a4ee0007a38e8c" tvg-name="Vevo 2K" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/colorLogoPNG.png" group-title="Music",Vevo 2K
 https://i.mjh.nz/PlutoTV/5fd7bca3e0a4ee0007a38e8c-alt.m3u8
-#EXTINF:-1 tvg-id="IbizaGlobalTV.es" tvg-name="Ibiza Global TV" tvg-logo="https://i.imgur.com/7etSMR5.png" group-title="Music",Ibiza Global TV
-https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
 #EXTINF:-1 tvg-id="5da0d75e84830900098a1ea0" tvg-name="Vevo Country" tvg-logo="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/colorLogoPNG.png" group-title="Music",Vevo Country
 https://i.mjh.nz/PlutoTV/5da0d75e84830900098a1ea0-alt.m3u8
 #EXTINF:-1 tvg-id="USBC3600002EK" tvg-name="Vevo Hip-Hop" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600002EK_20230322T000030SQUARE.png_20230322000031.png" group-title="Music",Vevo Hip-Hop
