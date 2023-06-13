@@ -863,13 +863,13 @@ https://ythls.onrender.com/channel/UChBQgieUidXV1CmDxSdRm3g.m3u8
 https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DaystarTV.us" tvg-name="Daystar TV" tvg-logo="https://i.imgur.com/IjzCv8f.png" group-title="General",Daystar TV
 https://hls-live-media.cdn01.net/dvr/stream_37099_1.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Diva" tvg-logo="" group-title="General",Diva
+#EXTINF:-1 tvg-id="Diva.za" tvg-name="Diva" tvg-logo="https://www.premiumfree.tv/wp-content/uploads/2022/09/PF-TV-OFFICIAL-LOGO_no-transparent-border-1280x251.png" group-title="General",Diva
 https://origin3.afxp.telemedia.co.za/PremiumFree/diva/playlist.m3u8
 #EXTINF:-1 tvg-id="DoveChannel.us" tvg-name="Dove Channel" tvg-logo="https://i.imgur.com/FVWqYQG.png" group-title="General",Dove Channel
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fight Night" tvg-logo="" group-title="General",Fight Night
+#EXTINF:-1 tvg-id="FightNight.za" tvg-name="Fight Night" tvg-logo="https://www.premiumfree.tv/wp-content/uploads/2022/09/PF-TV-OFFICIAL-LOGO_no-transparent-border-1280x251.png" group-title="General",Fight Night
 https://origin3.afxp.telemedia.co.za/PremiumFree/fightnight/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fresh" tvg-logo="" group-title="General",Fresh
+#EXTINF:-1 tvg-id="Fresh.za" tvg-name="Fresh" tvg-logo="https://www.premiumfree.tv/wp-content/uploads/2022/09/PF-TV-OFFICIAL-LOGO_no-transparent-border-1280x251.png" group-title="General",Fresh
 https://origin3.afxp.telemedia.co.za/PremiumFree/freshtv/playlist.m3u8
 #EXTINF:-1 tvg-id="GBNTV.us" tvg-name="Gospel Broadcasting Network (GBN)" tvg-logo="https://i.imgur.com/DsFyyHy.png" group-title="General",Gospel Broadcasting Network (GBN)
 https://cdn3.wowza.com/5/Wi9jakJPdFhPREFj/live/myStream/playlist.m3u8
@@ -887,11 +887,11 @@ https://origin3.afxp.telemedia.co.za/PremiumFree/kiddiwinks/playlist.m3u8
 https://ythls.onrender.com/channel/UCKVsdeoHExltrWMuK0hOWmg.m3u8
 #EXTINF:-1 tvg-id="KweliTV.us" tvg-name="Kweli TV" tvg-logo="https://i.imgur.com/LXMlbda.png" group-title="General",Kweli TV
 https://a.jsrdn.com/broadcast/9c897f1973/+0000/c.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Life TV" tvg-logo="" group-title="General",Life TV
+#EXTINF:-1 tvg-id="LifeTV.za" tvg-name="Life TV" tvg-logo="" group-title="General",Life TV
 https://origin3.afxp.telemedia.co.za/PremiumFree/lifetv/playlist.m3u8
 #EXTINF:-1 tvg-id="Limelight.za" tvg-name="Limelight" tvg-logo="https://i.imgur.com/4h8q1NU.png" group-title="General",Limelight
 https://origin3.afxp.telemedia.co.za/PremiumFree/limelight/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LOL" tvg-logo="" group-title="General",LOL
+#EXTINF:-1 tvg-id="LOL.za" tvg-name="LOL" tvg-logo="" group-title="General",LOL
 https://origin3.afxp.telemedia.co.za/PremiumFree/lol/playlist.m3u8
 #EXTINF:-1 tvg-id="LoveWorldSat.za" tvg-name="LoveWorld Sat" tvg-logo="https://i.imgur.com/HoAUs2V.png" group-title="General",LoveWorld Sat
 https://c6v6m6p7.stackpathcdn.com/lwsat/lwsatmobile/playlist.m3u8
@@ -901,7 +901,7 @@ https://cdn.lwuk.live/live/smil:lwukweb.smil/playlist.m3u8
 https://ythls.onrender.com/channel/UCqBJ47FjJcl61fmSbcadAVg.m3u8
 #EXTINF:-1 tvg-id="NTVUganda.ug" tvg-name="NTV Uganda" tvg-logo="https://i.imgur.com/ej5A6RZ.png" group-title="General",NTV Uganda
 https://ythls.onrender.com/channel/UCwga1dPCqBddbtq5KYRii2g.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pulse" tvg-logo="" group-title="General",Pulse
+#EXTINF:-1 tvg-id="Pulse.za" tvg-name="Pulse" tvg-logo="" group-title="General",Pulse
 https://origin3.afxp.telemedia.co.za/PremiumFree/pulse/playlist.m3u8
 #EXTINF:-1 tvg-id="RamogiTV.ke" tvg-name="Ramogi" tvg-logo="https://royalmedia.s3.amazonaws.com/wp-content/uploads/2022/05/ramogitv.jpg" group-title="General",Ramogi
 https://citizentv.castr.com/5ea49827ff3b5d7b22708777/live_9b761ff063f511eca12909b8ef1524b4/index.m3u8
