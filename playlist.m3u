@@ -1133,7 +1133,7 @@ https://i.mjh.nz/PlutoTV/5ca525b650be2571e3943c63-alt.m3u8
 https://i.mjh.nz/PlutoTV/5f4d86f519358a00072b978e-alt.m3u8
 #EXTINF:-1 tvg-id="62ba60f059624e000781c436" tvg-name="00s Replay" tvg-logo="https://images.pluto.tv/channels/62ba60f059624e000781c436/colorLogoPNG.png" group-title="Movies",00s Replay
 https://i.mjh.nz/PlutoTV/62ba60f059624e000781c436-alt.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Action Hollywood Movies" tvg-logo="" group-title="Movies",Action Hollywood Movies
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Action Hollywood Movies" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTsR0u6gT6sASEo3Y6jZ3Q_soiZKkqp_8G7v_bx8nk0goGVXL9Q" group-title="Movies",Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="GBAJ4900006TU" tvg-name="Action Movies - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ4900006TU_20220323T071344SQUARE.png_20220323071347.png" group-title="Movies",Action Movies - Rakuten TV
 https://2d7cfb08307343bd98a8e403813df2f1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_RakutenActionMovies/playlist.m3u8?ads.wurl_channel=423&ads.wurl_name=RakutenActionMovies&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
@@ -1605,91 +1605,91 @@ https://i.mjh.nz/PlutoTV/5812be1c249444e05d09cc50-alt.m3u8
 https://i.mjh.nz/PlutoTV/5877acecb16bb1e042ee453f-alt.m3u8
 #EXTINF:-1 tvg-id="5b4e94282d4ec87bdcbb87cd" tvg-name="Pluto TV Westerns" tvg-logo="https://images.pluto.tv/channels/5b4e94282d4ec87bdcbb87cd/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Westerns
 https://i.mjh.nz/PlutoTV/5b4e94282d4ec87bdcbb87cd-alt.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Action" tvg-logo="" group-title="Rakuten TV",Rakuten Action
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Action" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Action
 https://rakuten-action-8-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Action" tvg-logo="" group-title="Rakuten TV",Rakuten Action
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Action" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Action
 https://rakuten-action-9-se.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Action" tvg-logo="" group-title="Rakuten TV",Rakuten Action
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Action" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Action
 https://rakuten-action-10-dk.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Comedy" tvg-logo="" group-title="Rakuten TV",Rakuten Comedy
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Comedy" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Comedy
 https://rakuten-comedy-8-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Comedy" tvg-logo="" group-title="Rakuten TV",Rakuten Comedy
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Comedy" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Comedy
 https://rakuten-comedy-9-se.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Comedy" tvg-logo="" group-title="Rakuten TV",Rakuten Comedy
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Comedy" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Comedy
 https://rakuten-comedy-10-dk.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Documentaries" tvg-logo="" group-title="Rakuten TV",Rakuten Documentaries
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Documentaries" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Documentaries
 https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Drama" tvg-logo="" group-title="Rakuten TV",Rakuten Drama
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Drama" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Drama
 https://rakuten-drama-8-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Drama" tvg-logo="" group-title="Rakuten TV",Rakuten Drama
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Drama" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Drama
 https://rakuten-drama-9-se.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Drama" tvg-logo="" group-title="Rakuten TV",Rakuten Drama
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Drama" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Drama
 https://rakuten-drama-10-dk.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Family" tvg-logo="" group-title="Rakuten TV",Rakuten Family
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Family" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Family
 https://rakuten-family-9-se.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Family" tvg-logo="" group-title="Rakuten TV",Rakuten Family
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Family" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Family
 https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Family" tvg-logo="" group-title="Rakuten TV",Rakuten Family
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Family" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Family
 https://rakuten-family-16-be.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Family" tvg-logo="" group-title="Rakuten TV",Rakuten Family
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Family" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Family
 https://rakuten-family-8-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Family" tvg-logo="" group-title="Rakuten TV",Rakuten Family
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Family" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Family
 https://rakuten-family-10-dk.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Guardian" tvg-logo="" group-title="Rakuten TV",Rakuten Guardian
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Guardian" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Guardian
 https://rakuten-guardian-1-fr.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Serie Crime" tvg-logo="" group-title="Rakuten TV",Rakuten Serie Crime
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Serie Crime" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Serie Crime
 https://rakuten-seriescrime-7-fr.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Shows UK" tvg-logo="" group-title="Rakuten TV",Rakuten Shows UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Shows UK" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Shows UK
 https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Spotlight" tvg-logo="" group-title="Rakuten TV",Rakuten Spotlight
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Spotlight" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Spotlight
 https://rakuten-spotlight-9-se.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Spotlight" tvg-logo="" group-title="Rakuten TV",Rakuten Spotlight
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Spotlight" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Spotlight
 https://rakuten-spotlight-10-dk.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Stories" tvg-logo="" group-title="Rakuten TV",Rakuten Stories
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Stories" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Stories
 https://rakuten-spotlight-8-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Top Free Germany" tvg-logo="" group-title="Rakuten TV",Rakuten Top Free Germany
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Top Free Germany" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Top Free Germany
 https://rakuten-topfree-3-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Top Free Italy" tvg-logo="" group-title="Rakuten TV",Rakuten Top Free Italy
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Top Free Italy" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Top Free Italy
 https://rakuten-topfree-6-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Top Free Spain" tvg-logo="" group-title="Rakuten TV",Rakuten Top Free Spain
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Top Free Spain" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Top Free Spain
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Top Free UK" tvg-logo="" group-title="Rakuten TV",Rakuten Top Free UK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Top Free UK" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Top Free UK
 https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV Anime Digital Network" tvg-logo="" group-title="Rakuten TV",Rakuten TV Anime Digital Network
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV Anime Digital Network" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten TV Anime Digital Network
 https://amg00762-adn-adn-rakuten-jnwoo.amagi.tv/hls/amagi_hls_data_rakutenAA-adn-rakuten/CDN/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV BBC Doctor Who France" tvg-logo="" group-title="Rakuten TV",Rakuten TV BBC Doctor Who France
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV BBC Doctor Who France" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten TV BBC Doctor Who France
 https://bbceu-doctorwho-3-fr.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV BBC Drama" tvg-logo="" group-title="Rakuten TV",Rakuten TV BBC Drama
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV BBC Drama" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten TV BBC Drama
 https://bbceu-bbcdrama-1-fr.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV Films Drames" tvg-logo="" group-title="Rakuten TV",Rakuten TV Films Drames
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV Films Drames" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten TV Films Drames
 https://rakuten-tvshows-7-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV Films Drames" tvg-logo="" group-title="Rakuten TV",Rakuten TV Films Drames
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV Films Drames" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten TV Films Drames
 https://rakuten-tvshows-7-fr.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV Films Français" tvg-logo="" group-title="Rakuten TV",Rakuten TV Films Français
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV Films Français" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten TV Films Français
 https://rakuten-films-francais-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV Films Thriller" tvg-logo="" group-title="Rakuten TV",Rakuten TV Films Thriller
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV Films Thriller" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten TV Films Thriller
 https://rakuten-thriller-7-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV Gusto.tv" tvg-logo="" group-title="Rakuten TV",Rakuten TV Gusto.tv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV Gusto.tv" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten TV Gusto.tv
 https://gustotv-gustotv-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV L'Atelier des Chefs" tvg-logo="" group-title="Rakuten TV",Rakuten TV L'Atelier des Chefs
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV L'Atelier des Chefs" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten TV L'Atelier des Chefs
 https://alchimie-ateliersdeschefs-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV Romance" tvg-logo="" group-title="Rakuten TV",Rakuten TV Romance
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV Romance" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten TV Romance
 https://rakuten-romance-7-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV Romance" tvg-logo="" group-title="Rakuten TV",Rakuten TV Romance
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV Romance" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten TV Romance
 https://rakuten-romance-7-fr.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV Shows" tvg-logo="" group-title="Rakuten TV",Rakuten TV Shows
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV Shows" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten TV Shows
 https://rakuten-tvshows-7-fr.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV Shows Austria" tvg-logo="" group-title="Rakuten TV",Rakuten TV Shows Austria
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV Shows Austria" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten TV Shows Austria
 https://rakuten-tvshows-5-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV Shows Germany" tvg-logo="" group-title="Rakuten TV",Rakuten TV Shows Germany
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV Shows Germany" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten TV Shows Germany
 https://rakuten-tvshows-3-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV Shows Italy" tvg-logo="" group-title="Rakuten TV",Rakuten TV Shows Italy
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV Shows Italy" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten TV Shows Italy
 https://rakuten-tvshows-6-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV Shows Spain" tvg-logo="" group-title="Rakuten TV",Rakuten TV Shows Spain
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV Shows Spain" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten TV Shows Spain
 https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV Viki Europe" tvg-logo="" group-title="Rakuten TV",Rakuten TV Viki Europe
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV Viki Europe" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten TV Viki Europe
 https://newidco-rakutenviki-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Viki" tvg-logo="" group-title="Rakuten TV",Rakuten Viki
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Viki" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Viki
 https://newidco-rakutenviki-2-fr.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="62d556fe2888ce000764b3fa" tvg-name="16 & Pregnant" tvg-logo="https://images.pluto.tv/channels/62d556fe2888ce000764b3fa/colorLogoPNG.png" group-title="Reality",16 & Pregnant
 https://i.mjh.nz/PlutoTV/62d556fe2888ce000764b3fa-alt.m3u8
