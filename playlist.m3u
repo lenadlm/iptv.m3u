@@ -65,7 +65,7 @@ https://a.jsrdn.com/broadcast/76381deeda/+0000/c.m3u8
 https://content.uplynk.com/channel/3e4b9cada2b74cf18977298804134a36.m3u8
 #EXTINF:-1 tvg-id="USBB320000397" tvg-name="21 Jump Street" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000397_20221109T013553SQUARE.png_20221109013554.png" group-title="Classic TV",21 Jump Street
 https://dpu24vd0o32rf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/21JumpStreet-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="2A Network" tvg-logo="" group-title="Classic TV",2A Network
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="2A Network" tvg-logo="https://simultv.com/wp-content/uploads/2023/04/2A_Network.jpg" group-title="Classic TV",2A Network
 https://simultv.s.llnwi.net/n4s4/2ANetwork/interlink.m3u8
 #EXTINF:-1 tvg-id="5f4d83e0a382c00007bc02e7" tvg-name="90210" tvg-logo="https://images.pluto.tv/channels/5f4d83e0a382c00007bc02e7/colorLogoPNG.png" group-title="Classic TV",90210
 https://i.mjh.nz/PlutoTV/5f4d83e0a382c00007bc02e7-alt.m3u8
