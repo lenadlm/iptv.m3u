@@ -9,4 +9,5 @@
 <ul>
   <li> <a href="https://m3u4u.com/" target="_blank" rel="noopener noreferrer">https://m3u4u.com/</a> </li>
   <li> <a href="https://i.mjh.nz" target="_blank" rel="noopener noreferrer">https://i.mjh.nz/</a> </li>
+  <li> <a href="https://smartclub.tv" target="_blank" rel="noopener noreferrer">https://smartclub.tv/</a> </li>
 </ul>
