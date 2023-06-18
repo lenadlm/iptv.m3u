@@ -713,30 +713,6 @@ https://i.mjh.nz/PlutoTV/63693fa2bfa0690007ebc880-alt.m3u8
 https://i.mjh.nz/PlutoTV/62e92a6f087606000767eae2-alt.m3u8
 #EXTINF:-1 tvg-id="GBBA22000063W" tvg-name="Wonder" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA22000063W_20230426T015615SQUARE.png_20230426015616.png" group-title="Entertainment",Wonder
 https://ldsaaaaaa-wonder-samsung-uk-z3ald.amagi.tv/playlist/ldsAAAAAA-wonder-samsung-uk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-#EXTINF:-1 tvg-id="USBB3200020ID" tvg-name="FilmRise Action" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200020ID_20221214T015102SQUARE.png_20221214015103.png" group-title="FilmRise",FilmRise Action
-https://d1nlhbqjulacw7.cloudfront.net/hls/samsungtvplus_us_filmriseaction_001.m3u8?ads.caid=FilmriseAction&ads.csid=samsungtvplus_us_filmriseaction_ssai&ads.amznslotId=b187c68c-9a6f-4d25-9a9c-b95b42d440af&ads.amznappId=14d05815c45c4b5595d7be0dbcaaaebc&ads.os=Tizen&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en&ads._fw_content_rating=pg-13&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_h_x_country=US&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=260&ad
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5819" tvg-name="FilmRise Anime" tvg-logo="https://provider-static.plex.tv/9/epg/channels/logos/gracenote/917c162e1af472f9d021154ef49f78eb.png" group-title="FilmRise",FilmRise Anime
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5819.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=ocWXKn6qGeNhA2XPxnaf
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5808" tvg-name="FilmRise British TV" tvg-logo="https://provider-static.plex.tv/b/epg/channels/logos/gracenote/b84e3fed51a5801a6e847bd714c1ef7c.png" group-title="FilmRise",FilmRise British TV
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5808.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=ocWXKn6qGeNhA2XPxnaf
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5802" tvg-name="FilmRise Concursos de Cocina" tvg-logo="https://provider-static.plex.tv/4/epg/channels/logos/gracenote/4d16bc0161bc87c9df2cb113d6ab4917.png" group-title="FilmRise",FilmRise Concursos de Cocina
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5802.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=ocWXKn6qGeNhA2XPxnaf
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6449369f243fbe342a9c0b4e" tvg-name="FilmRise Crimenes Veradaderos" tvg-logo="https://provider-static.plex.tv/3/epg/channels/logos/gracenote/3419d7eaa33155bbc5003cd885ca10b3.png" group-title="FilmRise",FilmRise Crimenes Veradaderos
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6449369f243fbe342a9c0b4e.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=ocWXKn6qGeNhA2XPxnaf
-#EXTINF:-1 tvg-id="USAJ40000072X" tvg-name="FilmRise Free Movies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ40000072X_20221214T015058SQUARE.png_20221214015059.png" group-title="FilmRise",FilmRise Free Movies
-https://d1nlhbqjulacw7.cloudfront.net/hls/samsungtvplus_us_filmrisefreemovies_001.m3u8?ads.caid=FilmRiseFreeMovies&ads.csid=samsungtvplus_us_filmrisefreemovies_ssai&ads.amznslotId=b187c68c-9a6f-4d25-9a9c-b95b42d440af&ads.amznappId=14d05815c45c4b5595d7be0dbcaaaebc&ads.os=Tizen&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en&ads._fw_content_rating=pg-13&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_h_x_country=US&ads.appName=%7BAPP_NAME%7D&ads.xumo_cont
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6449369eb3ff17382cae57ff" tvg-name="FilmRise Kids" tvg-logo="https://provider-static.plex.tv/7/epg/channels/logos/gracenote/791969b91387fdb5e6315f35f8011ce9.png" group-title="FilmRise",FilmRise Kids
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae57ff.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=ocWXKn6qGeNhA2XPxnaf
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6449369eb3ff17382cae57fc" tvg-name="FilmRise Peliculas Gratis" tvg-logo="https://provider-static.plex.tv/epg/cms/production/85638586-9d9b-447b-96a1-96f38f97d7d2/Plex_FilmRise_USH_Pel_culasGratis_Color_Logo.png" group-title="FilmRise",FilmRise Peliculas Gratis
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae57fc.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=ocWXKn6qGeNhA2XPxnaf
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6449369eb3ff17382cae580d" tvg-name="FilmRise Sci-Fi" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5605a272-8674-4017-aab3-d83743ab9226/FilmRiseSciFi_Logo_Color.png" group-title="FilmRise",FilmRise Sci-Fi
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae580d.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=ocWXKn6qGeNhA2XPxnaf
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5803" tvg-name="FilmRise Series Gratis" tvg-logo="https://provider-static.plex.tv/epg/cms/production/18333eaa-edc9-40e8-be21-dc606b7bd51c/Plex_FilmRise_SeriesGratis_Color_Logo.png" group-title="FilmRise",FilmRise Series Gratis
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5803.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=ocWXKn6qGeNhA2XPxnaf
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-646e489b58898bf3be94b325" tvg-name="FilmRise True Crime" tvg-logo="https://provider-static.plex.tv/epg/cms/production/11ec111a-a186-4270-a69e-88bc441a0f7c/FilmRiseTrueCrime_Logo_Color.png" group-title="FilmRise",FilmRise True Crime
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-646e489b58898bf3be94b325.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=ikU1U5Q1mWiRxpekf3sM
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6449369eb3ff17382cae57fd" tvg-name="FilmRise Western" tvg-logo="https://provider-static.plex.tv/epg/cms/production/750eeec2-9d7e-41cf-a0f5-fcb9695d569b/FilmRiseWestern_Logo_Color.png" group-title="FilmRise",FilmRise Western
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae57fd.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=ocWXKn6qGeNhA2XPxnaf
 #EXTINF:-1 tvg-id="5e84f54a82f05300080e6746" tvg-name="America's Test Kitchen" tvg-logo="https://images.pluto.tv/channels/5e84f54a82f05300080e6746/colorLogoPNG.png" group-title="Food‚ Home + Travel",America's Test Kitchen
 https://i.mjh.nz/PlutoTV/5e84f54a82f05300080e6746-alt.m3u8
 #EXTINF:-1 tvg-id="638e10de75c3a30007092693" tvg-name="Antiques Road Show UK" tvg-logo="https://images.pluto.tv/channels/638e10de75c3a30007092693/colorLogoPNG.png" group-title="Food‚ Home + Travel",Antiques Road Show UK
@@ -1213,6 +1189,10 @@ https://crackle-plex.amagi.tv/playlist.m3u8
 https://d81f847ce52b4de18d41134229faa86e.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung_DocumentaryPlus/playlist.m3u8?ads.wurl_channel=894&ads.wurl_name=DocumentaryPlus&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 tvg-id="GBAJ49000081B" tvg-name="Drama Movies - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ49000081B_20220323T071414SQUARE.png_20220323071417.png" group-title="Movies",Drama Movies - Rakuten TV
 https://5462283e44cd428abcbb5a468c678e99.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_RakutenTVShows/playlist.m3u8?ads.wurl_channel=425&ads.wurl_name=RakutenTVShows&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="USBB3200020ID" tvg-name="FilmRise Action" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200020ID_20221214T015102SQUARE.png_20221214015103.png" group-title="Movies",FilmRise Action
+https://d1nlhbqjulacw7.cloudfront.net/hls/samsungtvplus_us_filmriseaction_001.m3u8?ads.caid=FilmriseAction&ads.csid=samsungtvplus_us_filmriseaction_ssai&ads.amznslotId=b187c68c-9a6f-4d25-9a9c-b95b42d440af&ads.amznappId=14d05815c45c4b5595d7be0dbcaaaebc&ads.os=Tizen&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en&ads._fw_content_rating=pg-13&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_h_x_country=US&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=260&ad
+#EXTINF:-1 tvg-id="USAJ40000072X" tvg-name="FilmRise Free Movies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ40000072X_20221214T015058SQUARE.png_20221214015059.png" group-title="Movies",FilmRise Free Movies
+https://d1nlhbqjulacw7.cloudfront.net/hls/samsungtvplus_us_filmrisefreemovies_001.m3u8?ads.caid=FilmRiseFreeMovies&ads.csid=samsungtvplus_us_filmrisefreemovies_ssai&ads.amznslotId=b187c68c-9a6f-4d25-9a9c-b95b42d440af&ads.amznappId=14d05815c45c4b5595d7be0dbcaaaebc&ads.os=Tizen&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en&ads._fw_content_rating=pg-13&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_h_x_country=US&ads.appName=%7BAPP_NAME%7D&ads.xumo_cont
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6449369eb3ff17382cae580d" tvg-name="FilmRise Sci-Fi" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5605a272-8674-4017-aab3-d83743ab9226/FilmRiseSciFi_Logo_Color.png" group-title="Movies",FilmRise Sci-Fi
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae580d.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=PwwcEZZBoM5bFEL3jjrJ
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6449369eb3ff17382cae57fd" tvg-name="FilmRise Western" tvg-logo="https://provider-static.plex.tv/epg/cms/production/750eeec2-9d7e-41cf-a0f5-fcb9695d569b/FilmRiseWestern_Logo_Color.png" group-title="Movies",FilmRise Western
@@ -1253,22 +1233,22 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62b45f15b450
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-627e347795b0f50af26d78f9.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=Q7DfG4zx7U7CM7v9Mn_x
 #EXTINF:-1 tvg-id="MadeInHollywood.us" tvg-name="Made in Hollywood" tvg-logo="https://i.imgur.com/p16HNIM.png" group-title="Movies",Made in Hollywood
 https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ColorsCineplexSuperhits.in" tvg-name="Colors Cineplex Superhits" tvg-logo="https://i.ibb.co/KbXhstz/Screenshot-20230610-130415.jpg" group-title="Movies",Colors Cineplex Superhits
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="USAJ3000007MT" tvg-name="Maverick Black Cinema" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000007MT_20221214T015127SQUARE.png_20221214015128.png" group-title="Movies",Maverick Black Cinema
 https://995059ba59a44c949b7b00ce255a4861.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_MaverickBlackCinema/playlist.m3u8?ads.wurl_channel=451&ads.wurl_name=MaverickBlackCinema&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1 tvg-id="IndywoodTV.in" tvg-name="Indywood TV" tvg-logo="https://i.ibb.co/jT3NCPp/logo-tv.png" group-title="Movies",Indywood TV
-https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8
 #EXTINF:-1 tvg-id="USBB5200019FO" tvg-name="Movie Favorites by Lifetime" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200019FO_20230509T224440SQUARE.png_20230509224441.png" group-title="Movies",Movie Favorites by Lifetime
 https://eefac38e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZ19Ib2xpZGF5TW92aWVGYXZvcml0ZXNieUxpZmV0aW1lX0hMUw/playlist.m3u8?ads.wurl_channel=999&ads.wurl_name=HolidayMovieFavoritesbyLifetime&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-id="ColorsCineplexSuperhits.in" tvg-name="Colors Cineplex Superhits" tvg-logo="https://i.ibb.co/KbXhstz/Screenshot-20230610-130415.jpg" group-title="Movies",Colors Cineplex Superhits
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="GBBB3800003JH" tvg-name="Moviedome" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB3800003JH_20220323T071458SQUARE.png_20220323071500.png" group-title="Movies",Moviedome
 https://amg00771-kochfilmsgerman-moviedomeuk-samsunguk-ua2if.amagi.tv/playlist/amg00771-kochfilmsgerman-moviedomeuk-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-#EXTINF:-1 tvg-id="TheFilmDetective.us" tvg-name="The Film Detective" tvg-logo="https://i.imgur.com/yfOwmsP.png" group-title="Movies",The Film Detective
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-filmdetective-cineverse/playlist.m3u8
+#EXTINF:-1 tvg-id="IndywoodTV.in" tvg-name="Indywood TV" tvg-logo="https://i.ibb.co/jT3NCPp/logo-tv.png" group-title="Movies",Indywood TV
+https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8
 #EXTINF:-1 tvg-id="GBBB3300001CW" tvg-name="Movies Central by TVPlayer" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB3300001CW_20221026T004648SQUARE.png_20221026004649.png" group-title="Movies",Movies Central by TVPlayer
 https://amg00712-alchimie-moviescentraluk-samsunguk-4bbgl.amagi.tv/playlist/amg00712-alchimie-moviescentraluk-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 #EXTINF:-1 tvg-id="GBBA33000557H" tvg-name="MovieSphere" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA33000557H_20221201T014509SQUARE.png_20221201014510.png" group-title="Movies",MovieSphere
 https://samsunguk-moviesphereuk-samsung-uk-s7xaa.amagi.tv/playlist/samsunguk-moviesphereuk-samsung-uk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="TheFilmDetective.us" tvg-name="The Film Detective" tvg-logo="https://i.imgur.com/yfOwmsP.png" group-title="Movies",The Film Detective
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-filmdetective-cineverse/playlist.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-616de83d40598ac2f83e7873" tvg-name="Mystery Alley" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1c0538b5-eb17-4b6f-a2d7-19d11e71a738/Ovation_Mysery_Alley_LOGO_for_PLEX.png" group-title="Movies",Mystery Alley
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-616de83d40598ac2f83e7873.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=Q7DfG4zx7U7CM7v9Mn_x
 #EXTINF:-1 tvg-id="Mythos.us" tvg-name="Mythos" tvg-logo="https://i.imgur.com/JBEqPZP.png" group-title="Movies",Mythos
@@ -1501,578 +1481,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/usatoday-usatodaynews-samsungus/playli
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
 #EXTINF:-1 tvg-id="5f161c0a8ba90f0007d5bd0b" tvg-name="Yahoo Finance" tvg-logo="https://images.pluto.tv/channels/5f161c0a8ba90f0007d5bd0b/colorLogoPNG.png" group-title="News",Yahoo Finance
 https://i.mjh.nz/PlutoTV/5f161c0a8ba90f0007d5bd0b-alt.m3u8
-#EXTINF:-1 tvg-id="64634eb42858cb0008fd92d6" tvg-name="How To Use Pluto TV" tvg-logo="https://images.pluto.tv/channels/64634eb42858cb0008fd92d6/colorLogoPNG.png" group-title="Pluto TV",How To Use Pluto TV
-https://i.mjh.nz/PlutoTV/64634eb42858cb0008fd92d6-alt.m3u8
-#EXTINF:-1 tvg-id="561d7d484dc7c8770484914a" tvg-name="Pluto TV Action" tvg-logo="https://images.pluto.tv/channels/561d7d484dc7c8770484914a/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Action
-https://i.mjh.nz/PlutoTV/561d7d484dc7c8770484914a-alt.m3u8
-#EXTINF:-1 tvg-id="62ea3c2e4823db00072788ed" tvg-name="Pluto TV Action Movies" tvg-logo="https://images.pluto.tv/channels/62ea3c2e4823db00072788ed/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Action Movies
-https://i.mjh.nz/PlutoTV/62ea3c2e4823db00072788ed-alt.m3u8
-#EXTINF:-1 tvg-id="623464d7185bef0007e337c0" tvg-name="Pluto TV Adventure" tvg-logo="https://images.pluto.tv/channels/623464d7185bef0007e337c0/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Adventure
-https://i.mjh.nz/PlutoTV/623464d7185bef0007e337c0-alt.m3u8
-#EXTINF:-1 tvg-id="56b27f85ff3037045055037e" tvg-name="Pluto TV Animals" tvg-logo="https://images.pluto.tv/channels/56b27f85ff3037045055037e/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Animals
-https://i.mjh.nz/PlutoTV/56b27f85ff3037045055037e-alt.m3u8
-#EXTINF:-1 tvg-id="612f761008a9e50007984ba0" tvg-name="Pluto TV Animation" tvg-logo="https://images.pluto.tv/channels/612f761008a9e50007984ba0/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Animation
-https://i.mjh.nz/PlutoTV/612f761008a9e50007984ba0-alt.m3u8
-#EXTINF:-1 tvg-id="5cabdf1437b88b26947346b2" tvg-name="Pluto TV Backcountry" tvg-logo="https://images.pluto.tv/channels/5cabdf1437b88b26947346b2/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Backcountry
-https://i.mjh.nz/PlutoTV/5cabdf1437b88b26947346b2-alt.m3u8
-#EXTINF:-1 tvg-id="5812b3a4249444e05d09cc46" tvg-name="Pluto TV Cars" tvg-logo="https://images.pluto.tv/channels/5812b3a4249444e05d09cc46/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Cars
-https://i.mjh.nz/PlutoTV/5812b3a4249444e05d09cc46-alt.m3u8
-#EXTINF:-1 tvg-id="5d8bf1472907815f66a866dd" tvg-name="Pluto TV Celebrity" tvg-logo="https://images.pluto.tv/channels/5d8bf1472907815f66a866dd/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Celebrity
-https://i.mjh.nz/PlutoTV/5d8bf1472907815f66a866dd-alt.m3u8
-#EXTINF:-1 tvg-id="GBAK3504525A" tvg-name="Pluto TV Classic TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAK3504525A_20221026T004701SQUARE.png_20221026004702.png" group-title="Pluto TV",Pluto TV Classic TV
-https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1c62c000dd7a0009039432/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
-#EXTINF:-1 tvg-id="62e91af00c43540007f2bb43" tvg-name="Pluto TV Classic TV Families" tvg-logo="https://images.pluto.tv/channels/62e91af00c43540007f2bb43/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Classic TV Families
-https://i.mjh.nz/PlutoTV/62e91af00c43540007f2bb43-alt.m3u8
-#EXTINF:-1 tvg-id="62e92178946c8000079a3160" tvg-name="Pluto TV Comedy" tvg-logo="https://images.pluto.tv/channels/62e92178946c8000079a3160/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Comedy
-https://i.mjh.nz/PlutoTV/62e92178946c8000079a3160-alt.m3u8
-#EXTINF:-1 tvg-id="62ea3d24b8e02600071fa296" tvg-name="Pluto TV Comedy Movies" tvg-logo="https://images.pluto.tv/channels/62ea3d24b8e02600071fa296/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Comedy Movies
-https://i.mjh.nz/PlutoTV/62ea3d24b8e02600071fa296-alt.m3u8
-#EXTINF:-1 tvg-id="603fde9026ecbf0007752c2c" tvg-name="Pluto TV Competition" tvg-logo="https://images.pluto.tv/channels/603fde9026ecbf0007752c2c/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Competition
-https://i.mjh.nz/PlutoTV/603fde9026ecbf0007752c2c-alt.m3u8
-#EXTINF:-1 tvg-id="GBBA33000356L" tvg-name="Pluto TV Conspiracy" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA33000356L_20221026T004703SQUARE.png_20221026004704.png" group-title="Pluto TV",Pluto TV Conspiracy
-https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f3d273608339a00076622e0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
-#EXTINF:-1 tvg-id="63e23143a8b22700082b0a65" tvg-name="Pluto TV Cops & Convicts" tvg-logo="https://images.pluto.tv/channels/63e23143a8b22700082b0a65/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Cops & Convicts
-https://i.mjh.nz/PlutoTV/63e23143a8b22700082b0a65-alt.m3u8
-#EXTINF:-1 tvg-id="62e927ebc2db99000787c00a" tvg-name="Pluto TV Courtroom" tvg-logo="https://images.pluto.tv/channels/62e927ebc2db99000787c00a/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Courtroom
-https://i.mjh.nz/PlutoTV/62e927ebc2db99000787c00a-alt.m3u8
-#EXTINF:-1 tvg-id="GBAK3504516A" tvg-name="Pluto TV Crime" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAK3504516A_20221026T004657SQUARE.png_20221026004658.png" group-title="Pluto TV",Pluto TV Crime
-https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5bd8371b1843b56328bac33d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
-#EXTINF:-1 tvg-id="5f31fd1b4c510e00071c3103" tvg-name="Pluto TV Crime Drama" tvg-logo="https://images.pluto.tv/channels/5f31fd1b4c510e00071c3103/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Crime Drama
-https://i.mjh.nz/PlutoTV/5f31fd1b4c510e00071c3103-alt.m3u8
-#EXTINF:-1 tvg-id="5f4d8594eb979c0007706de7" tvg-name="Pluto TV Crime Movies" tvg-logo="https://images.pluto.tv/channels/5f4d8594eb979c0007706de7/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Crime Movies
-https://i.mjh.nz/PlutoTV/5f4d8594eb979c0007706de7-alt.m3u8
-#EXTINF:-1 tvg-id="5c665db3e6c01b72c4977bc2" tvg-name="Pluto TV Cult Films" tvg-logo="https://images.pluto.tv/channels/5c665db3e6c01b72c4977bc2/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Cult Films
-https://i.mjh.nz/PlutoTV/5c665db3e6c01b72c4977bc2-alt.m3u8
-#EXTINF:-1 tvg-id="5b85a7582921777994caea63" tvg-name="Pluto TV Documentaries" tvg-logo="https://images.pluto.tv/channels/5b85a7582921777994caea63/colorLogoPNG-1646155426722.png" group-title="Pluto TV",Pluto TV Documentaries
-https://i.mjh.nz/PlutoTV/5b85a7582921777994caea63-alt.m3u8
-#EXTINF:-1 tvg-id="5b4e92e4694c027be6ecece1" tvg-name="Pluto TV Drama" tvg-logo="https://images.pluto.tv/channels/5b4e92e4694c027be6ecece1/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Drama
-https://i.mjh.nz/PlutoTV/5b4e92e4694c027be6ecece1-alt.m3u8
-#EXTINF:-1 tvg-id="5f24662bebe0f0000767de32" tvg-name="Pluto TV Drama Life" tvg-logo="https://images.pluto.tv/channels/5f24662bebe0f0000767de32/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Drama Life
-https://i.mjh.nz/PlutoTV/5f24662bebe0f0000767de32-alt.m3u8
-#EXTINF:-1 tvg-id="62bdb0bcd707b9000739d2e5" tvg-name="Pluto TV Drama Movies" tvg-logo="https://images.pluto.tv/channels/62bdb0bcd707b9000739d2e5/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Drama Movies
-https://i.mjh.nz/PlutoTV/62bdb0bcd707b9000739d2e5-alt.m3u8
-#EXTINF:-1 tvg-id="5dc3fc6b9133f500099c7d98" tvg-name="Pluto TV Family" tvg-logo="https://images.pluto.tv/channels/5dc3fc6b9133f500099c7d98/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Family
-https://i.mjh.nz/PlutoTV/5dc3fc6b9133f500099c7d98-alt.m3u8
-#EXTINF:-1 tvg-id="5b64a245a202b3337f09e51d" tvg-name="Pluto TV Fantastic" tvg-logo="https://images.pluto.tv/channels/5b64a245a202b3337f09e51d/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Fantastic
-https://i.mjh.nz/PlutoTV/5b64a245a202b3337f09e51d-alt.m3u8
-#EXTINF:-1 tvg-id="5d4af39510fd17b31a528eda" tvg-name="Pluto TV Fishing" tvg-logo="https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Fishing
-https://i.mjh.nz/PlutoTV/5d4af39510fd17b31a528eda-alt.m3u8
-#EXTINF:-1 tvg-id="5ddf930548ff9b00090d5686" tvg-name="Pluto TV Food" tvg-logo="https://images.pluto.tv/channels/5ddf930548ff9b00090d5686/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Food
-https://i.mjh.nz/PlutoTV/5ddf930548ff9b00090d5686-alt.m3u8
-#EXTINF:-1 tvg-id="6036e7c385749f00075dbd3b" tvg-name="Pluto TV Game Shows" tvg-logo="https://images.pluto.tv/channels/6036e7c385749f00075dbd3b/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Game Shows
-https://i.mjh.nz/PlutoTV/6036e7c385749f00075dbd3b-alt.m3u8
-#EXTINF:-1 tvg-id="5ca7f16c37b88b2694731c79" tvg-name="Pluto TV Gamer" tvg-logo="https://images.pluto.tv/channels/5ca7f16c37b88b2694731c79/colorLogoPNG-1667318274182.png" group-title="Pluto TV",Pluto TV Gamer
-https://i.mjh.nz/PlutoTV/5ca7f16c37b88b2694731c79-alt.m3u8
-#EXTINF:-1 tvg-id="5a4d35dfa5c02e717a234f86" tvg-name="Pluto TV History" tvg-logo="https://images.pluto.tv/channels/5a4d35dfa5c02e717a234f86/colorLogoPNG.png" group-title="Pluto TV",Pluto TV History
-https://i.mjh.nz/PlutoTV/5a4d35dfa5c02e717a234f86-alt.m3u8
-#EXTINF:-1 tvg-id="6022bd17849c620007f43ae0" tvg-name="Pluto TV Home" tvg-logo="https://images.pluto.tv/channels/6022bd17849c620007f43ae0/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Home
-https://i.mjh.nz/PlutoTV/6022bd17849c620007f43ae0-alt.m3u8
-#EXTINF:-1 tvg-id="569546031a619b8f07ce6e25" tvg-name="Pluto TV Horror" tvg-logo="https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Horror
-https://i.mjh.nz/PlutoTV/569546031a619b8f07ce6e25-alt.m3u8
-#EXTINF:-1 tvg-id="GBAK3504518A" tvg-name="Pluto TV Inside" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAK3504518A_20221012T020938SQUARE.png_20221012020938.png" group-title="Pluto TV",Pluto TV Inside
-https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5bb5c137fd5928058cd3a21f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
-#EXTINF:-1 tvg-id="63808dc806aa4700075f319a" tvg-name="Pluto TV Investigation" tvg-logo="https://images.pluto.tv/channels/63808dc806aa4700075f319a/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Investigation
-https://i.mjh.nz/PlutoTV/63808dc806aa4700075f319a-alt.m3u8
-#EXTINF:-1 tvg-id="62ac54bda1c8650007e9d1c4" tvg-name="Pluto TV K-Drama" tvg-logo="https://images.pluto.tv/channels/62ac54bda1c8650007e9d1c4/colorLogoPNG.png" group-title="Pluto TV",Pluto TV K-Drama
-https://i.mjh.nz/PlutoTV/62ac54bda1c8650007e9d1c4-alt.m3u8
-#EXTINF:-1 tvg-id="61560abb6ae4b60007300555" tvg-name="Pluto TV K-Pop" tvg-logo="https://images.pluto.tv/channels/61560abb6ae4b60007300555/colorLogoPNG.png" group-title="Pluto TV",Pluto TV K-Pop
-https://i.mjh.nz/PlutoTV/61560abb6ae4b60007300555-alt.m3u8
-#EXTINF:-1 tvg-id="5ad8d54be738977e2c310940" tvg-name="Pluto TV Kids" tvg-logo="https://images.pluto.tv/channels/5ad8d54be738977e2c310940/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Kids
-https://i.mjh.nz/PlutoTV/5ad8d54be738977e2c310940-alt.m3u8
-#EXTINF:-1 tvg-id="5d8beeb39b5d5d5f8c672530" tvg-name="Pluto TV Lives" tvg-logo="https://images.pluto.tv/channels/5d8beeb39b5d5d5f8c672530/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Lives
-https://i.mjh.nz/PlutoTV/5d8beeb39b5d5d5f8c672530-alt.m3u8
-#EXTINF:-1 tvg-id="5f15e181520cfa000771ce79" tvg-name="Pluto TV Love Stories" tvg-logo="https://images.pluto.tv/channels/5f15e181520cfa000771ce79/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Love Stories
-https://i.mjh.nz/PlutoTV/5f15e181520cfa000771ce79-alt.m3u8
-#EXTINF:-1 tvg-id="5bb3fea0f711fd76340eebff" tvg-name="Pluto TV Military" tvg-logo="https://images.pluto.tv/channels/5bb3fea0f711fd76340eebff/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Military
-https://i.mjh.nz/PlutoTV/5bb3fea0f711fd76340eebff-alt.m3u8
-#EXTINF:-1 tvg-id="5db0510962948d000961d3c6" tvg-name="Pluto TV Motor" tvg-logo="https://images.pluto.tv/channels/5db0510962948d000961d3c6/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Motor
-https://i.mjh.nz/PlutoTV/5db0510962948d000961d3c6-alt.m3u8
-#EXTINF:-1 tvg-id="GBAK3504504A" tvg-name="Pluto TV Movies" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAK3504504A_20220323T071516SQUARE.png_20220323071518.png" group-title="Pluto TV",Pluto TV Movies
-https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d0a1cf57746b25fb55fdd0e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
-#EXTINF:-1 tvg-id="5d4af2a24f1c5ab2d298776b" tvg-name="Pluto TV Music" tvg-logo="https://images.pluto.tv/channels/5d4af2a24f1c5ab2d298776b/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Music
-https://i.mjh.nz/PlutoTV/5d4af2a24f1c5ab2d298776b-alt.m3u8
-#EXTINF:-1 tvg-id="5268abcd0ce20a8472000114" tvg-name="Pluto TV News" tvg-logo="https://images.pluto.tv/channels/5268abcd0ce20a8472000114/colorLogoPNG.png" group-title="Pluto TV",Pluto TV News
-https://i.mjh.nz/PlutoTV/5268abcd0ce20a8472000114-alt.m3u8
-#EXTINF:-1 tvg-id="62e92a58f3e4290007290c96" tvg-name="Pluto TV Paranormal" tvg-logo="https://images.pluto.tv/channels/62e92a58f3e4290007290c96/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Paranormal
-https://i.mjh.nz/PlutoTV/62e92a58f3e4290007290c96-alt.m3u8
-#EXTINF:-1 tvg-id="5812b821249444e05d09cc4c" tvg-name="Pluto TV Pixel World" tvg-logo="https://images.pluto.tv/channels/5812b821249444e05d09cc4c/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Pixel World
-https://i.mjh.nz/PlutoTV/5812b821249444e05d09cc4c-alt.m3u8
-#EXTINF:-1 tvg-id="60f86f539f03cd00070c503a" tvg-name="Pluto TV Pranks" tvg-logo="https://images.pluto.tv/channels/60f86f539f03cd00070c503a/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Pranks
-https://i.mjh.nz/PlutoTV/60f86f539f03cd00070c503a-alt.m3u8
-#EXTINF:-1 tvg-id="617b37b361e0fd0008cfd8c5" tvg-name="Pluto TV Reaction" tvg-logo="https://images.pluto.tv/channels/617b37b361e0fd0008cfd8c5/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Reaction
-https://i.mjh.nz/PlutoTV/617b37b361e0fd0008cfd8c5-alt.m3u8
-#EXTINF:-1 tvg-id="5d8bf0b06d2d855ee15115e3" tvg-name="Pluto TV Reality" tvg-logo="https://images.pluto.tv/channels/5d8bf0b06d2d855ee15115e3/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Reality
-https://i.mjh.nz/PlutoTV/5d8bf0b06d2d855ee15115e3-alt.m3u8
-#EXTINF:-1 tvg-id="630f1e6073bd1800082107f0" tvg-name="Pluto TV Retro Crime Drama" tvg-logo="https://images.pluto.tv/channels/630f1e6073bd1800082107f0/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Retro Crime Drama
-https://i.mjh.nz/PlutoTV/630f1e6073bd1800082107f0-alt.m3u8
-#EXTINF:-1 tvg-id="5c5c2b9d8002db3c3e0b1c6d" tvg-name="Pluto TV Retro Toons" tvg-logo="https://images.pluto.tv/channels/5c5c2b9d8002db3c3e0b1c6d/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Retro Toons
-https://i.mjh.nz/PlutoTV/5c5c2b9d8002db3c3e0b1c6d-alt.m3u8
-#EXTINF:-1 tvg-id="5a66795ef91fef2c7031c599" tvg-name="Pluto TV Romance" tvg-logo="https://images.pluto.tv/channels/5a66795ef91fef2c7031c599/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Romance
-https://i.mjh.nz/PlutoTV/5a66795ef91fef2c7031c599-alt.m3u8
-#EXTINF:-1 tvg-id="5b4fc274694c027be6ed3eea" tvg-name="Pluto TV Sci-Fi" tvg-logo="https://images.pluto.tv/channels/5b4fc274694c027be6ed3eea/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Sci-Fi
-https://i.mjh.nz/PlutoTV/5b4fc274694c027be6ed3eea-alt.m3u8
-#EXTINF:-1 tvg-id="619247c34a270700077c8415" tvg-name="Pluto TV Sci-fi Series" tvg-logo="https://images.pluto.tv/channels/619247c34a270700077c8415/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Sci-fi Series
-https://i.mjh.nz/PlutoTV/619247c34a270700077c8415-alt.m3u8
-#EXTINF:-1 tvg-id="563a970aa1a1f7fe7c9daad7" tvg-name="Pluto TV Science" tvg-logo="https://images.pluto.tv/channels/563a970aa1a1f7fe7c9daad7/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Science
-https://i.mjh.nz/PlutoTV/563a970aa1a1f7fe7c9daad7-alt.m3u8
-#EXTINF:-1 tvg-id="5dc2c00abfed110009d97243" tvg-name="Pluto TV Sherlock" tvg-logo="https://images.pluto.tv/channels/5dc2c00abfed110009d97243/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Sherlock
-https://i.mjh.nz/PlutoTV/5dc2c00abfed110009d97243-alt.m3u8
-#EXTINF:-1 tvg-id="62f53dc6ee9a0400071dc22b" tvg-name="Pluto TV Sitcoms" tvg-logo="https://images.pluto.tv/channels/62f53dc6ee9a0400071dc22b/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Sitcoms
-https://i.mjh.nz/PlutoTV/62f53dc6ee9a0400071dc22b-alt.m3u8
-#EXTINF:-1 tvg-id="610c5f80f71f660007a2ad8e" tvg-name="Pluto TV Soaps" tvg-logo="https://images.pluto.tv/channels/610c5f80f71f660007a2ad8e/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Soaps
-https://i.mjh.nz/PlutoTV/610c5f80f71f660007a2ad8e-alt.m3u8
-#EXTINF:-1 tvg-id="5dbc2f98777f2e0009934ae7" tvg-name="Pluto TV Space" tvg-logo="https://images.pluto.tv/channels/5dbc2f98777f2e0009934ae7/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Space
-https://i.mjh.nz/PlutoTV/5dbc2f98777f2e0009934ae7-alt.m3u8
-#EXTINF:-1 tvg-id="56340779a738201b4ccfeac9" tvg-name="Pluto TV Sports" tvg-logo="https://images.pluto.tv/channels/56340779a738201b4ccfeac9/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Sports
-https://i.mjh.nz/PlutoTV/56340779a738201b4ccfeac9-alt.m3u8
-#EXTINF:-1 tvg-id="5ba3fb9c4b078e0f37ad34e8" tvg-name="Pluto TV Spotlight" tvg-logo="https://images.pluto.tv/channels/5ba3fb9c4b078e0f37ad34e8/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Spotlight
-https://i.mjh.nz/PlutoTV/5ba3fb9c4b078e0f37ad34e8-alt.m3u8
-#EXTINF:-1 tvg-id="5f4d863b98b41000076cd061" tvg-name="Pluto TV Staff Picks" tvg-logo="https://images.pluto.tv/channels/5f4d863b98b41000076cd061/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Staff Picks
-https://i.mjh.nz/PlutoTV/5f4d863b98b41000076cd061-alt.m3u8
-#EXTINF:-1 tvg-id="5d135e29a52c94dfe543c5d3" tvg-name="Pluto TV Stand Up" tvg-logo="https://images.pluto.tv/channels/5d135e29a52c94dfe543c5d3/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Stand Up
-https://i.mjh.nz/PlutoTV/5d135e29a52c94dfe543c5d3-alt.m3u8
-#EXTINF:-1 tvg-id="6401d883d200410008fb9fbb" tvg-name="Pluto TV Stateside Drama" tvg-logo="https://images.pluto.tv/channels/6401d883d200410008fb9fbb/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Stateside Drama
-https://i.mjh.nz/PlutoTV/6401d883d200410008fb9fbb-alt.m3u8
-#EXTINF:-1 tvg-id="5f15e281b0b8840007324b55" tvg-name="Pluto TV Suspense" tvg-logo="https://images.pluto.tv/channels/5f15e281b0b8840007324b55/colorLogoPNG-1667318541117.png" group-title="Pluto TV",Pluto TV Suspense
-https://i.mjh.nz/PlutoTV/5f15e281b0b8840007324b55-alt.m3u8
-#EXTINF:-1 tvg-id="5c6dc88fcd232425a6e0f06e" tvg-name="Pluto TV Terror" tvg-logo="https://images.pluto.tv/channels/5c6dc88fcd232425a6e0f06e/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Terror
-https://i.mjh.nz/PlutoTV/5c6dc88fcd232425a6e0f06e-alt.m3u8
-#EXTINF:-1 tvg-id="5b4e69e08291147bd04a9fd7" tvg-name="Pluto TV Thrillers" tvg-logo="https://images.pluto.tv/channels/5b4e69e08291147bd04a9fd7/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Thrillers
-https://i.mjh.nz/PlutoTV/5b4e69e08291147bd04a9fd7-alt.m3u8
-#EXTINF:-1 tvg-id="600acaff5f2d6e000745effb" tvg-name="Pluto TV Tough Jobs" tvg-logo="https://images.pluto.tv/channels/600acaff5f2d6e000745effb/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Tough Jobs
-https://i.mjh.nz/PlutoTV/600acaff5f2d6e000745effb-alt.m3u8
-#EXTINF:-1 tvg-id="63e2311c4e83e70008953121" tvg-name="Pluto TV Trash to Cash" tvg-logo="https://images.pluto.tv/channels/63e2311c4e83e70008953121/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Trash to Cash
-https://i.mjh.nz/PlutoTV/63e2311c4e83e70008953121-alt.m3u8
-#EXTINF:-1 tvg-id="59c01b1953680139c6ae9d4d" tvg-name="Pluto TV Travel" tvg-logo="https://images.pluto.tv/channels/59c01b1953680139c6ae9d4d/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Travel
-https://i.mjh.nz/PlutoTV/59c01b1953680139c6ae9d4d-alt.m3u8
-#EXTINF:-1 tvg-id="5812be1c249444e05d09cc50" tvg-name="Pluto TV True Crime" tvg-logo="https://images.pluto.tv/channels/5812be1c249444e05d09cc50/colorLogoPNG.png" group-title="Pluto TV",Pluto TV True Crime
-https://i.mjh.nz/PlutoTV/5812be1c249444e05d09cc50-alt.m3u8
-#EXTINF:-1 tvg-id="5877acecb16bb1e042ee453f" tvg-name="Pluto TV Weddings" tvg-logo="https://images.pluto.tv/channels/5877acecb16bb1e042ee453f/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Weddings
-https://i.mjh.nz/PlutoTV/5877acecb16bb1e042ee453f-alt.m3u8
-#EXTINF:-1 tvg-id="5b4e94282d4ec87bdcbb87cd" tvg-name="Pluto TV Westerns" tvg-logo="https://images.pluto.tv/channels/5b4e94282d4ec87bdcbb87cd/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Westerns
-https://i.mjh.nz/PlutoTV/5b4e94282d4ec87bdcbb87cd-alt.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Action" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Action
-https://rakuten-action-8-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Action" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Action
-https://rakuten-action-9-se.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Action" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Action
-https://rakuten-action-10-dk.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Comedy" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Comedy
-https://rakuten-comedy-8-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Comedy" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Comedy
-https://rakuten-comedy-9-se.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Comedy" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Comedy
-https://rakuten-comedy-10-dk.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Documentaries" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Documentaries
-https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Drama" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Drama
-https://rakuten-drama-8-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Drama" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Drama
-https://rakuten-drama-9-se.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Drama" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Drama
-https://rakuten-drama-10-dk.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Family" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Family
-https://rakuten-family-9-se.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Family" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Family
-https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Family" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Family
-https://rakuten-family-16-be.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Family" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Family
-https://rakuten-family-8-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Family" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Family
-https://rakuten-family-10-dk.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Guardian" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Guardian
-https://rakuten-guardian-1-fr.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Serie Crime" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Serie Crime
-https://rakuten-seriescrime-7-fr.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Shows UK" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Shows UK
-https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Spotlight" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Spotlight
-https://rakuten-spotlight-9-se.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Spotlight" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Spotlight
-https://rakuten-spotlight-10-dk.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Stories" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Stories
-https://rakuten-spotlight-8-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Top Free Germany" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Top Free Germany
-https://rakuten-topfree-3-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Top Free Italy" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Top Free Italy
-https://rakuten-topfree-6-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Top Free Spain" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Top Free Spain
-https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Top Free UK" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Top Free UK
-https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV Anime Digital Network" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten TV Anime Digital Network
-https://amg00762-adn-adn-rakuten-jnwoo.amagi.tv/hls/amagi_hls_data_rakutenAA-adn-rakuten/CDN/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV BBC Doctor Who France" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten TV BBC Doctor Who France
-https://bbceu-doctorwho-3-fr.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV BBC Drama" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten TV BBC Drama
-https://bbceu-bbcdrama-1-fr.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV Films Drames" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten TV Films Drames
-https://rakuten-tvshows-7-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV Films Drames" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten TV Films Drames
-https://rakuten-tvshows-7-fr.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV Films Français" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten TV Films Français
-https://rakuten-films-francais-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV Films Thriller" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten TV Films Thriller
-https://rakuten-thriller-7-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV Gusto.tv" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten TV Gusto.tv
-https://gustotv-gustotv-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV L'Atelier des Chefs" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten TV L'Atelier des Chefs
-https://alchimie-ateliersdeschefs-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV Romance" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten TV Romance
-https://rakuten-romance-7-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV Romance" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten TV Romance
-https://rakuten-romance-7-fr.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV Shows" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten TV Shows
-https://rakuten-tvshows-7-fr.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV Shows Austria" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten TV Shows Austria
-https://rakuten-tvshows-5-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV Shows Germany" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten TV Shows Germany
-https://rakuten-tvshows-3-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV Shows Italy" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten TV Shows Italy
-https://rakuten-tvshows-6-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV Shows Spain" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten TV Shows Spain
-https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV Viki Europe" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten TV Viki Europe
-https://newidco-rakutenviki-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Viki" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Viki
-https://newidco-rakutenviki-2-fr.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="62d556fe2888ce000764b3fa" tvg-name="16 & Pregnant" tvg-logo="https://images.pluto.tv/channels/62d556fe2888ce000764b3fa/colorLogoPNG.png" group-title="Reality",16 & Pregnant
-https://i.mjh.nz/PlutoTV/62d556fe2888ce000764b3fa-alt.m3u8
-#EXTINF:-1 tvg-id="USAJ2200011TR" tvg-name="All Reality WE tv" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ2200011TR_20230125T022644SQUARE.png_20230125022645.png" group-title="Reality",All Reality WE tv
-https://4da04a4f31844ed2a2b1a4dceaf60e86.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_AbsoluteReality/playlist.m3u8?ads.wurl_channel=475&ads.wurl_name=AbsoluteReality&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1 tvg-id="USAJ340001380" tvg-name="All Weddings WE tv" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ340001380_20230125T022703SQUARE.png_20230125022703.png" group-title="Reality",All Weddings WE tv
-https://301e8447395c4f99835aec6b98ed9acd.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_AllWeddingsbyWEtv/playlist.m3u8?ads.wurl_channel=695&ads.wurl_name=AllWeddingsbyWEtv&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 tvg-id="USBB4400016F9" tvg-name="All-Out Reality" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400016F9_20221116T013444SQUARE.png_20221116013445.png" group-title="Reality",All-Out Reality
-https://d25pilaj6f1nfk.cloudfront.net/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-#EXTINF:-1 tvg-id="62e91ea20d06110008396079" tvg-name="Always Funny Videos" tvg-logo="https://images.pluto.tv/channels/62e91ea20d06110008396079/colorLogoPNG.png" group-title="Reality",Always Funny Videos
-https://i.mjh.nz/PlutoTV/62e91ea20d06110008396079-alt.m3u8
-#EXTINF:-1 tvg-id="6408ae8f9b39550008caf94f" tvg-name="American Pickers" tvg-logo="https://images.pluto.tv/channels/6408ae8f9b39550008caf94f/colorLogoPNG.png" group-title="Reality",American Pickers
-https://i.mjh.nz/PlutoTV/6408ae8f9b39550008caf94f-alt.m3u8
-#EXTINF:-1 tvg-id="USBB5200020Z0" tvg-name="Ax Men" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200020Z0_20230208T100245SQUARE.png_20230208100246.png" group-title="Reality",Ax Men
-https://647ed3ba.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZ19BeE1lbl9ITFM/playlist.m3u8?ads.wurl_channel=998&ads.wurl_name=AxMen&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 tvg-id="60a3d889a5b3690008dc7fe8" tvg-name="Bar Rescue" tvg-logo="https://images.pluto.tv/channels/60a3d889a5b3690008dc7fe8/colorLogoPNG.png" group-title="Reality",Bar Rescue
-https://i.mjh.nz/PlutoTV/60a3d889a5b3690008dc7fe8-alt.m3u8
-#EXTINF:-1 tvg-id="5d51e2bceca5b4b2c0e06c50" tvg-name="Black Ink Crew" tvg-logo="https://images.pluto.tv/channels/5d51e2bceca5b4b2c0e06c50/colorLogoPNG.png" group-title="Reality",Black Ink Crew
-https://i.mjh.nz/PlutoTV/5d51e2bceca5b4b2c0e06c50-alt.m3u8
-#EXTINF:-1 tvg-id="62bdb0785611f2000761ca9a" tvg-name="Bridezillas" tvg-logo="https://images.pluto.tv/channels/62bdb0785611f2000761ca9a/colorLogoPNG.png" group-title="Reality",Bridezillas
-https://i.mjh.nz/PlutoTV/62bdb0785611f2000761ca9a-alt.m3u8
-#EXTINF:-1 tvg-id="625eaebc2a73a00007d3f855" tvg-name="Catfish" tvg-logo="https://images.pluto.tv/channels/625eaebc2a73a00007d3f855/colorLogoPNG.png" group-title="Reality",Catfish
-https://i.mjh.nz/PlutoTV/625eaebc2a73a00007d3f855-alt.m3u8
-#EXTINF:-1 tvg-id="627d355aa95efd00077afcc7" tvg-name="Cheaters" tvg-logo="https://images.pluto.tv/channels/627d355aa95efd00077afcc7/colorLogoPNG.png" group-title="Reality",Cheaters
-https://i.mjh.nz/PlutoTV/627d355aa95efd00077afcc7-alt.m3u8
-#EXTINF:-1 tvg-id="5d40855b3fb0855028c99b6f" tvg-name="Dallas Cowboys Cheerleaders" tvg-logo="https://images.pluto.tv/channels/5d40855b3fb0855028c99b6f/colorLogoPNG.png" group-title="Reality",Dallas Cowboys Cheerleaders
-https://i.mjh.nz/PlutoTV/5d40855b3fb0855028c99b6f-alt.m3u8
-#EXTINF:-1 tvg-id="USBC3900021HS" tvg-name="Dance Moms" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3900021HS_20230523T230725SQUARE.png_20230523230726.png" group-title="Reality",Dance Moms
-https://d1xr57paxchdon.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hje9b5jnyshke-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-#EXTINF:-1 tvg-id="USBA300022JX" tvg-name="INFAST" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300022JX_20230125T022617SQUARE.png_20230125022618.png" group-title="Reality",INFAST
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-insighttv/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1 tvg-id="USBB52000246M" tvg-name="Deal Zone" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000246M_20230614T000437SQUARE.png_20230614000438.png" group-title="Reality",Deal Zone
-https://27ed596f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZ19EZWFsWm9uZV9ITFM/playlist.m3u8?ads.wurl_channel=1099&ads.wurl_name=DealZone&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 tvg-id="5bee1a7359ee03633e780238" tvg-name="Dog the Bounty Hunter" tvg-logo="https://images.pluto.tv/channels/5bee1a7359ee03633e780238/colorLogoPNG.png" group-title="Reality",Dog the Bounty Hunter
-https://i.mjh.nz/PlutoTV/5bee1a7359ee03633e780238-alt.m3u8
-#EXTINF:-1 tvg-id="USBC4400002GF" tvg-name="Duck Dynasty" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400002GF_20230509T224444SQUARE.png_20230509224445.png" group-title="Reality",Duck Dynasty
-https://d27ibzhjiawl1m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4rfei5g9dayw8-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-#EXTINF:-1 tvg-id="62bdb5500c21270007218ce1" tvg-name="FailArmy" tvg-logo="https://images.pluto.tv/channels/62bdb5500c21270007218ce1/colorLogoPNG.png" group-title="Reality",FailArmy
-https://i.mjh.nz/PlutoTV/62bdb5500c21270007218ce1-alt.m3u8
-#EXTINF:-1 tvg-id="63482674df87730007656044" tvg-name="Fear Factor" tvg-logo="https://images.pluto.tv/channels/63482674df87730007656044/colorLogoPNG.png" group-title="Reality",Fear Factor
-https://i.mjh.nz/PlutoTV/63482674df87730007656044-alt.m3u8
-#EXTINF:-1 tvg-id="62ea45010d0611000839868c" tvg-name="Gordon Ramsay's Hell's Kitchen" tvg-logo="https://images.pluto.tv/channels/62ea45010d0611000839868c/colorLogoPNG.png" group-title="Reality",Gordon Ramsay's Hell's Kitchen
-https://i.mjh.nz/PlutoTV/62ea45010d0611000839868c-alt.m3u8
-#EXTINF:-1 tvg-id="63934c218ef524000757b122" tvg-name="HauntTV" tvg-logo="https://images.pluto.tv/channels/63934c218ef524000757b122/colorLogoPNG.png" group-title="Reality",HauntTV
-https://i.mjh.nz/PlutoTV/63934c218ef524000757b122-alt.m3u8
-#EXTINF:-1 tvg-id="USBB2900002Z7" tvg-name="Hell's Kitchen" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2900002Z7_20230307T222239SQUARE.png_20230307222240.png" group-title="Reality",Hell's Kitchen
-https://dvzueir2lg0o6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/HellsKitchen-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-#EXTINF:-1 tvg-id="USBB520002173" tvg-name="Ice Road Truckers" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB520002173_20230125T022253SQUARE.png_20230125022253.png" group-title="Reality",Ice Road Truckers
-https://48efd445.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZ19JY2VSb2FkVHJ1Y2tlcnNfSExT/playlist.m3u8?ads.wurl_channel=968&ads.wurl_name=IceRoadTruckers&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 tvg-id="60807fd5db701400078219c2" tvg-name="Ink Master" tvg-logo="https://images.pluto.tv/channels/60807fd5db701400078219c2/colorLogoPNG.png" group-title="Reality",Ink Master
-https://i.mjh.nz/PlutoTV/60807fd5db701400078219c2-alt.m3u8
-#EXTINF:-1 tvg-id="609bfa51fbecc1000733152e" tvg-name="Jersey Shore" tvg-logo="https://images.pluto.tv/channels/609bfa51fbecc1000733152e/colorLogoPNG.png" group-title="Reality",Jersey Shore
-https://i.mjh.nz/PlutoTV/609bfa51fbecc1000733152e-alt.m3u8
-#EXTINF:-1 tvg-id="600acdc434a37000070004cf" tvg-name="Judge Nosey" tvg-logo="https://images.pluto.tv/channels/600acdc434a37000070004cf/colorLogoPNG.png" group-title="Reality",Judge Nosey
-https://i.mjh.nz/PlutoTV/600acdc434a37000070004cf-alt.m3u8
-#EXTINF:-1 tvg-id="USBA3000042O6" tvg-name="Kitchen Nightmares" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000042O6_20220928T005202SQUARE.png_20220928005203.png" group-title="Reality",Kitchen Nightmares
-https://d12hafsmzbqmzo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/KitchenNightmare2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-#EXTINF:-1 tvg-id="5d51ddf0369acdb278dfb05e" tvg-name="Love & Hip Hop" tvg-logo="https://images.pluto.tv/channels/5d51ddf0369acdb278dfb05e/colorLogoPNG.png" group-title="Reality",Love & Hip Hop
-https://i.mjh.nz/PlutoTV/5d51ddf0369acdb278dfb05e-alt.m3u8
-#EXTINF:-1 tvg-id="USBC440000193" tvg-name="Matched Married Meet" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC440000193_20221214T015032SQUARE.png_20221214015033.png" group-title="Reality",Matched Married Meet
-https://d34857wuk4rwh7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-aqf1fjzi6vrfh-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-#EXTINF:-1 tvg-id="5ca6899a37b88b269472ea4b" tvg-name="MTV Dating" tvg-logo="https://images.pluto.tv/channels/5ca6899a37b88b269472ea4b/colorLogoPNG-1641927416701.png" group-title="Reality",MTV Dating
-https://i.mjh.nz/PlutoTV/5ca6899a37b88b269472ea4b-alt.m3u8
-#EXTINF:-1 tvg-id="5ca672f515a62078d2ec0ad2" tvg-name="MTV Pluto TV" tvg-logo="https://images.pluto.tv/channels/5ca672f515a62078d2ec0ad2/colorLogoPNG-1641928171062.png" group-title="Reality",MTV Pluto TV
-https://i.mjh.nz/PlutoTV/5ca672f515a62078d2ec0ad2-alt.m3u8
-#EXTINF:-1 tvg-id="625eb3e245f5bc0007810046" tvg-name="MTV Reality" tvg-logo="https://images.pluto.tv/channels/625eb3e245f5bc0007810046/colorLogoPNG.png" group-title="Reality",MTV Reality
-https://i.mjh.nz/PlutoTV/625eb3e245f5bc0007810046-alt.m3u8
-#EXTINF:-1 tvg-id="60e455469bb4200008374d7e" tvg-name="My Strange Addiction" tvg-logo="https://images.pluto.tv/channels/60e455469bb4200008374d7e/colorLogoPNG.png" group-title="Reality",My Strange Addiction
-https://i.mjh.nz/PlutoTV/60e455469bb4200008374d7e-alt.m3u8
-#EXTINF:-1 tvg-id="USBC6000219D" tvg-name="Operation Repo" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC6000219D_20230131T052103SQUARE.png_20230131052103.png" group-title="Reality",Operation Repo
-https://di2w8zu72n5r0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6vndkzwpwatr5-prod/dist/samsungtv/296/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-#EXTINF:-1 tvg-id="USBB520002604" tvg-name="Perform" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB520002604_20221214T015038SQUARE.png_20221214015039.png" group-title="Reality",Perform
-https://726f3324.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZ19QZXJmb3JtX0hMUw/playlist.m3u8?ads.wurl_channel=1053&ads.wurl_name=Perform&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 tvg-id="62e92b5fca869f00078f0162" tvg-name="Pet Collective" tvg-logo="https://images.pluto.tv/channels/62e92b5fca869f00078f0162/colorLogoPNG.png" group-title="Reality",Pet Collective
-https://i.mjh.nz/PlutoTV/62e92b5fca869f00078f0162-alt.m3u8
-#EXTINF:-1 tvg-id="USBB3500004RC" tvg-name="Project Runway" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3500004RC_20230307T222251SQUARE.png_20230307222252.png" group-title="Reality",Project Runway
-https://d1inivznn1dsuk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ProjectRunway-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-#EXTINF:-1 tvg-id="5f21e831e9fe730007706acb" tvg-name="Rescue 911" tvg-logo="https://images.pluto.tv/channels/5f21e831e9fe730007706acb/colorLogoPNG.png" group-title="Reality",Rescue 911
-https://i.mjh.nz/PlutoTV/5f21e831e9fe730007706acb-alt.m3u8
-#EXTINF:-1 tvg-id="5c393cad2de254456f7ef8c2" tvg-name="Spike Outdoors" tvg-logo="https://images.pluto.tv/channels/5c393cad2de254456f7ef8c2/colorLogoPNG.png" group-title="Reality",Spike Outdoors
-https://i.mjh.nz/PlutoTV/5c393cad2de254456f7ef8c2-alt.m3u8
-#EXTINF:-1 tvg-id="5812bcc8237a6ff45d16c407" tvg-name="Spike Pluto TV" tvg-logo="https://images.pluto.tv/channels/5812bcc8237a6ff45d16c407/colorLogoPNG.png" group-title="Reality",Spike Pluto TV
-https://i.mjh.nz/PlutoTV/5812bcc8237a6ff45d16c407-alt.m3u8
-#EXTINF:-1 tvg-id="5f21e7b24744c60007c1f6fc" tvg-name="Survivor" tvg-logo="https://images.pluto.tv/channels/5f21e7b24744c60007c1f6fc/colorLogoPNG.png" group-title="Reality",Survivor
-https://i.mjh.nz/PlutoTV/5f21e7b24744c60007c1f6fc-alt.m3u8
-#EXTINF:-1 tvg-id="6127e12ed140e900077e7b6f" tvg-name="Teen Mom" tvg-logo="https://images.pluto.tv/channels/6127e12ed140e900077e7b6f/colorLogoPNG.png" group-title="Reality",Teen Mom
-https://i.mjh.nz/PlutoTV/6127e12ed140e900077e7b6f-alt.m3u8
-#EXTINF:-1 tvg-id="5f21e8a6e2f12b000755afdb" tvg-name="The Amazing Race" tvg-logo="https://images.pluto.tv/channels/5f21e8a6e2f12b000755afdb/colorLogoPNG.png" group-title="Reality",The Amazing Race
-https://i.mjh.nz/PlutoTV/5f21e8a6e2f12b000755afdb-alt.m3u8
-#EXTINF:-1 tvg-id="USBC440001542" tvg-name="The Biggest Loser" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC440001542_20230125T022302SQUARE.png_20230125022303.png" group-title="Reality",The Biggest Loser
-https://d17sh8j5i3s8gs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y005mrgv36rvt-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-#EXTINF:-1 tvg-id="5d48685da7e9f476aa8a1888" tvg-name="The Challenge" tvg-logo="https://images.pluto.tv/channels/5d48685da7e9f476aa8a1888/colorLogoPNG.png" group-title="Reality",The Challenge
-https://i.mjh.nz/PlutoTV/5d48685da7e9f476aa8a1888-alt.m3u8
-#EXTINF:-1 tvg-id="638e10220aa6a6000726979f" tvg-name="Top Gear" tvg-logo="https://images.pluto.tv/channels/638e10220aa6a6000726979f/colorLogoPNG.png" group-title="Reality",Top Gear
-https://i.mjh.nz/PlutoTV/638e10220aa6a6000726979f-alt.m3u8
-#EXTINF:-1 tvg-id="5d71561df6f2e6d0b6493bf5" tvg-name="VH1 Hip Hop Family" tvg-logo="https://images.pluto.tv/channels/5d71561df6f2e6d0b6493bf5/colorLogoPNG.png" group-title="Reality",VH1 Hip Hop Family
-https://i.mjh.nz/PlutoTV/5d71561df6f2e6d0b6493bf5-alt.m3u8
-#EXTINF:-1 tvg-id="5d7154fa8326b6ce4ec31f2e" tvg-name="VH1 I Love Reality" tvg-logo="https://images.pluto.tv/channels/5d7154fa8326b6ce4ec31f2e/colorLogoPNG.png" group-title="Reality",VH1 I Love Reality
-https://i.mjh.nz/PlutoTV/5d7154fa8326b6ce4ec31f2e-alt.m3u8
-#EXTINF:-1 tvg-id="6000a6f4c3f8550008fc9b91" tvg-name="Xtreme Outdoor Presented by HISTORY" tvg-logo="https://images.pluto.tv/channels/6000a6f4c3f8550008fc9b91/colorLogoPNG.png" group-title="Reality",Xtreme Outdoor Presented by HISTORY
-https://i.mjh.nz/PlutoTV/6000a6f4c3f8550008fc9b91-alt.m3u8
-#EXTINF:-1 tvg-id="USAK3508702A" tvg-name="ACC Digital Network" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508702A_20230125T022220SQUARE.png_20230125022221.png" group-title="Sports",ACC Digital Network
-https://1a8f69077b904368aedb538ed5045ac1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_ACCDigitalNetwork/playlist.m3u8?ads.wurl_channel=599&ads.wurl_name=ACCDigitalNetwork&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1 tvg-id="5df975e2b27cf5000921c102" tvg-name="beIN SPORTS XTRA" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="Sports",beIN SPORTS XTRA
-https://i.mjh.nz/PlutoTV/5df975e2b27cf5000921c102-alt.m3u8
-#EXTINF:-1 tvg-id="5ebc8688f3697d00072f7cf8" tvg-name="Bellator MMA" tvg-logo="https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png" group-title="Sports",Bellator MMA
-https://i.mjh.nz/PlutoTV/5ebc8688f3697d00072f7cf8-alt.m3u8
-#EXTINF:-1 tvg-id="USAJ3504545A" tvg-name="Cars" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504545A_20230125T022032SQUARE.png_20230125022033.png" group-title="Sports",Cars
-https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="5e9f2c05172a0f0007db4786" tvg-name="CBS Sports HQ" tvg-logo="https://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/colorLogoPNG.png" group-title="Sports",CBS Sports HQ
-https://i.mjh.nz/PlutoTV/5e9f2c05172a0f0007db4786-alt.m3u8
-#EXTINF:-1 tvg-id="USBD700013BW" tvg-name="DraftKings Network" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700013BW_20230509T224436SQUARE.png_20230509224436.png" group-title="Sports",DraftKings Network
-https://d2c664cho7ay77.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jv86x14at6fnu/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-#EXTINF:-1 tvg-id="5812b0f2237a6ff45d16c3f9" tvg-name="Fight" tvg-logo="https://images.pluto.tv/channels/5812b0f2237a6ff45d16c3f9/colorLogoPNG-1543864366762.png" group-title="Sports",Fight
-https://i.mjh.nz/PlutoTV/5812b0f2237a6ff45d16c3f9-alt.m3u8
-#EXTINF:-1 tvg-id="5a74b8e1e22a61737979c6bf" tvg-name="FOX Sports" tvg-logo="https://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" group-title="Sports",FOX Sports
-https://i.mjh.nz/PlutoTV/5a74b8e1e22a61737979c6bf-alt.m3u8
-#EXTINF:-1 tvg-id="USAJ2200023Z0" tvg-name="fubo Sports Network" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ2200023Z0_20230208T100255SQUARE.png_20230208100256.png" group-title="Sports",fubo Sports Network
-https://sportsnet-midas.fubo.tv/v1/master/6c9193257c0eed8ca3f1eabccc4444f9477500f1/SportsNet/samsung/master.m3u8?ads.partner=samsung&ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 tvg-id="5417a212ff9fba68282fbf5e" tvg-name="GLORY Kickboxing" tvg-logo="https://images.pluto.tv/channels/5417a212ff9fba68282fbf5e/colorLogoPNG.png" group-title="Sports",GLORY Kickboxing
-https://i.mjh.nz/PlutoTV/5417a212ff9fba68282fbf5e-alt.m3u8
-#EXTINF:-1 tvg-id="63a0e33a45264d000850ed7e" tvg-name="Golazo Network" tvg-logo="https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG.png" group-title="Sports",Golazo Network
-https://i.mjh.nz/PlutoTV/63a0e33a45264d000850ed7e-alt.m3u8
-#EXTINF:-1 tvg-id="USBB400000145" tvg-name="GOLFPASS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB400000145_20230307T222309SQUARE.png_20230307222310.png" group-title="Sports",GOLFPASS
-https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_golfpass_001.m3u8?ads.caid=NBCUGolfpass&ads.csid=samsungtvplus_us_nbcugolfpass_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2794&ads.xumo_contentName=nbcugolfpass&ads.xumo_providerId=2794&ads.xu
-#EXTINF:-1 tvg-id="GBBA2200008YU" tvg-name="Horse & Country" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA2200008YU_20220323T070921SQUARE.png_20220323070923.png" group-title="Sports",Horse & Country
-https://samsunguk-hnc-free-samsung-uk-uz90u.amagi.tv/playlist/samsunguk-hnc-free-samsung-uk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-#EXTINF:-1 tvg-id="59b722526996084038c01e1b" tvg-name="IMPACT Wrestling" tvg-logo="https://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png" group-title="Sports",IMPACT Wrestling
-https://i.mjh.nz/PlutoTV/59b722526996084038c01e1b-alt.m3u8
-#EXTINF:-1 tvg-id="GBAJ42000019J" tvg-name="INTROUBLE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ42000019J_20230125T022341SQUARE.png_20230125022342.png" group-title="Sports",INTROUBLE
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-introuble-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-#EXTINF:-1 tvg-id="MNetSport.mk" tvg-name="M-Net Sport" tvg-logo="https://i.imgur.com/7k8ar1Z.png" group-title="Sports",M-Net Sport
-http://ares.mnet.mk/hls/mnet-sport.m3u8
-#EXTINF:-1 tvg-id="611468532f5f180007fbbc9c" tvg-name="MAVTV Select" tvg-logo="https://images.pluto.tv/channels/611468532f5f180007fbbc9c/colorLogoPNG-1675271915254.png" group-title="Sports",MAVTV Select
-https://i.mjh.nz/PlutoTV/611468532f5f180007fbbc9c-alt.m3u8
-#EXTINF:-1 tvg-id="5e66968a70f34c0007d050be" tvg-name="MLB" tvg-logo="https://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png" group-title="Sports",MLB
-https://i.mjh.nz/PlutoTV/5e66968a70f34c0007d050be-alt.m3u8
-#EXTINF:-1 tvg-id="GBBB160000529" tvg-name="MMA TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB160000529_20220323T071003SQUARE.png_20220323071006.png" group-title="Sports",MMA TV
-https://amg01329-otterainc-mmatv-samsunguk-swg10.amagi.tv/playlist/amg01329-otterainc-mmatv-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-#EXTINF:-1 tvg-id="MoreThanSportsTV.de" tvg-name="More Than Sports TV (1080p)" tvg-logo="https://i.imgur.com/SLrjImc.png" group-title="Sports",More Than Sports TV (1080p)
-https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
-#EXTINF:-1 tvg-id="USBC3600005U9" tvg-name="MotorTrend FAST TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600005U9_20230222T041507SQUARE.png_20230222041508.png" group-title="Sports",MotorTrend FAST TV
-https://d2ueqfwjyzruvu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5kx37wbamxs50-ssai-prd/v1/motortrend_motortrendfasttv_1/samsungheadend_us/latest/main/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-#EXTINF:-1 tvg-id="USBD300021B8" tvg-name="MSG SportsZone" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300021B8_20230426T030511SQUARE.png_20230426030512.png" group-title="Sports",MSG SportsZone
-https://d2a31kzot4f8t3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8c6otsdsok8vf/v1/amc_msgsportszone_1/samsungheadend_us/latest/main/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="Sports",NBA TV
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=749756&extension=ts
-#EXTINF:-1 tvg-id="5ced7d5df64be98e07ed47b6" tvg-name="NFL Channel" tvg-logo="https://images.pluto.tv/channels/5ced7d5df64be98e07ed47b6/colorLogoPNG.png" group-title="Sports",NFL Channel
-https://i.mjh.nz/PlutoTV/5ced7d5df64be98e07ed47b6-alt.m3u8
-#EXTINF:-1 tvg-id="USBC3200019WF" tvg-name="NHRA TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200019WF_20230125T022114SQUARE.png_20230125022115.png" group-title="Sports",NHRA TV
-https://d1o86ay6e2dqcx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2e9gl9io04v56-ssai-prd/nh.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-#EXTINF:-1 tvg-id="GBBC300001ZW" tvg-name="Origin Sports" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC300001ZW_20220323T071314SQUARE.png_20220323071317.png" group-title="Sports",Origin Sports
-https://amg01258-raycomsports-originsports-samsunguk-1f7fe.amagi.tv/playlist/amg01258-raycomsports-originsports-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-#EXTINF:-1 tvg-id="USAK3508729A" tvg-name="Outdoor America" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508729A_20230125T022225SQUARE.png_20230125022226.png" group-title="Sports",Outdoor America
-https://abe7c843f2064704adfd0920c95b127b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_ObsessionMedia/playlist.m3u8?ads.wurl_channel=166&ads.wurl_name=ObsessionMedia&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1 tvg-id="USAJ3504707A" tvg-name="Outside" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504707A_20230125T022214SQUARE.png_20230125022215.png" group-title="Sports",Outside
-https://c185ba78559f47b79f8079be89884d03.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_OutsideTV/playlist.m3u8?ads.wurl_channel=143&ads.wurl_name=OutsideTV&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1 tvg-id="USBA300034DB" tvg-name="Pac-12 Insider" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300034DB_20230125T022145SQUARE.png_20230125022146.png" group-title="Sports",Pac-12 Insider
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-pac12-samsungtv-us/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1 tvg-id="60d39387706fe50007fda8e8" tvg-name="PBR RidePass" tvg-logo="https://images.pluto.tv/channels/60d39387706fe50007fda8e8/colorLogoPNG.png" group-title="Sports",PBR RidePass
-https://i.mjh.nz/PlutoTV/60d39387706fe50007fda8e8-alt.m3u8
-#EXTINF:-1 tvg-id="USAJ3400015BY" tvg-name="People Are Awesome" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3400015BY_20230125T022209SQUARE.png_20230125022210.png" group-title="Sports",People Are Awesome
-https://ab8957f603f74b00bb0517913c452ea5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_PeopleAreAwesome/playlist.m3u8?ads.wurl_channel=385&ads.wurl_name=PeopleAreAwesome&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 tvg-id="6334a574605f140007e233c4" tvg-name="PFL MMA" tvg-logo="https://images.pluto.tv/channels/6334a574605f140007e233c4/colorLogoPNG.png" group-title="Sports",PFL MMA
-https://i.mjh.nz/PlutoTV/6334a574605f140007e233c4-alt.m3u8
-#EXTINF:-1 tvg-id="5de94dacb394a300099fa22a" tvg-name="PGA TOUR" tvg-logo="https://images.pluto.tv/channels/5de94dacb394a300099fa22a/colorLogoPNG.png" group-title="Sports",PGA TOUR
-https://i.mjh.nz/PlutoTV/5de94dacb394a300099fa22a-alt.m3u8
-#EXTINF:-1 tvg-id="5fc54366b04b2300072e31af" tvg-name="PokerGo" tvg-logo="https://images.pluto.tv/channels/5fc54366b04b2300072e31af/colorLogoPNG.png" group-title="Sports",PokerGo
-https://i.mjh.nz/PlutoTV/5fc54366b04b2300072e31af-alt.m3u8
-#EXTINF:-1 tvg-id="USAJ3504717A" tvg-name="PowerNation" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504717A_20230125T022216SQUARE.png_20230125022217.png" group-title="Sports",PowerNation
-https://29b9949f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZ19SVE1UVkNoYW5uZWxfSExT/playlist.m3u8?ads.wurl_channel=177&ads.wurl_name=RTMTVChannel&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 tvg-id="USAJ2200012RN" tvg-name="Pursuit UP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ2200012RN_20230222T041247SQUARE.png_20230222041248.png" group-title="Sports",Pursuit UP
-https://1c1adf8d91e94b7d836ac263d6f0f35f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_PursuitUp/playlist.m3u8?ads.wurl_channel=243&ads.wurl_name=PursuitUp&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-name="RealMadrid TV" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="Sports",RealMadrid TV
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
-#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" tvg-logo="https://i.imgur.com/BcN8B3D.png" group-title="Sports",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-id="USBC2400017RE" tvg-name="Ride or Drive" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2400017RE_20230307T222332SQUARE.png_20230307222332.png" group-title="Sports",Ride or Drive
-https://dizbp2a9dfz47.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-22elw950yr3vp-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-#EXTINF:-1 tvg-id="SharjahSports.ae" tvg-name="Sharjah Sports TV" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" group-title="Sports",Sharjah Sports TV
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="GBAJ4900003KD" tvg-name="Sports Channel Network" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ4900003KD_20221026T004708SQUARE.png_20221026004709.png" group-title="Sports",Sports Channel Network
-https://272ab712c4604e8d8980a78b9335981f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_SportsChannelNetwork/playlist.m3u8?ads.wurl_channel=391&ads.wurl_name=SportsChannelNetwork&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 tvg-id="SportsTVPlus.us" tvg-name="Sports TV Plus" tvg-logo="https://i.imgur.com/EyCDhgN.png" group-title="Sports",Sports TV Plus
-https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
-#EXTINF:-1 tvg-id="Sports181HD.in" tvg-name="Sports18 1 HD" tvg-logo="https://i.ibb.co/NmVCXhz/IMG-20230610-135938.jpg" group-title="Sports",Sports18 1 HD
-https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="USBA300031OT" tvg-name="SportsGrid" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300031OT_20230125T022143SQUARE.png_20230125022143.png" group-title="Sports",SportsGrid
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/sportsgri-sportsgrid-samsung-us/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1 tvg-id="USAJ3504705A" tvg-name="Stadium" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504705A_20230125T022058SQUARE.png_20230125022059.png" group-title="Sports",Stadium
-https://2d006483e2aa43fe812f7b464cb2916d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Stadium/playlist.m3u8?ads.wurl_channel=160&ads.wurl_name=Stadium&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1 tvg-id="GBBC90001089" tvg-name="Strongman Champions League" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC90001089_20230614T010130SQUARE.png_20230614010130.png" group-title="Sports",Strongman Champions League
-https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/playlist.m3u8?ads.wurl_channel=1102&ads.wurl_name=StrongmanChampionsLeague&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 tvg-id="USBB10000058A" tvg-name="SURF NOW TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB10000058A_20230125T022158SQUARE.png_20230125022159.png" group-title="Sports",SURF NOW TV
-https://dgwfm675921lp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/SurfNowTv-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-#EXTINF:-1 tvg-id="USBC600001QL" tvg-name="T2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC600001QL_20230614T000444SQUARE.png_20230614000445.png" group-title="Sports",T2
-https://d3qg0hadt0dkov.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3sfgyrfz9zduo-prod/amgtennisus/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-#EXTINF:-1 tvg-id="GBBA33000529G" tvg-name="Tennis Channel International" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA33000529G_20220323T071122SQUARE.png_20220323071125.png" group-title="Sports",Tennis Channel International
-https://samsunguk-tennischannel-international-samsung-uk-9pdb4.amagi.tv/playlist/samsunguk-tennischannel-international-samsung-uk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-#EXTINF:-1 tvg-id="USBC2400027NG" tvg-name="Top Gear" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2400027NG_20230307T222336SQUARE.png_20230307222337.png" group-title="Sports",Top Gear
-https://d3mpi5qa5otpo5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i0am1w3cs6gml-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-#EXTINF:-1 tvg-id="USBB5200027Z5" tvg-name="Torque" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200027Z5_20221214T015045SQUARE.png_20221214015045.png" group-title="Sports",Torque
-https://3ada9245.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZ19Ub3JxdWVfSExT/playlist.m3u8?ads.wurl_channel=1052&ads.wurl_name=Torque&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 tvg-id="GBBA330004950" tvg-name="Unbeaten" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA330004950_20220323T071214SQUARE.png_20220323071217.png" group-title="Sports",Unbeaten
-https://inverleig-unbeaten-samsunguk-7xv9f.amagi.tv/playlist/inverleig-unbeaten-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-#EXTINF:-1 tvg-id="GBBB4300001NX" tvg-name="Viaplay Xtra" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB4300001NX_20221109T010820SQUARE.png_20221109010820.png" group-title="Sports",Viaplay Xtra
-https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 tvg-id="61b3ec5ac547920007daf647" tvg-name="Waypoint TV" tvg-logo="https://images.pluto.tv/channels/61b3ec5ac547920007daf647/colorLogoPNG.png" group-title="Sports",Waypoint TV
-https://i.mjh.nz/PlutoTV/61b3ec5ac547920007daf647-alt.m3u8
-#EXTINF:-1 tvg-id="5616f9c0ada51f8004c4b091" tvg-name="World Poker Tour" tvg-logo="https://images.pluto.tv/channels/5616f9c0ada51f8004c4b091/colorLogoPNG-1664295222280.png" group-title="Sports",World Poker Tour
-https://i.mjh.nz/PlutoTV/5616f9c0ada51f8004c4b091-alt.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-10-28-2020-232939597-10-28-2020" tvg-name="ACCDN" tvg-logo="https://i.mjh.nz/Stirr/.images/3be6e11606.png" group-title="STIRR",ACCDN
-https://dai.google.com/linear/hls/event/2vLw_L-5RoOIGNDRpMFgQQ/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-06-23-2020-06-23-2020" tvg-name="AFV" tvg-logo="https://i.mjh.nz/Stirr/.images/5c1f8d189b.png" group-title="STIRR",AFV
-https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-11-06-2019-184659187-11-06-2019" tvg-name="Ambiance" tvg-logo="https://i.mjh.nz/Stirr/.images/7f9d6b864b.png" group-title="STIRR",Ambiance
-https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-10-28-2020-10-28-2020" tvg-name="America vs. Addiction" tvg-logo="https://i.mjh.nz/Stirr/.images/e93a07a7af.png" group-title="STIRR",America vs. Addiction
-https://dai.google.com/linear/hls/event/-A9339ixSzydnZQZHd1u2A/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-12-19-2020-12-19-2020" tvg-name="Bloomberg TV+" tvg-logo="https://i.mjh.nz/Stirr/.images/26a39a9e6c.png" group-title="STIRR",Bloomberg TV+
-https://dai.google.com/linear/hls/event/NiumF4GTSGe-pXM-iMsP0A/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-01-15-2020-201540715-01-15-2020" tvg-name="CHARGE" tvg-logo="https://i.mjh.nz/Stirr/.images/8b4d0a3429.png" group-title="STIRR",CHARGE
-https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
-#EXTINF:-1 tvg-id="cheddar-wurl-external-10-31-2018" tvg-name="Cheddar" tvg-logo="https://i.mjh.nz/Stirr/.images/c7c444f65b.png" group-title="STIRR",Cheddar
-https://dai.google.com/linear/hls/event/frfwucAPTVunrpitYiymwg/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-05-25-2020-05-25-2020" tvg-name="Classica" tvg-logo="https://i.mjh.nz/Stirr/.images/659467dd92.png" group-title="STIRR",Classica
-https://dai.google.com/linear/hls/event/AaFxJXOhQl-BsTVC9OCunQ/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-08-01-2019-08-01-2019" tvg-name="Comedy Dynamics" tvg-logo="https://i.mjh.nz/Stirr/.images/bcca7d0749.png" group-title="STIRR",Comedy Dynamics
-https://dai.google.com/linear/hls/event/NJK_yxrcTBqULaHt-wi0Wg/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-05-21-2019-05-21-2019" tvg-name="COMET" tvg-logo="https://i.mjh.nz/Stirr/.images/df2f520ff0.png" group-title="STIRR",COMET
-https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-10-06-2020-10-06-2020" tvg-name="DJAZZ" tvg-logo="https://i.mjh.nz/Stirr/.images/8b901076b2.png" group-title="STIRR",DJAZZ
-https://dai.google.com/linear/hls/event/C-lfmhUVTGeDNWwU13_EgA/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-05-20-2019-05-20-2019" tvg-name="Docurama" tvg-logo="https://i.mjh.nz/Stirr/.images/71c3a398a9.png" group-title="STIRR",Docurama
-https://dai.google.com/linear/hls/event/Hx_PEMEsSzOCcZgy0Tq2YQ/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-01-28-2021-184530260-01-28-2021" tvg-name="Dove" tvg-logo="https://i.mjh.nz/Stirr/.images/9570ec6ab7.png" group-title="STIRR",Dove
-https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-10-21-2019-10-21-2019" tvg-name="Electric Now" tvg-logo="https://i.mjh.nz/Stirr/.images/5a48b55fc8.png" group-title="STIRR",Electric Now
-https://api-ott.electricnow.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=430&partner=stirr_testing
-#EXTINF:-1 tvg-id="fail-army-wurl-external-07-28-2018" tvg-name="FailArmy" tvg-logo="https://i.mjh.nz/Stirr/.images/e7f99e4cc6.png" group-title="STIRR",FailArmy
-https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-07-18-2019-07-18-2019" tvg-name="Film Detective" tvg-logo="https://i.mjh.nz/Stirr/.images/ed0c97d7e8.png" group-title="STIRR",Film Detective
-https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
-#EXTINF:-1 tvg-id="gravitas-wurl-external-12-03-2018" tvg-name="Gravitas" tvg-logo="https://i.mjh.nz/Stirr/.images/07fb2f7f7a.png" group-title="STIRR",Gravitas
-https://dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8
-#EXTINF:-1 tvg-id="horse-shopping-channel-01-05-2021-232155211" tvg-name="Horse Shopping Channel" tvg-logo="https://i.mjh.nz/Stirr/.images/f104398b83.png" group-title="STIRR",Horse Shopping Channel
-https://playoutengine.sinclairstoryline.com/playout/c16448cc-ef21-44a5-a5b4-192f943b2dbb.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-06-26-2020-185414162-06-26-2020" tvg-name="HSN" tvg-logo="https://i.mjh.nz/Stirr/.images/a2c1332034.png" group-title="STIRR",HSN
-https://dai.google.com/linear/hls/event/akursTHNTo6qGf1TtlHNsw/master.m3u8
-#EXTINF:-1 tvg-id="its-showtime-at-the-apollo-03-12-2021" tvg-name="It's Showtime at the Apollo" tvg-logo="https://i.mjh.nz/Stirr/.images/04334ffd4f.png" group-title="STIRR",It's Showtime at the Apollo
-https://dai.google.com/linear/hls/event/fAFfTnCAT2K8d83sYsA-cw/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-12-11-2019-12-11-2019" tvg-name="Karaoke" tvg-logo="https://i.mjh.nz/Stirr/.images/9f676235b5.png" group-title="STIRR",Karaoke
-https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-03-22-2019-03-22-2019" tvg-name="Law & Crime" tvg-logo="https://i.mjh.nz/Stirr/.images/ae83f6d0a7.png" group-title="STIRR",Law & Crime
-https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-03-13-2020-03-13-2020" tvg-name="LiveXLive" tvg-logo="https://i.mjh.nz/Stirr/.images/4fabd4d858.png" group-title="STIRR",LiveXLive
-https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-01-13-2020-234138693-01-13-2020" tvg-name="MagellanTV" tvg-logo="https://i.mjh.nz/Stirr/.images/8265a4a003.png" group-title="STIRR",MagellanTV
-https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-04-21-2020-213519853-04-21-2020" tvg-name="MavTv" tvg-logo="https://i.mjh.nz/Stirr/.images/d39761d343.png" group-title="STIRR",MavTv
-https://dai.google.com/linear/hls/event/YoBM0ae5Q62TPdrfFHS4RQ/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-06-26-2020-193305392-06-26-2020" tvg-name="Midnight Pulp" tvg-logo="https://i.mjh.nz/Stirr/.images/d65f1a518c.png" group-title="STIRR",Midnight Pulp
-https://dai.google.com/linear/hls/event/1fO2zbpBRyy6S5yve_fnaw/master.m3u8
-#EXTINF:-1 tvg-id="nasatv-gracenote-external-01-09-2019" tvg-name="NASATV" tvg-logo="https://i.mjh.nz/Stirr/.images/22eb0947e0.png" group-title="STIRR",NASATV
-https://usgeowall.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-09-28-2021-09-28-2021" tvg-name="News 12 New York" tvg-logo="https://i.mjh.nz/Stirr/.images/595aea74a9.png" group-title="STIRR",News 12 New York
-https://dai.google.com/linear/hls/event/prB2uMbkRSiK1vL3Y_mHCw/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-09-27-2021-09-27-2021" tvg-name="Nosey" tvg-logo="https://i.mjh.nz/Stirr/.images/5213a9c176.png" group-title="STIRR",Nosey
-https://dai.google.com/linear/hls/event/UUXi0jbTQpa0OkpheRqKJQ/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-08-27-2021-08-27-2021" tvg-name="ONTV4U" tvg-logo="https://i.mjh.nz/Stirr/.images/9ee1760cf7.png" group-title="STIRR",ONTV4U
-https://dai.google.com/linear/hls/event/571lW-W1Th6Go5EV3Qa19Q/master.m3u8
-#EXTINF:-1 tvg-id="outdoor-america-wurl-external-12-21-2018" tvg-name="Outdoor America" tvg-logo="https://i.mjh.nz/Stirr/.images/ca6180f255.png" group-title="STIRR",Outdoor America
-https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-11-30-2020-224017637-11-30-2020" tvg-name="People Are Awesome" tvg-logo="https://i.mjh.nz/Stirr/.images/3b6c8a6b2c.png" group-title="STIRR",People Are Awesome
-https://dai.google.com/linear/hls/event/n2b4-fFMTTKRWqvx_dxhsw/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-02-13-2020-02-13-2020" tvg-name="Popstar! TV" tvg-logo="https://i.mjh.nz/Stirr/.images/0dafe8df23.png" group-title="STIRR",Popstar! TV
-https://dai.google.com/linear/hls/event/cJFuxTLzQUqbGGrqTMBJuw/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-07-01-2020-225307685-07-01-2020" tvg-name="PursuitUp" tvg-logo="https://i.mjh.nz/Stirr/.images/0f3a952065.png" group-title="STIRR",PursuitUp
-https://dai.google.com/linear/hls/event/NpkpFaFVRqaQwSkpPdramg/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-12-04-2019-193009840-12-04-2019" tvg-name="Qello" tvg-logo="https://i.mjh.nz/Stirr/.images/38f50ed23c.png" group-title="STIRR",Qello
-https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-01-28-2021-01-28-2021" tvg-name="Quicktake" tvg-logo="https://i.mjh.nz/Stirr/.images/fcf2a6e4d4.png" group-title="STIRR",Quicktake
-https://dai.google.com/linear/hls/event/6ANW1HGeSTKzJlnAa9u1AQ/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-05-26-2020-05-26-2020" tvg-name="QVC" tvg-logo="https://i.mjh.nz/Stirr/.images/76da581a2e.png" group-title="STIRR",QVC
-https://dai.google.com/linear/hls/event/roEbn_l7Tzezwy22F1NSfA/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-07-01-2020-07-01-2020" tvg-name="RetroCrush" tvg-logo="https://i.mjh.nz/Stirr/.images/c624d7b545.png" group-title="STIRR",RetroCrush
-https://dai.google.com/linear/hls/event/7LAMGFcmQN6iFJjNoHWXrg/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-02-04-2020-02-04-2020" tvg-name="Revry" tvg-logo="https://i.mjh.nz/Stirr/.images/4ec53af79e.png" group-title="STIRR",Revry
-https://linear-5.frequency.stream/dist/stirr/5/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-09-16-2021-09-16-2021" tvg-name="Shop LC" tvg-logo="https://i.mjh.nz/Stirr/.images/97db4f5372.png" group-title="STIRR",Shop LC
-https://dai.google.com/linear/hls/event/9WYzyYxrRvafiVxUGKV2OA/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-08-18-2020-08-18-2020" tvg-name="So...Real" tvg-logo="https://i.mjh.nz/Stirr/.images/9d37cac4a9.png" group-title="STIRR",So...Real
-https://dai.google.com/linear/hls/event/VMzvtHhOQdOAzbV_hQKQbQ/master.m3u8
-#EXTINF:-1 tvg-id="soar-11-20-2019" tvg-name="SOAR" tvg-logo="https://i.mjh.nz/Stirr/.images/19086698bc.png" group-title="STIRR",SOAR
-https://dai.google.com/linear/hls/event/_PDxBUttQYqkxPnmh3VOZA/master.m3u8
-#EXTINF:-1 tvg-id="stadium" tvg-name="Stadium" tvg-logo="https://i.mjh.nz/Stirr/.images/42649c3aa5.png" group-title="STIRR",Stadium
-https://dai.google.com/linear/hls/event/0jRU1DBXSW6a_TFheLfAUQ/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-12-04-2019-192438503-12-04-2019" tvg-name="Stingray Classic Rock" tvg-logo="https://i.mjh.nz/Stirr/.images/5b1e4408f4.png" group-title="STIRR",Stingray Classic Rock
-https://dai.google.com/linear/hls/event/vlqVJJSkQKW6IB7bQSGZ5A/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-12-04-2019-184749725-12-04-2019" tvg-name="Stingray Everything 80s" tvg-logo="https://i.mjh.nz/Stirr/.images/095f368e58.png" group-title="STIRR",Stingray Everything 80s
-https://dai.google.com/linear/hls/event/XiPZx9vFS8i6lgkNnprjtQ/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-12-04-2019-185615218-12-04-2019" tvg-name="Stingray Flashback 70s" tvg-logo="https://i.mjh.nz/Stirr/.images/2a93be72fe.png" group-title="STIRR",Stingray Flashback 70s
-https://dai.google.com/linear/hls/event/Y3O1azbASfKxO4gdleMbmQ/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-12-04-2019-173904669-12-04-2019" tvg-name="Stingray Greatest Hits" tvg-logo="https://i.mjh.nz/Stirr/.images/4bd829b1d0.png" group-title="STIRR",Stingray Greatest Hits
-https://dai.google.com/linear/hls/event/_2NUNA_qTSyd70FTD_lqyw/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-12-06-2019-12-06-2019" tvg-name="Stingray Hit List" tvg-logo="https://i.mjh.nz/Stirr/.images/a3dcb668ae.png" group-title="STIRR",Stingray Hit List
-https://dai.google.com/linear/hls/event/Hz2x5xc5TSaJ4NzV-AUcEg/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-12-04-2019-185914490-12-04-2019" tvg-name="Stingray Hot Country" tvg-logo="https://i.mjh.nz/Stirr/.images/5f1f78c3ab.png" group-title="STIRR",Stingray Hot Country
-https://dai.google.com/linear/hls/event/SgCez41rR36rmiw8Odu8FA/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-12-04-2019-190655242-12-04-2019" tvg-name="Stingray Pop Adult" tvg-logo="https://i.mjh.nz/Stirr/.images/73740500f5.png" group-title="STIRR",Stingray Pop Adult
-https://dai.google.com/linear/hls/event/rJ3187-VT6GIl-XUZTbX6w/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-12-04-2019-190935337-12-04-2019" tvg-name="Stingray Rock Alternative" tvg-logo="https://i.mjh.nz/Stirr/.images/cea41a8d26.png" group-title="STIRR",Stingray Rock Alternative
-https://dai.google.com/linear/hls/event/k446WemXQgSbP0IsuZrM7w/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-12-04-2019-12-04-2019" tvg-name="Stingray Today's Latin Pop" tvg-logo="https://i.mjh.nz/Stirr/.images/5a55d698ee.png" group-title="STIRR",Stingray Today's Latin Pop
-https://dai.google.com/linear/hls/event/M-6M5FGMRUegPLdsgkF7KA/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-12-04-2019-175616790-12-04-2019" tvg-name="Stingray Urban Beats" tvg-logo="https://i.mjh.nz/Stirr/.images/2cd917bc8b.png" group-title="STIRR",Stingray Urban Beats
-https://dai.google.com/linear/hls/event/tNflj2YMTfCWowqDM1Ej6A/master.m3u8
-#EXTINF:-1 tvg-id="dco" tvg-name="STIRR | National" tvg-logo="https://i.mjh.nz/Stirr/.images/86de280abc.png" group-title="STIRR",STIRR | National
-https://dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-02-09-2022-02-09-2022" tvg-name="Swerve Sports" tvg-logo="https://i.mjh.nz/Stirr/.images/756316e10b.png" group-title="STIRR",Swerve Sports
-https://dai.google.com/linear/hls/event/5qa-mJF2R0iBw8S1JwF7FQ/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-05-22-2019-05-22-2019" tvg-name="TBD" tvg-logo="https://i.mjh.nz/Stirr/.images/068ecce324.png" group-title="STIRR",TBD
-https://dai.google.com/linear/hls/event/_xtY848OSRCm_k0veSjMHg/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-12-15-2021-12-15-2021" tvg-name="The Archive" tvg-logo="https://i.mjh.nz/Stirr/.images/47db5099c5.png" group-title="STIRR",The Archive
-https://dai.google.com/linear/hls/event/MdbYPXWRStmMq1DaQhsBUw/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-04-27-2020-04-27-2020" tvg-name="The Bob Ross Channel" tvg-logo="https://i.mjh.nz/Stirr/.images/e5621c9062.png" group-title="STIRR",The Bob Ross Channel
-https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-07-20-2021-07-20-2021" tvg-name="The Country Network" tvg-logo="https://i.mjh.nz/Stirr/.images/65f68946eb.png" group-title="STIRR",The Country Network
-https://dai.google.com/linear/hls/event/3EEsfZhASryigfuSpHdfKg/master.m3u8
-#EXTINF:-1 tvg-id="the-pet-collective-wurl-external-07-28-2018-025714015" tvg-name="The Pet Collective" tvg-logo="https://i.mjh.nz/Stirr/.images/2f70155cd4.png" group-title="STIRR",The Pet Collective
-https://dai.google.com/linear/hls/event/q0dlRn_xSBGTZYI7vwWWJQ/master.m3u8
-#EXTINF:-1 tvg-id="free-07-26-2018" tvg-name="The T" tvg-logo="https://i.mjh.nz/Stirr/.images/a155aec24c.png" group-title="STIRR",The T
-https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-11-30-2020-11-30-2020" tvg-name="WeatherSpy" tvg-logo="https://i.mjh.nz/Stirr/.images/a1affe1573.png" group-title="STIRR",WeatherSpy
-https://dai.google.com/linear/hls/event/vZB78SsNSXWOR63VJrNC2Q/master.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-04-23-2020-04-23-2020" tvg-name="World Poker Tour" tvg-logo="https://i.mjh.nz/Stirr/.images/4e5aacbaf0.png" group-title="STIRR",World Poker Tour
-https://dai.google.com/linear/hls/event/V7AWGB66R3avQhuIFaxmjw/master.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-63eecb32ac23d1ee072087cb" tvg-name="123GO!" tvg-logo="https://provider-static.plex.tv/epg/cms/production/59623ed1-b641-4001-b634-b25e307c3c49/123GO_-_Jonathan_Shrank1500x1000.png" group-title="Plex TV",123GO!
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63eecb32ac23d1ee072087cb.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=ikU1U5Q1mWiRxpekf3sM
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5800" tvg-name="21 Jump Street" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d40ceee7-1e1c-4bbb-a8ec-58fc2adacca1/Plex_FilmRise_21JumpStreet_Color_Logo.png" group-title="Plex TV",21 Jump Street
@@ -2965,3 +2373,575 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62ee72cc271f
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f170f01b898490041b49dd1.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=ikU1U5Q1mWiRxpekf3sM
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4ede2b2fdec002c14113b" tvg-name="YG TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2118aed4-3df6-4622-8362-308126964b21/_YGTV_Plex_Channel_Logo_rdx.png" group-title="Plex TV",YG TV
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60d4ede2b2fdec002c14113b.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=ikU1U5Q1mWiRxpekf3sM
+#EXTINF:-1 tvg-id="64634eb42858cb0008fd92d6" tvg-name="How To Use Pluto TV" tvg-logo="https://images.pluto.tv/channels/64634eb42858cb0008fd92d6/colorLogoPNG.png" group-title="Pluto TV",How To Use Pluto TV
+https://i.mjh.nz/PlutoTV/64634eb42858cb0008fd92d6-alt.m3u8
+#EXTINF:-1 tvg-id="561d7d484dc7c8770484914a" tvg-name="Pluto TV Action" tvg-logo="https://images.pluto.tv/channels/561d7d484dc7c8770484914a/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Action
+https://i.mjh.nz/PlutoTV/561d7d484dc7c8770484914a-alt.m3u8
+#EXTINF:-1 tvg-id="62ea3c2e4823db00072788ed" tvg-name="Pluto TV Action Movies" tvg-logo="https://images.pluto.tv/channels/62ea3c2e4823db00072788ed/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Action Movies
+https://i.mjh.nz/PlutoTV/62ea3c2e4823db00072788ed-alt.m3u8
+#EXTINF:-1 tvg-id="623464d7185bef0007e337c0" tvg-name="Pluto TV Adventure" tvg-logo="https://images.pluto.tv/channels/623464d7185bef0007e337c0/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Adventure
+https://i.mjh.nz/PlutoTV/623464d7185bef0007e337c0-alt.m3u8
+#EXTINF:-1 tvg-id="56b27f85ff3037045055037e" tvg-name="Pluto TV Animals" tvg-logo="https://images.pluto.tv/channels/56b27f85ff3037045055037e/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Animals
+https://i.mjh.nz/PlutoTV/56b27f85ff3037045055037e-alt.m3u8
+#EXTINF:-1 tvg-id="612f761008a9e50007984ba0" tvg-name="Pluto TV Animation" tvg-logo="https://images.pluto.tv/channels/612f761008a9e50007984ba0/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Animation
+https://i.mjh.nz/PlutoTV/612f761008a9e50007984ba0-alt.m3u8
+#EXTINF:-1 tvg-id="5cabdf1437b88b26947346b2" tvg-name="Pluto TV Backcountry" tvg-logo="https://images.pluto.tv/channels/5cabdf1437b88b26947346b2/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Backcountry
+https://i.mjh.nz/PlutoTV/5cabdf1437b88b26947346b2-alt.m3u8
+#EXTINF:-1 tvg-id="5812b3a4249444e05d09cc46" tvg-name="Pluto TV Cars" tvg-logo="https://images.pluto.tv/channels/5812b3a4249444e05d09cc46/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Cars
+https://i.mjh.nz/PlutoTV/5812b3a4249444e05d09cc46-alt.m3u8
+#EXTINF:-1 tvg-id="5d8bf1472907815f66a866dd" tvg-name="Pluto TV Celebrity" tvg-logo="https://images.pluto.tv/channels/5d8bf1472907815f66a866dd/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Celebrity
+https://i.mjh.nz/PlutoTV/5d8bf1472907815f66a866dd-alt.m3u8
+#EXTINF:-1 tvg-id="GBAK3504525A" tvg-name="Pluto TV Classic TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAK3504525A_20221026T004701SQUARE.png_20221026004702.png" group-title="Pluto TV",Pluto TV Classic TV
+https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1c62c000dd7a0009039432/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 tvg-id="62e91af00c43540007f2bb43" tvg-name="Pluto TV Classic TV Families" tvg-logo="https://images.pluto.tv/channels/62e91af00c43540007f2bb43/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Classic TV Families
+https://i.mjh.nz/PlutoTV/62e91af00c43540007f2bb43-alt.m3u8
+#EXTINF:-1 tvg-id="62e92178946c8000079a3160" tvg-name="Pluto TV Comedy" tvg-logo="https://images.pluto.tv/channels/62e92178946c8000079a3160/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Comedy
+https://i.mjh.nz/PlutoTV/62e92178946c8000079a3160-alt.m3u8
+#EXTINF:-1 tvg-id="62ea3d24b8e02600071fa296" tvg-name="Pluto TV Comedy Movies" tvg-logo="https://images.pluto.tv/channels/62ea3d24b8e02600071fa296/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Comedy Movies
+https://i.mjh.nz/PlutoTV/62ea3d24b8e02600071fa296-alt.m3u8
+#EXTINF:-1 tvg-id="603fde9026ecbf0007752c2c" tvg-name="Pluto TV Competition" tvg-logo="https://images.pluto.tv/channels/603fde9026ecbf0007752c2c/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Competition
+https://i.mjh.nz/PlutoTV/603fde9026ecbf0007752c2c-alt.m3u8
+#EXTINF:-1 tvg-id="GBBA33000356L" tvg-name="Pluto TV Conspiracy" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA33000356L_20221026T004703SQUARE.png_20221026004704.png" group-title="Pluto TV",Pluto TV Conspiracy
+https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f3d273608339a00076622e0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 tvg-id="63e23143a8b22700082b0a65" tvg-name="Pluto TV Cops & Convicts" tvg-logo="https://images.pluto.tv/channels/63e23143a8b22700082b0a65/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Cops & Convicts
+https://i.mjh.nz/PlutoTV/63e23143a8b22700082b0a65-alt.m3u8
+#EXTINF:-1 tvg-id="62e927ebc2db99000787c00a" tvg-name="Pluto TV Courtroom" tvg-logo="https://images.pluto.tv/channels/62e927ebc2db99000787c00a/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Courtroom
+https://i.mjh.nz/PlutoTV/62e927ebc2db99000787c00a-alt.m3u8
+#EXTINF:-1 tvg-id="GBAK3504516A" tvg-name="Pluto TV Crime" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAK3504516A_20221026T004657SQUARE.png_20221026004658.png" group-title="Pluto TV",Pluto TV Crime
+https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5bd8371b1843b56328bac33d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 tvg-id="5f31fd1b4c510e00071c3103" tvg-name="Pluto TV Crime Drama" tvg-logo="https://images.pluto.tv/channels/5f31fd1b4c510e00071c3103/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Crime Drama
+https://i.mjh.nz/PlutoTV/5f31fd1b4c510e00071c3103-alt.m3u8
+#EXTINF:-1 tvg-id="5f4d8594eb979c0007706de7" tvg-name="Pluto TV Crime Movies" tvg-logo="https://images.pluto.tv/channels/5f4d8594eb979c0007706de7/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Crime Movies
+https://i.mjh.nz/PlutoTV/5f4d8594eb979c0007706de7-alt.m3u8
+#EXTINF:-1 tvg-id="5c665db3e6c01b72c4977bc2" tvg-name="Pluto TV Cult Films" tvg-logo="https://images.pluto.tv/channels/5c665db3e6c01b72c4977bc2/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Cult Films
+https://i.mjh.nz/PlutoTV/5c665db3e6c01b72c4977bc2-alt.m3u8
+#EXTINF:-1 tvg-id="5b85a7582921777994caea63" tvg-name="Pluto TV Documentaries" tvg-logo="https://images.pluto.tv/channels/5b85a7582921777994caea63/colorLogoPNG-1646155426722.png" group-title="Pluto TV",Pluto TV Documentaries
+https://i.mjh.nz/PlutoTV/5b85a7582921777994caea63-alt.m3u8
+#EXTINF:-1 tvg-id="5b4e92e4694c027be6ecece1" tvg-name="Pluto TV Drama" tvg-logo="https://images.pluto.tv/channels/5b4e92e4694c027be6ecece1/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Drama
+https://i.mjh.nz/PlutoTV/5b4e92e4694c027be6ecece1-alt.m3u8
+#EXTINF:-1 tvg-id="5f24662bebe0f0000767de32" tvg-name="Pluto TV Drama Life" tvg-logo="https://images.pluto.tv/channels/5f24662bebe0f0000767de32/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Drama Life
+https://i.mjh.nz/PlutoTV/5f24662bebe0f0000767de32-alt.m3u8
+#EXTINF:-1 tvg-id="62bdb0bcd707b9000739d2e5" tvg-name="Pluto TV Drama Movies" tvg-logo="https://images.pluto.tv/channels/62bdb0bcd707b9000739d2e5/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Drama Movies
+https://i.mjh.nz/PlutoTV/62bdb0bcd707b9000739d2e5-alt.m3u8
+#EXTINF:-1 tvg-id="5dc3fc6b9133f500099c7d98" tvg-name="Pluto TV Family" tvg-logo="https://images.pluto.tv/channels/5dc3fc6b9133f500099c7d98/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Family
+https://i.mjh.nz/PlutoTV/5dc3fc6b9133f500099c7d98-alt.m3u8
+#EXTINF:-1 tvg-id="5b64a245a202b3337f09e51d" tvg-name="Pluto TV Fantastic" tvg-logo="https://images.pluto.tv/channels/5b64a245a202b3337f09e51d/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Fantastic
+https://i.mjh.nz/PlutoTV/5b64a245a202b3337f09e51d-alt.m3u8
+#EXTINF:-1 tvg-id="5d4af39510fd17b31a528eda" tvg-name="Pluto TV Fishing" tvg-logo="https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Fishing
+https://i.mjh.nz/PlutoTV/5d4af39510fd17b31a528eda-alt.m3u8
+#EXTINF:-1 tvg-id="5ddf930548ff9b00090d5686" tvg-name="Pluto TV Food" tvg-logo="https://images.pluto.tv/channels/5ddf930548ff9b00090d5686/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Food
+https://i.mjh.nz/PlutoTV/5ddf930548ff9b00090d5686-alt.m3u8
+#EXTINF:-1 tvg-id="6036e7c385749f00075dbd3b" tvg-name="Pluto TV Game Shows" tvg-logo="https://images.pluto.tv/channels/6036e7c385749f00075dbd3b/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Game Shows
+https://i.mjh.nz/PlutoTV/6036e7c385749f00075dbd3b-alt.m3u8
+#EXTINF:-1 tvg-id="5ca7f16c37b88b2694731c79" tvg-name="Pluto TV Gamer" tvg-logo="https://images.pluto.tv/channels/5ca7f16c37b88b2694731c79/colorLogoPNG-1667318274182.png" group-title="Pluto TV",Pluto TV Gamer
+https://i.mjh.nz/PlutoTV/5ca7f16c37b88b2694731c79-alt.m3u8
+#EXTINF:-1 tvg-id="5a4d35dfa5c02e717a234f86" tvg-name="Pluto TV History" tvg-logo="https://images.pluto.tv/channels/5a4d35dfa5c02e717a234f86/colorLogoPNG.png" group-title="Pluto TV",Pluto TV History
+https://i.mjh.nz/PlutoTV/5a4d35dfa5c02e717a234f86-alt.m3u8
+#EXTINF:-1 tvg-id="6022bd17849c620007f43ae0" tvg-name="Pluto TV Home" tvg-logo="https://images.pluto.tv/channels/6022bd17849c620007f43ae0/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Home
+https://i.mjh.nz/PlutoTV/6022bd17849c620007f43ae0-alt.m3u8
+#EXTINF:-1 tvg-id="569546031a619b8f07ce6e25" tvg-name="Pluto TV Horror" tvg-logo="https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Horror
+https://i.mjh.nz/PlutoTV/569546031a619b8f07ce6e25-alt.m3u8
+#EXTINF:-1 tvg-id="GBAK3504518A" tvg-name="Pluto TV Inside" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAK3504518A_20221012T020938SQUARE.png_20221012020938.png" group-title="Pluto TV",Pluto TV Inside
+https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5bb5c137fd5928058cd3a21f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 tvg-id="63808dc806aa4700075f319a" tvg-name="Pluto TV Investigation" tvg-logo="https://images.pluto.tv/channels/63808dc806aa4700075f319a/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Investigation
+https://i.mjh.nz/PlutoTV/63808dc806aa4700075f319a-alt.m3u8
+#EXTINF:-1 tvg-id="62ac54bda1c8650007e9d1c4" tvg-name="Pluto TV K-Drama" tvg-logo="https://images.pluto.tv/channels/62ac54bda1c8650007e9d1c4/colorLogoPNG.png" group-title="Pluto TV",Pluto TV K-Drama
+https://i.mjh.nz/PlutoTV/62ac54bda1c8650007e9d1c4-alt.m3u8
+#EXTINF:-1 tvg-id="61560abb6ae4b60007300555" tvg-name="Pluto TV K-Pop" tvg-logo="https://images.pluto.tv/channels/61560abb6ae4b60007300555/colorLogoPNG.png" group-title="Pluto TV",Pluto TV K-Pop
+https://i.mjh.nz/PlutoTV/61560abb6ae4b60007300555-alt.m3u8
+#EXTINF:-1 tvg-id="5ad8d54be738977e2c310940" tvg-name="Pluto TV Kids" tvg-logo="https://images.pluto.tv/channels/5ad8d54be738977e2c310940/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Kids
+https://i.mjh.nz/PlutoTV/5ad8d54be738977e2c310940-alt.m3u8
+#EXTINF:-1 tvg-id="5d8beeb39b5d5d5f8c672530" tvg-name="Pluto TV Lives" tvg-logo="https://images.pluto.tv/channels/5d8beeb39b5d5d5f8c672530/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Lives
+https://i.mjh.nz/PlutoTV/5d8beeb39b5d5d5f8c672530-alt.m3u8
+#EXTINF:-1 tvg-id="5f15e181520cfa000771ce79" tvg-name="Pluto TV Love Stories" tvg-logo="https://images.pluto.tv/channels/5f15e181520cfa000771ce79/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Love Stories
+https://i.mjh.nz/PlutoTV/5f15e181520cfa000771ce79-alt.m3u8
+#EXTINF:-1 tvg-id="5bb3fea0f711fd76340eebff" tvg-name="Pluto TV Military" tvg-logo="https://images.pluto.tv/channels/5bb3fea0f711fd76340eebff/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Military
+https://i.mjh.nz/PlutoTV/5bb3fea0f711fd76340eebff-alt.m3u8
+#EXTINF:-1 tvg-id="5db0510962948d000961d3c6" tvg-name="Pluto TV Motor" tvg-logo="https://images.pluto.tv/channels/5db0510962948d000961d3c6/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Motor
+https://i.mjh.nz/PlutoTV/5db0510962948d000961d3c6-alt.m3u8
+#EXTINF:-1 tvg-id="GBAK3504504A" tvg-name="Pluto TV Movies" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAK3504504A_20220323T071516SQUARE.png_20220323071518.png" group-title="Pluto TV",Pluto TV Movies
+https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d0a1cf57746b25fb55fdd0e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 tvg-id="5d4af2a24f1c5ab2d298776b" tvg-name="Pluto TV Music" tvg-logo="https://images.pluto.tv/channels/5d4af2a24f1c5ab2d298776b/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Music
+https://i.mjh.nz/PlutoTV/5d4af2a24f1c5ab2d298776b-alt.m3u8
+#EXTINF:-1 tvg-id="5268abcd0ce20a8472000114" tvg-name="Pluto TV News" tvg-logo="https://images.pluto.tv/channels/5268abcd0ce20a8472000114/colorLogoPNG.png" group-title="Pluto TV",Pluto TV News
+https://i.mjh.nz/PlutoTV/5268abcd0ce20a8472000114-alt.m3u8
+#EXTINF:-1 tvg-id="62e92a58f3e4290007290c96" tvg-name="Pluto TV Paranormal" tvg-logo="https://images.pluto.tv/channels/62e92a58f3e4290007290c96/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Paranormal
+https://i.mjh.nz/PlutoTV/62e92a58f3e4290007290c96-alt.m3u8
+#EXTINF:-1 tvg-id="5812b821249444e05d09cc4c" tvg-name="Pluto TV Pixel World" tvg-logo="https://images.pluto.tv/channels/5812b821249444e05d09cc4c/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Pixel World
+https://i.mjh.nz/PlutoTV/5812b821249444e05d09cc4c-alt.m3u8
+#EXTINF:-1 tvg-id="60f86f539f03cd00070c503a" tvg-name="Pluto TV Pranks" tvg-logo="https://images.pluto.tv/channels/60f86f539f03cd00070c503a/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Pranks
+https://i.mjh.nz/PlutoTV/60f86f539f03cd00070c503a-alt.m3u8
+#EXTINF:-1 tvg-id="617b37b361e0fd0008cfd8c5" tvg-name="Pluto TV Reaction" tvg-logo="https://images.pluto.tv/channels/617b37b361e0fd0008cfd8c5/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Reaction
+https://i.mjh.nz/PlutoTV/617b37b361e0fd0008cfd8c5-alt.m3u8
+#EXTINF:-1 tvg-id="5d8bf0b06d2d855ee15115e3" tvg-name="Pluto TV Reality" tvg-logo="https://images.pluto.tv/channels/5d8bf0b06d2d855ee15115e3/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Reality
+https://i.mjh.nz/PlutoTV/5d8bf0b06d2d855ee15115e3-alt.m3u8
+#EXTINF:-1 tvg-id="630f1e6073bd1800082107f0" tvg-name="Pluto TV Retro Crime Drama" tvg-logo="https://images.pluto.tv/channels/630f1e6073bd1800082107f0/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Retro Crime Drama
+https://i.mjh.nz/PlutoTV/630f1e6073bd1800082107f0-alt.m3u8
+#EXTINF:-1 tvg-id="5c5c2b9d8002db3c3e0b1c6d" tvg-name="Pluto TV Retro Toons" tvg-logo="https://images.pluto.tv/channels/5c5c2b9d8002db3c3e0b1c6d/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Retro Toons
+https://i.mjh.nz/PlutoTV/5c5c2b9d8002db3c3e0b1c6d-alt.m3u8
+#EXTINF:-1 tvg-id="5a66795ef91fef2c7031c599" tvg-name="Pluto TV Romance" tvg-logo="https://images.pluto.tv/channels/5a66795ef91fef2c7031c599/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Romance
+https://i.mjh.nz/PlutoTV/5a66795ef91fef2c7031c599-alt.m3u8
+#EXTINF:-1 tvg-id="5b4fc274694c027be6ed3eea" tvg-name="Pluto TV Sci-Fi" tvg-logo="https://images.pluto.tv/channels/5b4fc274694c027be6ed3eea/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Sci-Fi
+https://i.mjh.nz/PlutoTV/5b4fc274694c027be6ed3eea-alt.m3u8
+#EXTINF:-1 tvg-id="619247c34a270700077c8415" tvg-name="Pluto TV Sci-fi Series" tvg-logo="https://images.pluto.tv/channels/619247c34a270700077c8415/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Sci-fi Series
+https://i.mjh.nz/PlutoTV/619247c34a270700077c8415-alt.m3u8
+#EXTINF:-1 tvg-id="563a970aa1a1f7fe7c9daad7" tvg-name="Pluto TV Science" tvg-logo="https://images.pluto.tv/channels/563a970aa1a1f7fe7c9daad7/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Science
+https://i.mjh.nz/PlutoTV/563a970aa1a1f7fe7c9daad7-alt.m3u8
+#EXTINF:-1 tvg-id="5dc2c00abfed110009d97243" tvg-name="Pluto TV Sherlock" tvg-logo="https://images.pluto.tv/channels/5dc2c00abfed110009d97243/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Sherlock
+https://i.mjh.nz/PlutoTV/5dc2c00abfed110009d97243-alt.m3u8
+#EXTINF:-1 tvg-id="62f53dc6ee9a0400071dc22b" tvg-name="Pluto TV Sitcoms" tvg-logo="https://images.pluto.tv/channels/62f53dc6ee9a0400071dc22b/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Sitcoms
+https://i.mjh.nz/PlutoTV/62f53dc6ee9a0400071dc22b-alt.m3u8
+#EXTINF:-1 tvg-id="610c5f80f71f660007a2ad8e" tvg-name="Pluto TV Soaps" tvg-logo="https://images.pluto.tv/channels/610c5f80f71f660007a2ad8e/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Soaps
+https://i.mjh.nz/PlutoTV/610c5f80f71f660007a2ad8e-alt.m3u8
+#EXTINF:-1 tvg-id="5dbc2f98777f2e0009934ae7" tvg-name="Pluto TV Space" tvg-logo="https://images.pluto.tv/channels/5dbc2f98777f2e0009934ae7/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Space
+https://i.mjh.nz/PlutoTV/5dbc2f98777f2e0009934ae7-alt.m3u8
+#EXTINF:-1 tvg-id="56340779a738201b4ccfeac9" tvg-name="Pluto TV Sports" tvg-logo="https://images.pluto.tv/channels/56340779a738201b4ccfeac9/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Sports
+https://i.mjh.nz/PlutoTV/56340779a738201b4ccfeac9-alt.m3u8
+#EXTINF:-1 tvg-id="5ba3fb9c4b078e0f37ad34e8" tvg-name="Pluto TV Spotlight" tvg-logo="https://images.pluto.tv/channels/5ba3fb9c4b078e0f37ad34e8/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Spotlight
+https://i.mjh.nz/PlutoTV/5ba3fb9c4b078e0f37ad34e8-alt.m3u8
+#EXTINF:-1 tvg-id="5f4d863b98b41000076cd061" tvg-name="Pluto TV Staff Picks" tvg-logo="https://images.pluto.tv/channels/5f4d863b98b41000076cd061/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Staff Picks
+https://i.mjh.nz/PlutoTV/5f4d863b98b41000076cd061-alt.m3u8
+#EXTINF:-1 tvg-id="5d135e29a52c94dfe543c5d3" tvg-name="Pluto TV Stand Up" tvg-logo="https://images.pluto.tv/channels/5d135e29a52c94dfe543c5d3/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Stand Up
+https://i.mjh.nz/PlutoTV/5d135e29a52c94dfe543c5d3-alt.m3u8
+#EXTINF:-1 tvg-id="6401d883d200410008fb9fbb" tvg-name="Pluto TV Stateside Drama" tvg-logo="https://images.pluto.tv/channels/6401d883d200410008fb9fbb/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Stateside Drama
+https://i.mjh.nz/PlutoTV/6401d883d200410008fb9fbb-alt.m3u8
+#EXTINF:-1 tvg-id="5f15e281b0b8840007324b55" tvg-name="Pluto TV Suspense" tvg-logo="https://images.pluto.tv/channels/5f15e281b0b8840007324b55/colorLogoPNG-1667318541117.png" group-title="Pluto TV",Pluto TV Suspense
+https://i.mjh.nz/PlutoTV/5f15e281b0b8840007324b55-alt.m3u8
+#EXTINF:-1 tvg-id="5c6dc88fcd232425a6e0f06e" tvg-name="Pluto TV Terror" tvg-logo="https://images.pluto.tv/channels/5c6dc88fcd232425a6e0f06e/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Terror
+https://i.mjh.nz/PlutoTV/5c6dc88fcd232425a6e0f06e-alt.m3u8
+#EXTINF:-1 tvg-id="5b4e69e08291147bd04a9fd7" tvg-name="Pluto TV Thrillers" tvg-logo="https://images.pluto.tv/channels/5b4e69e08291147bd04a9fd7/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Thrillers
+https://i.mjh.nz/PlutoTV/5b4e69e08291147bd04a9fd7-alt.m3u8
+#EXTINF:-1 tvg-id="600acaff5f2d6e000745effb" tvg-name="Pluto TV Tough Jobs" tvg-logo="https://images.pluto.tv/channels/600acaff5f2d6e000745effb/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Tough Jobs
+https://i.mjh.nz/PlutoTV/600acaff5f2d6e000745effb-alt.m3u8
+#EXTINF:-1 tvg-id="63e2311c4e83e70008953121" tvg-name="Pluto TV Trash to Cash" tvg-logo="https://images.pluto.tv/channels/63e2311c4e83e70008953121/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Trash to Cash
+https://i.mjh.nz/PlutoTV/63e2311c4e83e70008953121-alt.m3u8
+#EXTINF:-1 tvg-id="59c01b1953680139c6ae9d4d" tvg-name="Pluto TV Travel" tvg-logo="https://images.pluto.tv/channels/59c01b1953680139c6ae9d4d/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Travel
+https://i.mjh.nz/PlutoTV/59c01b1953680139c6ae9d4d-alt.m3u8
+#EXTINF:-1 tvg-id="5812be1c249444e05d09cc50" tvg-name="Pluto TV True Crime" tvg-logo="https://images.pluto.tv/channels/5812be1c249444e05d09cc50/colorLogoPNG.png" group-title="Pluto TV",Pluto TV True Crime
+https://i.mjh.nz/PlutoTV/5812be1c249444e05d09cc50-alt.m3u8
+#EXTINF:-1 tvg-id="5877acecb16bb1e042ee453f" tvg-name="Pluto TV Weddings" tvg-logo="https://images.pluto.tv/channels/5877acecb16bb1e042ee453f/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Weddings
+https://i.mjh.nz/PlutoTV/5877acecb16bb1e042ee453f-alt.m3u8
+#EXTINF:-1 tvg-id="5b4e94282d4ec87bdcbb87cd" tvg-name="Pluto TV Westerns" tvg-logo="https://images.pluto.tv/channels/5b4e94282d4ec87bdcbb87cd/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Westerns
+https://i.mjh.nz/PlutoTV/5b4e94282d4ec87bdcbb87cd-alt.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Action" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Action
+https://rakuten-action-8-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Action" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Action
+https://rakuten-action-9-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Action" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Action
+https://rakuten-action-10-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Comedy" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Comedy
+https://rakuten-comedy-8-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Comedy" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Comedy
+https://rakuten-comedy-9-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Comedy" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Comedy
+https://rakuten-comedy-10-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Documentaries" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Documentaries
+https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Drama" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Drama
+https://rakuten-drama-8-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Drama" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Drama
+https://rakuten-drama-9-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Drama" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Drama
+https://rakuten-drama-10-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Family" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Family
+https://rakuten-family-9-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Family" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Family
+https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Family" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Family
+https://rakuten-family-16-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Family" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Family
+https://rakuten-family-8-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Family" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Family
+https://rakuten-family-10-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Guardian" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Guardian
+https://rakuten-guardian-1-fr.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Serie Crime" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Serie Crime
+https://rakuten-seriescrime-7-fr.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Shows UK" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Shows UK
+https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Spotlight" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Spotlight
+https://rakuten-spotlight-9-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Spotlight" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Spotlight
+https://rakuten-spotlight-10-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Stories" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Stories
+https://rakuten-spotlight-8-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Top Free Germany" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Top Free Germany
+https://rakuten-topfree-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Top Free Italy" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Top Free Italy
+https://rakuten-topfree-6-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Top Free Spain" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Top Free Spain
+https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Top Free UK" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Top Free UK
+https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV Anime Digital Network" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten TV Anime Digital Network
+https://amg00762-adn-adn-rakuten-jnwoo.amagi.tv/hls/amagi_hls_data_rakutenAA-adn-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV BBC Doctor Who France" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten TV BBC Doctor Who France
+https://bbceu-doctorwho-3-fr.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV BBC Drama" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten TV BBC Drama
+https://bbceu-bbcdrama-1-fr.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV Films Drames" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten TV Films Drames
+https://rakuten-tvshows-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV Films Drames" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten TV Films Drames
+https://rakuten-tvshows-7-fr.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV Films Français" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten TV Films Français
+https://rakuten-films-francais-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV Films Thriller" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten TV Films Thriller
+https://rakuten-thriller-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV Gusto.tv" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten TV Gusto.tv
+https://gustotv-gustotv-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV L'Atelier des Chefs" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten TV L'Atelier des Chefs
+https://alchimie-ateliersdeschefs-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV Romance" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten TV Romance
+https://rakuten-romance-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV Romance" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten TV Romance
+https://rakuten-romance-7-fr.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV Shows" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten TV Shows
+https://rakuten-tvshows-7-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV Shows Austria" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten TV Shows Austria
+https://rakuten-tvshows-5-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV Shows Germany" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten TV Shows Germany
+https://rakuten-tvshows-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV Shows Italy" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten TV Shows Italy
+https://rakuten-tvshows-6-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV Shows Spain" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten TV Shows Spain
+https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten TV Viki Europe" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten TV Viki Europe
+https://newidco-rakutenviki-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Viki" tvg-logo="https://download.logo.wine/logo/Rakuten/Rakuten-Logo.wine.png" group-title="Rakuten TV",Rakuten Viki
+https://newidco-rakutenviki-2-fr.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="62d556fe2888ce000764b3fa" tvg-name="16 & Pregnant" tvg-logo="https://images.pluto.tv/channels/62d556fe2888ce000764b3fa/colorLogoPNG.png" group-title="Reality",16 & Pregnant
+https://i.mjh.nz/PlutoTV/62d556fe2888ce000764b3fa-alt.m3u8
+#EXTINF:-1 tvg-id="USAJ2200011TR" tvg-name="All Reality WE tv" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ2200011TR_20230125T022644SQUARE.png_20230125022645.png" group-title="Reality",All Reality WE tv
+https://4da04a4f31844ed2a2b1a4dceaf60e86.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_AbsoluteReality/playlist.m3u8?ads.wurl_channel=475&ads.wurl_name=AbsoluteReality&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="USAJ340001380" tvg-name="All Weddings WE tv" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ340001380_20230125T022703SQUARE.png_20230125022703.png" group-title="Reality",All Weddings WE tv
+https://301e8447395c4f99835aec6b98ed9acd.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_AllWeddingsbyWEtv/playlist.m3u8?ads.wurl_channel=695&ads.wurl_name=AllWeddingsbyWEtv&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-id="USBB4400016F9" tvg-name="All-Out Reality" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400016F9_20221116T013444SQUARE.png_20221116013445.png" group-title="Reality",All-Out Reality
+https://d25pilaj6f1nfk.cloudfront.net/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1 tvg-id="62e91ea20d06110008396079" tvg-name="Always Funny Videos" tvg-logo="https://images.pluto.tv/channels/62e91ea20d06110008396079/colorLogoPNG.png" group-title="Reality",Always Funny Videos
+https://i.mjh.nz/PlutoTV/62e91ea20d06110008396079-alt.m3u8
+#EXTINF:-1 tvg-id="6408ae8f9b39550008caf94f" tvg-name="American Pickers" tvg-logo="https://images.pluto.tv/channels/6408ae8f9b39550008caf94f/colorLogoPNG.png" group-title="Reality",American Pickers
+https://i.mjh.nz/PlutoTV/6408ae8f9b39550008caf94f-alt.m3u8
+#EXTINF:-1 tvg-id="USBB5200020Z0" tvg-name="Ax Men" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200020Z0_20230208T100245SQUARE.png_20230208100246.png" group-title="Reality",Ax Men
+https://647ed3ba.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZ19BeE1lbl9ITFM/playlist.m3u8?ads.wurl_channel=998&ads.wurl_name=AxMen&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-id="60a3d889a5b3690008dc7fe8" tvg-name="Bar Rescue" tvg-logo="https://images.pluto.tv/channels/60a3d889a5b3690008dc7fe8/colorLogoPNG.png" group-title="Reality",Bar Rescue
+https://i.mjh.nz/PlutoTV/60a3d889a5b3690008dc7fe8-alt.m3u8
+#EXTINF:-1 tvg-id="5d51e2bceca5b4b2c0e06c50" tvg-name="Black Ink Crew" tvg-logo="https://images.pluto.tv/channels/5d51e2bceca5b4b2c0e06c50/colorLogoPNG.png" group-title="Reality",Black Ink Crew
+https://i.mjh.nz/PlutoTV/5d51e2bceca5b4b2c0e06c50-alt.m3u8
+#EXTINF:-1 tvg-id="62bdb0785611f2000761ca9a" tvg-name="Bridezillas" tvg-logo="https://images.pluto.tv/channels/62bdb0785611f2000761ca9a/colorLogoPNG.png" group-title="Reality",Bridezillas
+https://i.mjh.nz/PlutoTV/62bdb0785611f2000761ca9a-alt.m3u8
+#EXTINF:-1 tvg-id="625eaebc2a73a00007d3f855" tvg-name="Catfish" tvg-logo="https://images.pluto.tv/channels/625eaebc2a73a00007d3f855/colorLogoPNG.png" group-title="Reality",Catfish
+https://i.mjh.nz/PlutoTV/625eaebc2a73a00007d3f855-alt.m3u8
+#EXTINF:-1 tvg-id="627d355aa95efd00077afcc7" tvg-name="Cheaters" tvg-logo="https://images.pluto.tv/channels/627d355aa95efd00077afcc7/colorLogoPNG.png" group-title="Reality",Cheaters
+https://i.mjh.nz/PlutoTV/627d355aa95efd00077afcc7-alt.m3u8
+#EXTINF:-1 tvg-id="5d40855b3fb0855028c99b6f" tvg-name="Dallas Cowboys Cheerleaders" tvg-logo="https://images.pluto.tv/channels/5d40855b3fb0855028c99b6f/colorLogoPNG.png" group-title="Reality",Dallas Cowboys Cheerleaders
+https://i.mjh.nz/PlutoTV/5d40855b3fb0855028c99b6f-alt.m3u8
+#EXTINF:-1 tvg-id="USBC3900021HS" tvg-name="Dance Moms" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3900021HS_20230523T230725SQUARE.png_20230523230726.png" group-title="Reality",Dance Moms
+https://d1xr57paxchdon.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hje9b5jnyshke-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1 tvg-id="USBA300022JX" tvg-name="INFAST" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300022JX_20230125T022617SQUARE.png_20230125022618.png" group-title="Reality",INFAST
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-insighttv/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="USBB52000246M" tvg-name="Deal Zone" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000246M_20230614T000437SQUARE.png_20230614000438.png" group-title="Reality",Deal Zone
+https://27ed596f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZ19EZWFsWm9uZV9ITFM/playlist.m3u8?ads.wurl_channel=1099&ads.wurl_name=DealZone&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-id="5bee1a7359ee03633e780238" tvg-name="Dog the Bounty Hunter" tvg-logo="https://images.pluto.tv/channels/5bee1a7359ee03633e780238/colorLogoPNG.png" group-title="Reality",Dog the Bounty Hunter
+https://i.mjh.nz/PlutoTV/5bee1a7359ee03633e780238-alt.m3u8
+#EXTINF:-1 tvg-id="USBC4400002GF" tvg-name="Duck Dynasty" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400002GF_20230509T224444SQUARE.png_20230509224445.png" group-title="Reality",Duck Dynasty
+https://d27ibzhjiawl1m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4rfei5g9dayw8-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1 tvg-id="62bdb5500c21270007218ce1" tvg-name="FailArmy" tvg-logo="https://images.pluto.tv/channels/62bdb5500c21270007218ce1/colorLogoPNG.png" group-title="Reality",FailArmy
+https://i.mjh.nz/PlutoTV/62bdb5500c21270007218ce1-alt.m3u8
+#EXTINF:-1 tvg-id="63482674df87730007656044" tvg-name="Fear Factor" tvg-logo="https://images.pluto.tv/channels/63482674df87730007656044/colorLogoPNG.png" group-title="Reality",Fear Factor
+https://i.mjh.nz/PlutoTV/63482674df87730007656044-alt.m3u8
+#EXTINF:-1 tvg-id="62ea45010d0611000839868c" tvg-name="Gordon Ramsay's Hell's Kitchen" tvg-logo="https://images.pluto.tv/channels/62ea45010d0611000839868c/colorLogoPNG.png" group-title="Reality",Gordon Ramsay's Hell's Kitchen
+https://i.mjh.nz/PlutoTV/62ea45010d0611000839868c-alt.m3u8
+#EXTINF:-1 tvg-id="63934c218ef524000757b122" tvg-name="HauntTV" tvg-logo="https://images.pluto.tv/channels/63934c218ef524000757b122/colorLogoPNG.png" group-title="Reality",HauntTV
+https://i.mjh.nz/PlutoTV/63934c218ef524000757b122-alt.m3u8
+#EXTINF:-1 tvg-id="USBB2900002Z7" tvg-name="Hell's Kitchen" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2900002Z7_20230307T222239SQUARE.png_20230307222240.png" group-title="Reality",Hell's Kitchen
+https://dvzueir2lg0o6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/HellsKitchen-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1 tvg-id="USBB520002173" tvg-name="Ice Road Truckers" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB520002173_20230125T022253SQUARE.png_20230125022253.png" group-title="Reality",Ice Road Truckers
+https://48efd445.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZ19JY2VSb2FkVHJ1Y2tlcnNfSExT/playlist.m3u8?ads.wurl_channel=968&ads.wurl_name=IceRoadTruckers&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-id="60807fd5db701400078219c2" tvg-name="Ink Master" tvg-logo="https://images.pluto.tv/channels/60807fd5db701400078219c2/colorLogoPNG.png" group-title="Reality",Ink Master
+https://i.mjh.nz/PlutoTV/60807fd5db701400078219c2-alt.m3u8
+#EXTINF:-1 tvg-id="609bfa51fbecc1000733152e" tvg-name="Jersey Shore" tvg-logo="https://images.pluto.tv/channels/609bfa51fbecc1000733152e/colorLogoPNG.png" group-title="Reality",Jersey Shore
+https://i.mjh.nz/PlutoTV/609bfa51fbecc1000733152e-alt.m3u8
+#EXTINF:-1 tvg-id="600acdc434a37000070004cf" tvg-name="Judge Nosey" tvg-logo="https://images.pluto.tv/channels/600acdc434a37000070004cf/colorLogoPNG.png" group-title="Reality",Judge Nosey
+https://i.mjh.nz/PlutoTV/600acdc434a37000070004cf-alt.m3u8
+#EXTINF:-1 tvg-id="USBA3000042O6" tvg-name="Kitchen Nightmares" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000042O6_20220928T005202SQUARE.png_20220928005203.png" group-title="Reality",Kitchen Nightmares
+https://d12hafsmzbqmzo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/KitchenNightmare2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1 tvg-id="5d51ddf0369acdb278dfb05e" tvg-name="Love & Hip Hop" tvg-logo="https://images.pluto.tv/channels/5d51ddf0369acdb278dfb05e/colorLogoPNG.png" group-title="Reality",Love & Hip Hop
+https://i.mjh.nz/PlutoTV/5d51ddf0369acdb278dfb05e-alt.m3u8
+#EXTINF:-1 tvg-id="USBC440000193" tvg-name="Matched Married Meet" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC440000193_20221214T015032SQUARE.png_20221214015033.png" group-title="Reality",Matched Married Meet
+https://d34857wuk4rwh7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-aqf1fjzi6vrfh-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1 tvg-id="5ca6899a37b88b269472ea4b" tvg-name="MTV Dating" tvg-logo="https://images.pluto.tv/channels/5ca6899a37b88b269472ea4b/colorLogoPNG-1641927416701.png" group-title="Reality",MTV Dating
+https://i.mjh.nz/PlutoTV/5ca6899a37b88b269472ea4b-alt.m3u8
+#EXTINF:-1 tvg-id="5ca672f515a62078d2ec0ad2" tvg-name="MTV Pluto TV" tvg-logo="https://images.pluto.tv/channels/5ca672f515a62078d2ec0ad2/colorLogoPNG-1641928171062.png" group-title="Reality",MTV Pluto TV
+https://i.mjh.nz/PlutoTV/5ca672f515a62078d2ec0ad2-alt.m3u8
+#EXTINF:-1 tvg-id="625eb3e245f5bc0007810046" tvg-name="MTV Reality" tvg-logo="https://images.pluto.tv/channels/625eb3e245f5bc0007810046/colorLogoPNG.png" group-title="Reality",MTV Reality
+https://i.mjh.nz/PlutoTV/625eb3e245f5bc0007810046-alt.m3u8
+#EXTINF:-1 tvg-id="60e455469bb4200008374d7e" tvg-name="My Strange Addiction" tvg-logo="https://images.pluto.tv/channels/60e455469bb4200008374d7e/colorLogoPNG.png" group-title="Reality",My Strange Addiction
+https://i.mjh.nz/PlutoTV/60e455469bb4200008374d7e-alt.m3u8
+#EXTINF:-1 tvg-id="USBC6000219D" tvg-name="Operation Repo" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC6000219D_20230131T052103SQUARE.png_20230131052103.png" group-title="Reality",Operation Repo
+https://di2w8zu72n5r0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6vndkzwpwatr5-prod/dist/samsungtv/296/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1 tvg-id="USBB520002604" tvg-name="Perform" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB520002604_20221214T015038SQUARE.png_20221214015039.png" group-title="Reality",Perform
+https://726f3324.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZ19QZXJmb3JtX0hMUw/playlist.m3u8?ads.wurl_channel=1053&ads.wurl_name=Perform&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-id="62e92b5fca869f00078f0162" tvg-name="Pet Collective" tvg-logo="https://images.pluto.tv/channels/62e92b5fca869f00078f0162/colorLogoPNG.png" group-title="Reality",Pet Collective
+https://i.mjh.nz/PlutoTV/62e92b5fca869f00078f0162-alt.m3u8
+#EXTINF:-1 tvg-id="USBB3500004RC" tvg-name="Project Runway" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3500004RC_20230307T222251SQUARE.png_20230307222252.png" group-title="Reality",Project Runway
+https://d1inivznn1dsuk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ProjectRunway-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1 tvg-id="5f21e831e9fe730007706acb" tvg-name="Rescue 911" tvg-logo="https://images.pluto.tv/channels/5f21e831e9fe730007706acb/colorLogoPNG.png" group-title="Reality",Rescue 911
+https://i.mjh.nz/PlutoTV/5f21e831e9fe730007706acb-alt.m3u8
+#EXTINF:-1 tvg-id="5c393cad2de254456f7ef8c2" tvg-name="Spike Outdoors" tvg-logo="https://images.pluto.tv/channels/5c393cad2de254456f7ef8c2/colorLogoPNG.png" group-title="Reality",Spike Outdoors
+https://i.mjh.nz/PlutoTV/5c393cad2de254456f7ef8c2-alt.m3u8
+#EXTINF:-1 tvg-id="5812bcc8237a6ff45d16c407" tvg-name="Spike Pluto TV" tvg-logo="https://images.pluto.tv/channels/5812bcc8237a6ff45d16c407/colorLogoPNG.png" group-title="Reality",Spike Pluto TV
+https://i.mjh.nz/PlutoTV/5812bcc8237a6ff45d16c407-alt.m3u8
+#EXTINF:-1 tvg-id="5f21e7b24744c60007c1f6fc" tvg-name="Survivor" tvg-logo="https://images.pluto.tv/channels/5f21e7b24744c60007c1f6fc/colorLogoPNG.png" group-title="Reality",Survivor
+https://i.mjh.nz/PlutoTV/5f21e7b24744c60007c1f6fc-alt.m3u8
+#EXTINF:-1 tvg-id="6127e12ed140e900077e7b6f" tvg-name="Teen Mom" tvg-logo="https://images.pluto.tv/channels/6127e12ed140e900077e7b6f/colorLogoPNG.png" group-title="Reality",Teen Mom
+https://i.mjh.nz/PlutoTV/6127e12ed140e900077e7b6f-alt.m3u8
+#EXTINF:-1 tvg-id="5f21e8a6e2f12b000755afdb" tvg-name="The Amazing Race" tvg-logo="https://images.pluto.tv/channels/5f21e8a6e2f12b000755afdb/colorLogoPNG.png" group-title="Reality",The Amazing Race
+https://i.mjh.nz/PlutoTV/5f21e8a6e2f12b000755afdb-alt.m3u8
+#EXTINF:-1 tvg-id="USBC440001542" tvg-name="The Biggest Loser" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC440001542_20230125T022302SQUARE.png_20230125022303.png" group-title="Reality",The Biggest Loser
+https://d17sh8j5i3s8gs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y005mrgv36rvt-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1 tvg-id="5d48685da7e9f476aa8a1888" tvg-name="The Challenge" tvg-logo="https://images.pluto.tv/channels/5d48685da7e9f476aa8a1888/colorLogoPNG.png" group-title="Reality",The Challenge
+https://i.mjh.nz/PlutoTV/5d48685da7e9f476aa8a1888-alt.m3u8
+#EXTINF:-1 tvg-id="638e10220aa6a6000726979f" tvg-name="Top Gear" tvg-logo="https://images.pluto.tv/channels/638e10220aa6a6000726979f/colorLogoPNG.png" group-title="Reality",Top Gear
+https://i.mjh.nz/PlutoTV/638e10220aa6a6000726979f-alt.m3u8
+#EXTINF:-1 tvg-id="5d71561df6f2e6d0b6493bf5" tvg-name="VH1 Hip Hop Family" tvg-logo="https://images.pluto.tv/channels/5d71561df6f2e6d0b6493bf5/colorLogoPNG.png" group-title="Reality",VH1 Hip Hop Family
+https://i.mjh.nz/PlutoTV/5d71561df6f2e6d0b6493bf5-alt.m3u8
+#EXTINF:-1 tvg-id="5d7154fa8326b6ce4ec31f2e" tvg-name="VH1 I Love Reality" tvg-logo="https://images.pluto.tv/channels/5d7154fa8326b6ce4ec31f2e/colorLogoPNG.png" group-title="Reality",VH1 I Love Reality
+https://i.mjh.nz/PlutoTV/5d7154fa8326b6ce4ec31f2e-alt.m3u8
+#EXTINF:-1 tvg-id="6000a6f4c3f8550008fc9b91" tvg-name="Xtreme Outdoor Presented by HISTORY" tvg-logo="https://images.pluto.tv/channels/6000a6f4c3f8550008fc9b91/colorLogoPNG.png" group-title="Reality",Xtreme Outdoor Presented by HISTORY
+https://i.mjh.nz/PlutoTV/6000a6f4c3f8550008fc9b91-alt.m3u8
+#EXTINF:-1 tvg-id="USAK3508702A" tvg-name="ACC Digital Network" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508702A_20230125T022220SQUARE.png_20230125022221.png" group-title="Sports",ACC Digital Network
+https://1a8f69077b904368aedb538ed5045ac1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_ACCDigitalNetwork/playlist.m3u8?ads.wurl_channel=599&ads.wurl_name=ACCDigitalNetwork&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="5df975e2b27cf5000921c102" tvg-name="beIN SPORTS XTRA" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="Sports",beIN SPORTS XTRA
+https://i.mjh.nz/PlutoTV/5df975e2b27cf5000921c102-alt.m3u8
+#EXTINF:-1 tvg-id="5ebc8688f3697d00072f7cf8" tvg-name="Bellator MMA" tvg-logo="https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png" group-title="Sports",Bellator MMA
+https://i.mjh.nz/PlutoTV/5ebc8688f3697d00072f7cf8-alt.m3u8
+#EXTINF:-1 tvg-id="USAJ3504545A" tvg-name="Cars" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504545A_20230125T022032SQUARE.png_20230125022033.png" group-title="Sports",Cars
+https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5e9f2c05172a0f0007db4786" tvg-name="CBS Sports HQ" tvg-logo="https://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/colorLogoPNG.png" group-title="Sports",CBS Sports HQ
+https://i.mjh.nz/PlutoTV/5e9f2c05172a0f0007db4786-alt.m3u8
+#EXTINF:-1 tvg-id="USBD700013BW" tvg-name="DraftKings Network" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700013BW_20230509T224436SQUARE.png_20230509224436.png" group-title="Sports",DraftKings Network
+https://d2c664cho7ay77.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jv86x14at6fnu/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1 tvg-id="5812b0f2237a6ff45d16c3f9" tvg-name="Fight" tvg-logo="https://images.pluto.tv/channels/5812b0f2237a6ff45d16c3f9/colorLogoPNG-1543864366762.png" group-title="Sports",Fight
+https://i.mjh.nz/PlutoTV/5812b0f2237a6ff45d16c3f9-alt.m3u8
+#EXTINF:-1 tvg-id="5a74b8e1e22a61737979c6bf" tvg-name="FOX Sports" tvg-logo="https://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" group-title="Sports",FOX Sports
+https://i.mjh.nz/PlutoTV/5a74b8e1e22a61737979c6bf-alt.m3u8
+#EXTINF:-1 tvg-id="USAJ2200023Z0" tvg-name="fubo Sports Network" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ2200023Z0_20230208T100255SQUARE.png_20230208100256.png" group-title="Sports",fubo Sports Network
+https://sportsnet-midas.fubo.tv/v1/master/6c9193257c0eed8ca3f1eabccc4444f9477500f1/SportsNet/samsung/master.m3u8?ads.partner=samsung&ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-id="5417a212ff9fba68282fbf5e" tvg-name="GLORY Kickboxing" tvg-logo="https://images.pluto.tv/channels/5417a212ff9fba68282fbf5e/colorLogoPNG.png" group-title="Sports",GLORY Kickboxing
+https://i.mjh.nz/PlutoTV/5417a212ff9fba68282fbf5e-alt.m3u8
+#EXTINF:-1 tvg-id="63a0e33a45264d000850ed7e" tvg-name="Golazo Network" tvg-logo="https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG.png" group-title="Sports",Golazo Network
+https://i.mjh.nz/PlutoTV/63a0e33a45264d000850ed7e-alt.m3u8
+#EXTINF:-1 tvg-id="USBB400000145" tvg-name="GOLFPASS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB400000145_20230307T222309SQUARE.png_20230307222310.png" group-title="Sports",GOLFPASS
+https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_golfpass_001.m3u8?ads.caid=NBCUGolfpass&ads.csid=samsungtvplus_us_nbcugolfpass_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2794&ads.xumo_contentName=nbcugolfpass&ads.xumo_providerId=2794&ads.xu
+#EXTINF:-1 tvg-id="GBBA2200008YU" tvg-name="Horse & Country" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA2200008YU_20220323T070921SQUARE.png_20220323070923.png" group-title="Sports",Horse & Country
+https://samsunguk-hnc-free-samsung-uk-uz90u.amagi.tv/playlist/samsunguk-hnc-free-samsung-uk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="59b722526996084038c01e1b" tvg-name="IMPACT Wrestling" tvg-logo="https://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png" group-title="Sports",IMPACT Wrestling
+https://i.mjh.nz/PlutoTV/59b722526996084038c01e1b-alt.m3u8
+#EXTINF:-1 tvg-id="GBAJ42000019J" tvg-name="INTROUBLE" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ42000019J_20230125T022341SQUARE.png_20230125022342.png" group-title="Sports",INTROUBLE
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-introuble-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="MNetSport.mk" tvg-name="M-Net Sport" tvg-logo="https://i.imgur.com/7k8ar1Z.png" group-title="Sports",M-Net Sport
+http://ares.mnet.mk/hls/mnet-sport.m3u8
+#EXTINF:-1 tvg-id="611468532f5f180007fbbc9c" tvg-name="MAVTV Select" tvg-logo="https://images.pluto.tv/channels/611468532f5f180007fbbc9c/colorLogoPNG-1675271915254.png" group-title="Sports",MAVTV Select
+https://i.mjh.nz/PlutoTV/611468532f5f180007fbbc9c-alt.m3u8
+#EXTINF:-1 tvg-id="5e66968a70f34c0007d050be" tvg-name="MLB" tvg-logo="https://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png" group-title="Sports",MLB
+https://i.mjh.nz/PlutoTV/5e66968a70f34c0007d050be-alt.m3u8
+#EXTINF:-1 tvg-id="GBBB160000529" tvg-name="MMA TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB160000529_20220323T071003SQUARE.png_20220323071006.png" group-title="Sports",MMA TV
+https://amg01329-otterainc-mmatv-samsunguk-swg10.amagi.tv/playlist/amg01329-otterainc-mmatv-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="MoreThanSportsTV.de" tvg-name="More Than Sports TV (1080p)" tvg-logo="https://i.imgur.com/SLrjImc.png" group-title="Sports",More Than Sports TV (1080p)
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+#EXTINF:-1 tvg-id="USBC3600005U9" tvg-name="MotorTrend FAST TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600005U9_20230222T041507SQUARE.png_20230222041508.png" group-title="Sports",MotorTrend FAST TV
+https://d2ueqfwjyzruvu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5kx37wbamxs50-ssai-prd/v1/motortrend_motortrendfasttv_1/samsungheadend_us/latest/main/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1 tvg-id="USBD300021B8" tvg-name="MSG SportsZone" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300021B8_20230426T030511SQUARE.png_20230426030512.png" group-title="Sports",MSG SportsZone
+https://d2a31kzot4f8t3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8c6otsdsok8vf/v1/amc_msgsportszone_1/samsungheadend_us/latest/main/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png" group-title="Sports",NBA TV
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=749756&extension=ts
+#EXTINF:-1 tvg-id="5ced7d5df64be98e07ed47b6" tvg-name="NFL Channel" tvg-logo="https://images.pluto.tv/channels/5ced7d5df64be98e07ed47b6/colorLogoPNG.png" group-title="Sports",NFL Channel
+https://i.mjh.nz/PlutoTV/5ced7d5df64be98e07ed47b6-alt.m3u8
+#EXTINF:-1 tvg-id="USBC3200019WF" tvg-name="NHRA TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200019WF_20230125T022114SQUARE.png_20230125022115.png" group-title="Sports",NHRA TV
+https://d1o86ay6e2dqcx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2e9gl9io04v56-ssai-prd/nh.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1 tvg-id="GBBC300001ZW" tvg-name="Origin Sports" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC300001ZW_20220323T071314SQUARE.png_20220323071317.png" group-title="Sports",Origin Sports
+https://amg01258-raycomsports-originsports-samsunguk-1f7fe.amagi.tv/playlist/amg01258-raycomsports-originsports-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="USAK3508729A" tvg-name="Outdoor America" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508729A_20230125T022225SQUARE.png_20230125022226.png" group-title="Sports",Outdoor America
+https://abe7c843f2064704adfd0920c95b127b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_ObsessionMedia/playlist.m3u8?ads.wurl_channel=166&ads.wurl_name=ObsessionMedia&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="USAJ3504707A" tvg-name="Outside" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504707A_20230125T022214SQUARE.png_20230125022215.png" group-title="Sports",Outside
+https://c185ba78559f47b79f8079be89884d03.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_OutsideTV/playlist.m3u8?ads.wurl_channel=143&ads.wurl_name=OutsideTV&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="USBA300034DB" tvg-name="Pac-12 Insider" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300034DB_20230125T022145SQUARE.png_20230125022146.png" group-title="Sports",Pac-12 Insider
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-pac12-samsungtv-us/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="60d39387706fe50007fda8e8" tvg-name="PBR RidePass" tvg-logo="https://images.pluto.tv/channels/60d39387706fe50007fda8e8/colorLogoPNG.png" group-title="Sports",PBR RidePass
+https://i.mjh.nz/PlutoTV/60d39387706fe50007fda8e8-alt.m3u8
+#EXTINF:-1 tvg-id="USAJ3400015BY" tvg-name="People Are Awesome" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3400015BY_20230125T022209SQUARE.png_20230125022210.png" group-title="Sports",People Are Awesome
+https://ab8957f603f74b00bb0517913c452ea5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_PeopleAreAwesome/playlist.m3u8?ads.wurl_channel=385&ads.wurl_name=PeopleAreAwesome&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-id="6334a574605f140007e233c4" tvg-name="PFL MMA" tvg-logo="https://images.pluto.tv/channels/6334a574605f140007e233c4/colorLogoPNG.png" group-title="Sports",PFL MMA
+https://i.mjh.nz/PlutoTV/6334a574605f140007e233c4-alt.m3u8
+#EXTINF:-1 tvg-id="5de94dacb394a300099fa22a" tvg-name="PGA TOUR" tvg-logo="https://images.pluto.tv/channels/5de94dacb394a300099fa22a/colorLogoPNG.png" group-title="Sports",PGA TOUR
+https://i.mjh.nz/PlutoTV/5de94dacb394a300099fa22a-alt.m3u8
+#EXTINF:-1 tvg-id="5fc54366b04b2300072e31af" tvg-name="PokerGo" tvg-logo="https://images.pluto.tv/channels/5fc54366b04b2300072e31af/colorLogoPNG.png" group-title="Sports",PokerGo
+https://i.mjh.nz/PlutoTV/5fc54366b04b2300072e31af-alt.m3u8
+#EXTINF:-1 tvg-id="USAJ3504717A" tvg-name="PowerNation" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504717A_20230125T022216SQUARE.png_20230125022217.png" group-title="Sports",PowerNation
+https://29b9949f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZ19SVE1UVkNoYW5uZWxfSExT/playlist.m3u8?ads.wurl_channel=177&ads.wurl_name=RTMTVChannel&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-id="USAJ2200012RN" tvg-name="Pursuit UP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ2200012RN_20230222T041247SQUARE.png_20230222041248.png" group-title="Sports",Pursuit UP
+https://1c1adf8d91e94b7d836ac263d6f0f35f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_PursuitUp/playlist.m3u8?ads.wurl_channel=243&ads.wurl_name=PursuitUp&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-name="RealMadrid TV" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="Sports",RealMadrid TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV" tvg-logo="https://i.imgur.com/BcN8B3D.png" group-title="Sports",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-id="USBC2400017RE" tvg-name="Ride or Drive" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2400017RE_20230307T222332SQUARE.png_20230307222332.png" group-title="Sports",Ride or Drive
+https://dizbp2a9dfz47.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-22elw950yr3vp-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1 tvg-id="SharjahSports.ae" tvg-name="Sharjah Sports TV" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" group-title="Sports",Sharjah Sports TV
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="GBAJ4900003KD" tvg-name="Sports Channel Network" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ4900003KD_20221026T004708SQUARE.png_20221026004709.png" group-title="Sports",Sports Channel Network
+https://272ab712c4604e8d8980a78b9335981f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_SportsChannelNetwork/playlist.m3u8?ads.wurl_channel=391&ads.wurl_name=SportsChannelNetwork&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="SportsTVPlus.us" tvg-name="Sports TV Plus" tvg-logo="https://i.imgur.com/EyCDhgN.png" group-title="Sports",Sports TV Plus
+https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
+#EXTINF:-1 tvg-id="Sports181HD.in" tvg-name="Sports18 1 HD" tvg-logo="https://i.ibb.co/NmVCXhz/IMG-20230610-135938.jpg" group-title="Sports",Sports18 1 HD
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="USBA300031OT" tvg-name="SportsGrid" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300031OT_20230125T022143SQUARE.png_20230125022143.png" group-title="Sports",SportsGrid
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/sportsgri-sportsgrid-samsung-us/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="USAJ3504705A" tvg-name="Stadium" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504705A_20230125T022058SQUARE.png_20230125022059.png" group-title="Sports",Stadium
+https://2d006483e2aa43fe812f7b464cb2916d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Stadium/playlist.m3u8?ads.wurl_channel=160&ads.wurl_name=Stadium&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="GBBC90001089" tvg-name="Strongman Champions League" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC90001089_20230614T010130SQUARE.png_20230614010130.png" group-title="Sports",Strongman Champions League
+https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/playlist.m3u8?ads.wurl_channel=1102&ads.wurl_name=StrongmanChampionsLeague&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="USBB10000058A" tvg-name="SURF NOW TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB10000058A_20230125T022158SQUARE.png_20230125022159.png" group-title="Sports",SURF NOW TV
+https://dgwfm675921lp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/SurfNowTv-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1 tvg-id="USBC600001QL" tvg-name="T2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC600001QL_20230614T000444SQUARE.png_20230614000445.png" group-title="Sports",T2
+https://d3qg0hadt0dkov.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3sfgyrfz9zduo-prod/amgtennisus/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1 tvg-id="GBBA33000529G" tvg-name="Tennis Channel International" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA33000529G_20220323T071122SQUARE.png_20220323071125.png" group-title="Sports",Tennis Channel International
+https://samsunguk-tennischannel-international-samsung-uk-9pdb4.amagi.tv/playlist/samsunguk-tennischannel-international-samsung-uk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="USBC2400027NG" tvg-name="Top Gear" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2400027NG_20230307T222336SQUARE.png_20230307222337.png" group-title="Sports",Top Gear
+https://d3mpi5qa5otpo5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i0am1w3cs6gml-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1 tvg-id="USBB5200027Z5" tvg-name="Torque" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200027Z5_20221214T015045SQUARE.png_20221214015045.png" group-title="Sports",Torque
+https://3ada9245.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZ19Ub3JxdWVfSExT/playlist.m3u8?ads.wurl_channel=1052&ads.wurl_name=Torque&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-id="GBBA330004950" tvg-name="Unbeaten" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA330004950_20220323T071214SQUARE.png_20220323071217.png" group-title="Sports",Unbeaten
+https://inverleig-unbeaten-samsunguk-7xv9f.amagi.tv/playlist/inverleig-unbeaten-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="GBBB4300001NX" tvg-name="Viaplay Xtra" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB4300001NX_20221109T010820SQUARE.png_20221109010820.png" group-title="Sports",Viaplay Xtra
+https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="61b3ec5ac547920007daf647" tvg-name="Waypoint TV" tvg-logo="https://images.pluto.tv/channels/61b3ec5ac547920007daf647/colorLogoPNG.png" group-title="Sports",Waypoint TV
+https://i.mjh.nz/PlutoTV/61b3ec5ac547920007daf647-alt.m3u8
+#EXTINF:-1 tvg-id="5616f9c0ada51f8004c4b091" tvg-name="World Poker Tour" tvg-logo="https://images.pluto.tv/channels/5616f9c0ada51f8004c4b091/colorLogoPNG-1664295222280.png" group-title="Sports",World Poker Tour
+https://i.mjh.nz/PlutoTV/5616f9c0ada51f8004c4b091-alt.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-10-28-2020-232939597-10-28-2020" tvg-name="ACCDN" tvg-logo="https://i.mjh.nz/Stirr/.images/3be6e11606.png" group-title="STIRR",ACCDN
+https://dai.google.com/linear/hls/event/2vLw_L-5RoOIGNDRpMFgQQ/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-06-23-2020-06-23-2020" tvg-name="AFV" tvg-logo="https://i.mjh.nz/Stirr/.images/5c1f8d189b.png" group-title="STIRR",AFV
+https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-11-06-2019-184659187-11-06-2019" tvg-name="Ambiance" tvg-logo="https://i.mjh.nz/Stirr/.images/7f9d6b864b.png" group-title="STIRR",Ambiance
+https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-10-28-2020-10-28-2020" tvg-name="America vs. Addiction" tvg-logo="https://i.mjh.nz/Stirr/.images/e93a07a7af.png" group-title="STIRR",America vs. Addiction
+https://dai.google.com/linear/hls/event/-A9339ixSzydnZQZHd1u2A/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-12-19-2020-12-19-2020" tvg-name="Bloomberg TV+" tvg-logo="https://i.mjh.nz/Stirr/.images/26a39a9e6c.png" group-title="STIRR",Bloomberg TV+
+https://dai.google.com/linear/hls/event/NiumF4GTSGe-pXM-iMsP0A/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-01-15-2020-201540715-01-15-2020" tvg-name="CHARGE" tvg-logo="https://i.mjh.nz/Stirr/.images/8b4d0a3429.png" group-title="STIRR",CHARGE
+https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
+#EXTINF:-1 tvg-id="cheddar-wurl-external-10-31-2018" tvg-name="Cheddar" tvg-logo="https://i.mjh.nz/Stirr/.images/c7c444f65b.png" group-title="STIRR",Cheddar
+https://dai.google.com/linear/hls/event/frfwucAPTVunrpitYiymwg/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-05-25-2020-05-25-2020" tvg-name="Classica" tvg-logo="https://i.mjh.nz/Stirr/.images/659467dd92.png" group-title="STIRR",Classica
+https://dai.google.com/linear/hls/event/AaFxJXOhQl-BsTVC9OCunQ/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-08-01-2019-08-01-2019" tvg-name="Comedy Dynamics" tvg-logo="https://i.mjh.nz/Stirr/.images/bcca7d0749.png" group-title="STIRR",Comedy Dynamics
+https://dai.google.com/linear/hls/event/NJK_yxrcTBqULaHt-wi0Wg/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-05-21-2019-05-21-2019" tvg-name="COMET" tvg-logo="https://i.mjh.nz/Stirr/.images/df2f520ff0.png" group-title="STIRR",COMET
+https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-10-06-2020-10-06-2020" tvg-name="DJAZZ" tvg-logo="https://i.mjh.nz/Stirr/.images/8b901076b2.png" group-title="STIRR",DJAZZ
+https://dai.google.com/linear/hls/event/C-lfmhUVTGeDNWwU13_EgA/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-05-20-2019-05-20-2019" tvg-name="Docurama" tvg-logo="https://i.mjh.nz/Stirr/.images/71c3a398a9.png" group-title="STIRR",Docurama
+https://dai.google.com/linear/hls/event/Hx_PEMEsSzOCcZgy0Tq2YQ/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-01-28-2021-184530260-01-28-2021" tvg-name="Dove" tvg-logo="https://i.mjh.nz/Stirr/.images/9570ec6ab7.png" group-title="STIRR",Dove
+https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-10-21-2019-10-21-2019" tvg-name="Electric Now" tvg-logo="https://i.mjh.nz/Stirr/.images/5a48b55fc8.png" group-title="STIRR",Electric Now
+https://api-ott.electricnow.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=430&partner=stirr_testing
+#EXTINF:-1 tvg-id="fail-army-wurl-external-07-28-2018" tvg-name="FailArmy" tvg-logo="https://i.mjh.nz/Stirr/.images/e7f99e4cc6.png" group-title="STIRR",FailArmy
+https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-07-18-2019-07-18-2019" tvg-name="Film Detective" tvg-logo="https://i.mjh.nz/Stirr/.images/ed0c97d7e8.png" group-title="STIRR",Film Detective
+https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
+#EXTINF:-1 tvg-id="gravitas-wurl-external-12-03-2018" tvg-name="Gravitas" tvg-logo="https://i.mjh.nz/Stirr/.images/07fb2f7f7a.png" group-title="STIRR",Gravitas
+https://dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8
+#EXTINF:-1 tvg-id="horse-shopping-channel-01-05-2021-232155211" tvg-name="Horse Shopping Channel" tvg-logo="https://i.mjh.nz/Stirr/.images/f104398b83.png" group-title="STIRR",Horse Shopping Channel
+https://playoutengine.sinclairstoryline.com/playout/c16448cc-ef21-44a5-a5b4-192f943b2dbb.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-06-26-2020-185414162-06-26-2020" tvg-name="HSN" tvg-logo="https://i.mjh.nz/Stirr/.images/a2c1332034.png" group-title="STIRR",HSN
+https://dai.google.com/linear/hls/event/akursTHNTo6qGf1TtlHNsw/master.m3u8
+#EXTINF:-1 tvg-id="its-showtime-at-the-apollo-03-12-2021" tvg-name="It's Showtime at the Apollo" tvg-logo="https://i.mjh.nz/Stirr/.images/04334ffd4f.png" group-title="STIRR",It's Showtime at the Apollo
+https://dai.google.com/linear/hls/event/fAFfTnCAT2K8d83sYsA-cw/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-12-11-2019-12-11-2019" tvg-name="Karaoke" tvg-logo="https://i.mjh.nz/Stirr/.images/9f676235b5.png" group-title="STIRR",Karaoke
+https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-03-22-2019-03-22-2019" tvg-name="Law & Crime" tvg-logo="https://i.mjh.nz/Stirr/.images/ae83f6d0a7.png" group-title="STIRR",Law & Crime
+https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-03-13-2020-03-13-2020" tvg-name="LiveXLive" tvg-logo="https://i.mjh.nz/Stirr/.images/4fabd4d858.png" group-title="STIRR",LiveXLive
+https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-01-13-2020-234138693-01-13-2020" tvg-name="MagellanTV" tvg-logo="https://i.mjh.nz/Stirr/.images/8265a4a003.png" group-title="STIRR",MagellanTV
+https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-04-21-2020-213519853-04-21-2020" tvg-name="MavTv" tvg-logo="https://i.mjh.nz/Stirr/.images/d39761d343.png" group-title="STIRR",MavTv
+https://dai.google.com/linear/hls/event/YoBM0ae5Q62TPdrfFHS4RQ/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-06-26-2020-193305392-06-26-2020" tvg-name="Midnight Pulp" tvg-logo="https://i.mjh.nz/Stirr/.images/d65f1a518c.png" group-title="STIRR",Midnight Pulp
+https://dai.google.com/linear/hls/event/1fO2zbpBRyy6S5yve_fnaw/master.m3u8
+#EXTINF:-1 tvg-id="nasatv-gracenote-external-01-09-2019" tvg-name="NASATV" tvg-logo="https://i.mjh.nz/Stirr/.images/22eb0947e0.png" group-title="STIRR",NASATV
+https://usgeowall.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-09-28-2021-09-28-2021" tvg-name="News 12 New York" tvg-logo="https://i.mjh.nz/Stirr/.images/595aea74a9.png" group-title="STIRR",News 12 New York
+https://dai.google.com/linear/hls/event/prB2uMbkRSiK1vL3Y_mHCw/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-09-27-2021-09-27-2021" tvg-name="Nosey" tvg-logo="https://i.mjh.nz/Stirr/.images/5213a9c176.png" group-title="STIRR",Nosey
+https://dai.google.com/linear/hls/event/UUXi0jbTQpa0OkpheRqKJQ/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-08-27-2021-08-27-2021" tvg-name="ONTV4U" tvg-logo="https://i.mjh.nz/Stirr/.images/9ee1760cf7.png" group-title="STIRR",ONTV4U
+https://dai.google.com/linear/hls/event/571lW-W1Th6Go5EV3Qa19Q/master.m3u8
+#EXTINF:-1 tvg-id="outdoor-america-wurl-external-12-21-2018" tvg-name="Outdoor America" tvg-logo="https://i.mjh.nz/Stirr/.images/ca6180f255.png" group-title="STIRR",Outdoor America
+https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-11-30-2020-224017637-11-30-2020" tvg-name="People Are Awesome" tvg-logo="https://i.mjh.nz/Stirr/.images/3b6c8a6b2c.png" group-title="STIRR",People Are Awesome
+https://dai.google.com/linear/hls/event/n2b4-fFMTTKRWqvx_dxhsw/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-02-13-2020-02-13-2020" tvg-name="Popstar! TV" tvg-logo="https://i.mjh.nz/Stirr/.images/0dafe8df23.png" group-title="STIRR",Popstar! TV
+https://dai.google.com/linear/hls/event/cJFuxTLzQUqbGGrqTMBJuw/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-07-01-2020-225307685-07-01-2020" tvg-name="PursuitUp" tvg-logo="https://i.mjh.nz/Stirr/.images/0f3a952065.png" group-title="STIRR",PursuitUp
+https://dai.google.com/linear/hls/event/NpkpFaFVRqaQwSkpPdramg/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-12-04-2019-193009840-12-04-2019" tvg-name="Qello" tvg-logo="https://i.mjh.nz/Stirr/.images/38f50ed23c.png" group-title="STIRR",Qello
+https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-01-28-2021-01-28-2021" tvg-name="Quicktake" tvg-logo="https://i.mjh.nz/Stirr/.images/fcf2a6e4d4.png" group-title="STIRR",Quicktake
+https://dai.google.com/linear/hls/event/6ANW1HGeSTKzJlnAa9u1AQ/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-05-26-2020-05-26-2020" tvg-name="QVC" tvg-logo="https://i.mjh.nz/Stirr/.images/76da581a2e.png" group-title="STIRR",QVC
+https://dai.google.com/linear/hls/event/roEbn_l7Tzezwy22F1NSfA/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-07-01-2020-07-01-2020" tvg-name="RetroCrush" tvg-logo="https://i.mjh.nz/Stirr/.images/c624d7b545.png" group-title="STIRR",RetroCrush
+https://dai.google.com/linear/hls/event/7LAMGFcmQN6iFJjNoHWXrg/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-02-04-2020-02-04-2020" tvg-name="Revry" tvg-logo="https://i.mjh.nz/Stirr/.images/4ec53af79e.png" group-title="STIRR",Revry
+https://linear-5.frequency.stream/dist/stirr/5/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-09-16-2021-09-16-2021" tvg-name="Shop LC" tvg-logo="https://i.mjh.nz/Stirr/.images/97db4f5372.png" group-title="STIRR",Shop LC
+https://dai.google.com/linear/hls/event/9WYzyYxrRvafiVxUGKV2OA/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-08-18-2020-08-18-2020" tvg-name="So...Real" tvg-logo="https://i.mjh.nz/Stirr/.images/9d37cac4a9.png" group-title="STIRR",So...Real
+https://dai.google.com/linear/hls/event/VMzvtHhOQdOAzbV_hQKQbQ/master.m3u8
+#EXTINF:-1 tvg-id="soar-11-20-2019" tvg-name="SOAR" tvg-logo="https://i.mjh.nz/Stirr/.images/19086698bc.png" group-title="STIRR",SOAR
+https://dai.google.com/linear/hls/event/_PDxBUttQYqkxPnmh3VOZA/master.m3u8
+#EXTINF:-1 tvg-id="stadium" tvg-name="Stadium" tvg-logo="https://i.mjh.nz/Stirr/.images/42649c3aa5.png" group-title="STIRR",Stadium
+https://dai.google.com/linear/hls/event/0jRU1DBXSW6a_TFheLfAUQ/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-12-04-2019-192438503-12-04-2019" tvg-name="Stingray Classic Rock" tvg-logo="https://i.mjh.nz/Stirr/.images/5b1e4408f4.png" group-title="STIRR",Stingray Classic Rock
+https://dai.google.com/linear/hls/event/vlqVJJSkQKW6IB7bQSGZ5A/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-12-04-2019-184749725-12-04-2019" tvg-name="Stingray Everything 80s" tvg-logo="https://i.mjh.nz/Stirr/.images/095f368e58.png" group-title="STIRR",Stingray Everything 80s
+https://dai.google.com/linear/hls/event/XiPZx9vFS8i6lgkNnprjtQ/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-12-04-2019-185615218-12-04-2019" tvg-name="Stingray Flashback 70s" tvg-logo="https://i.mjh.nz/Stirr/.images/2a93be72fe.png" group-title="STIRR",Stingray Flashback 70s
+https://dai.google.com/linear/hls/event/Y3O1azbASfKxO4gdleMbmQ/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-12-04-2019-173904669-12-04-2019" tvg-name="Stingray Greatest Hits" tvg-logo="https://i.mjh.nz/Stirr/.images/4bd829b1d0.png" group-title="STIRR",Stingray Greatest Hits
+https://dai.google.com/linear/hls/event/_2NUNA_qTSyd70FTD_lqyw/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-12-06-2019-12-06-2019" tvg-name="Stingray Hit List" tvg-logo="https://i.mjh.nz/Stirr/.images/a3dcb668ae.png" group-title="STIRR",Stingray Hit List
+https://dai.google.com/linear/hls/event/Hz2x5xc5TSaJ4NzV-AUcEg/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-12-04-2019-185914490-12-04-2019" tvg-name="Stingray Hot Country" tvg-logo="https://i.mjh.nz/Stirr/.images/5f1f78c3ab.png" group-title="STIRR",Stingray Hot Country
+https://dai.google.com/linear/hls/event/SgCez41rR36rmiw8Odu8FA/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-12-04-2019-190655242-12-04-2019" tvg-name="Stingray Pop Adult" tvg-logo="https://i.mjh.nz/Stirr/.images/73740500f5.png" group-title="STIRR",Stingray Pop Adult
+https://dai.google.com/linear/hls/event/rJ3187-VT6GIl-XUZTbX6w/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-12-04-2019-190935337-12-04-2019" tvg-name="Stingray Rock Alternative" tvg-logo="https://i.mjh.nz/Stirr/.images/cea41a8d26.png" group-title="STIRR",Stingray Rock Alternative
+https://dai.google.com/linear/hls/event/k446WemXQgSbP0IsuZrM7w/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-12-04-2019-12-04-2019" tvg-name="Stingray Today's Latin Pop" tvg-logo="https://i.mjh.nz/Stirr/.images/5a55d698ee.png" group-title="STIRR",Stingray Today's Latin Pop
+https://dai.google.com/linear/hls/event/M-6M5FGMRUegPLdsgkF7KA/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-12-04-2019-175616790-12-04-2019" tvg-name="Stingray Urban Beats" tvg-logo="https://i.mjh.nz/Stirr/.images/2cd917bc8b.png" group-title="STIRR",Stingray Urban Beats
+https://dai.google.com/linear/hls/event/tNflj2YMTfCWowqDM1Ej6A/master.m3u8
+#EXTINF:-1 tvg-id="dco" tvg-name="STIRR | National" tvg-logo="https://i.mjh.nz/Stirr/.images/86de280abc.png" group-title="STIRR",STIRR | National
+https://dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-02-09-2022-02-09-2022" tvg-name="Swerve Sports" tvg-logo="https://i.mjh.nz/Stirr/.images/756316e10b.png" group-title="STIRR",Swerve Sports
+https://dai.google.com/linear/hls/event/5qa-mJF2R0iBw8S1JwF7FQ/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-05-22-2019-05-22-2019" tvg-name="TBD" tvg-logo="https://i.mjh.nz/Stirr/.images/068ecce324.png" group-title="STIRR",TBD
+https://dai.google.com/linear/hls/event/_xtY848OSRCm_k0veSjMHg/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-12-15-2021-12-15-2021" tvg-name="The Archive" tvg-logo="https://i.mjh.nz/Stirr/.images/47db5099c5.png" group-title="STIRR",The Archive
+https://dai.google.com/linear/hls/event/MdbYPXWRStmMq1DaQhsBUw/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-04-27-2020-04-27-2020" tvg-name="The Bob Ross Channel" tvg-logo="https://i.mjh.nz/Stirr/.images/e5621c9062.png" group-title="STIRR",The Bob Ross Channel
+https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-07-20-2021-07-20-2021" tvg-name="The Country Network" tvg-logo="https://i.mjh.nz/Stirr/.images/65f68946eb.png" group-title="STIRR",The Country Network
+https://dai.google.com/linear/hls/event/3EEsfZhASryigfuSpHdfKg/master.m3u8
+#EXTINF:-1 tvg-id="the-pet-collective-wurl-external-07-28-2018-025714015" tvg-name="The Pet Collective" tvg-logo="https://i.mjh.nz/Stirr/.images/2f70155cd4.png" group-title="STIRR",The Pet Collective
+https://dai.google.com/linear/hls/event/q0dlRn_xSBGTZYI7vwWWJQ/master.m3u8
+#EXTINF:-1 tvg-id="free-07-26-2018" tvg-name="The T" tvg-logo="https://i.mjh.nz/Stirr/.images/a155aec24c.png" group-title="STIRR",The T
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-11-30-2020-11-30-2020" tvg-name="WeatherSpy" tvg-logo="https://i.mjh.nz/Stirr/.images/a1affe1573.png" group-title="STIRR",WeatherSpy
+https://dai.google.com/linear/hls/event/vZB78SsNSXWOR63VJrNC2Q/master.m3u8
+#EXTINF:-1 tvg-id="externallinearfeed-04-23-2020-04-23-2020" tvg-name="World Poker Tour" tvg-logo="https://i.mjh.nz/Stirr/.images/4e5aacbaf0.png" group-title="STIRR",World Poker Tour
+https://dai.google.com/linear/hls/event/V7AWGB66R3avQhuIFaxmjw/master.m3u8
