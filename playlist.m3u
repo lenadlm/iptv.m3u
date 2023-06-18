@@ -99,8 +99,6 @@ https://i.mjh.nz/PlutoTV/61325c4f982acd000723287e-alt.m3u8
 https://i.mjh.nz/PlutoTV/5f15e3cccf49290007053c67-alt.m3u8
 #EXTINF:-1 tvg-id="61325d18f5166c00081b84e0" tvg-name="Classic TV Families" tvg-logo="https://images.pluto.tv/channels/61325d18f5166c00081b84e0/colorLogoPNG.png" group-title="Classic TV",Classic TV Families
 https://i.mjh.nz/PlutoTV/61325d18f5166c00081b84e0-alt.m3u8
-#EXTINF:-1 tvg-id="620f6d3282c5260007fc2da2" tvg-name="Come Dine with Me" tvg-logo="https://images.pluto.tv/channels/620f6d3282c5260007fc2da2/colorLogoPNG.png" group-title="Classic TV",Come Dine with Me
-https://i.mjh.nz/PlutoTV/620f6d3282c5260007fc2da2-alt.m3u8
 #EXTINF:-1 tvg-id="6304f8d5ffb61000071ab478" tvg-name="CSI: Crime Scene Investigation" tvg-logo="https://images.pluto.tv/channels/6304f8d5ffb61000071ab478/colorLogoPNG.png" group-title="Classic TV",CSI: Crime Scene Investigation
 https://i.mjh.nz/PlutoTV/6304f8d5ffb61000071ab478-alt.m3u8
 #EXTINF:-1 tvg-id="62da7819be7a97000878eb92" tvg-name="CSI: Miami" tvg-logo="https://images.pluto.tv/channels/62da7819be7a97000878eb92/colorLogoPNG.png" group-title="Classic TV",CSI: Miami
@@ -115,8 +113,6 @@ https://i.mjh.nz/PlutoTV/5ce4475cd43850831ca91ce7-alt.m3u8
 https://i.mjh.nz/PlutoTV/62e919ca865c590007ecd0bd-alt.m3u8
 #EXTINF:-1 tvg-id="620bb260821a860007b2d3df" tvg-name="Family Ties" tvg-logo="https://images.pluto.tv/channels/620bb260821a860007b2d3df/colorLogoPNG.png" group-title="Classic TV",Family Ties
 https://i.mjh.nz/PlutoTV/620bb260821a860007b2d3df-alt.m3u8
-#EXTINF:-1 tvg-id="5f77939a630f530007dde654" tvg-name="Family Ties" tvg-logo="https://images.pluto.tv/channels/5f77939a630f530007dde654/colorLogoPNG.png" group-title="Classic TV",Family Ties
-https://i.mjh.nz/PlutoTV/5f77939a630f530007dde654-alt.m3u8
 #EXTINF:-1 tvg-id="FolkTV.us" tvg-name="Folk TV" tvg-logo="https://i.imgur.com/hV46zMX.png" group-title="Classic TV",Folk TV
 http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="62a069bfd88ef000073f6775" tvg-name="Garfield & Friends" tvg-logo="https://images.pluto.tv/channels/62a069bfd88ef000073f6775/colorLogoPNG.png" group-title="Classic TV",Garfield & Friends
@@ -151,10 +147,10 @@ https://amg00627-banijaygroup-mcleods-uk-samsunguk-g7yoe.amagi.tv/playlist/amg00
 https://i.mjh.nz/PlutoTV/62ea43aa0c43540007f2db96-alt.m3u8
 #EXTINF:-1 tvg-id="645cf7757cb4b100085b111a" tvg-name="Mission: Impossible Movies" tvg-logo="https://images.pluto.tv/channels/645cf7757cb4b100085b111a/colorLogoPNG.png" group-title="Classic TV",Mission: Impossible Movies
 https://i.mjh.nz/PlutoTV/645cf7757cb4b100085b111a-alt.m3u8
-#EXTINF:-1 tvg-id="645cf7b9e94c38000810357d" tvg-name="More Mission: Impossible Movies" tvg-logo="https://images.pluto.tv/channels/645cf7b9e94c38000810357d/colorLogoPNG.png" group-title="Classic TV",More Mission: Impossible Movies
-https://i.mjh.nz/PlutoTV/645cf7b9e94c38000810357d-alt.m3u8
 #EXTINF:-1 tvg-id="620f6c60b994540007ddd74b" tvg-name="Moesha" tvg-logo="https://images.pluto.tv/channels/620f6c60b994540007ddd74b/colorLogoPNG.png" group-title="Classic TV",Moesha
 https://i.mjh.nz/PlutoTV/620f6c60b994540007ddd74b-alt.m3u8
+#EXTINF:-1 tvg-id="645cf7b9e94c38000810357d" tvg-name="More Mission: Impossible Movies" tvg-logo="https://images.pluto.tv/channels/645cf7b9e94c38000810357d/colorLogoPNG.png" group-title="Classic TV",More Mission: Impossible Movies
+https://i.mjh.nz/PlutoTV/645cf7b9e94c38000810357d-alt.m3u8
 #EXTINF:-1 tvg-id="645e00d5d3fdde000829463a" tvg-name="More TV Sci-fi" tvg-logo="https://images.pluto.tv/channels/645e00d5d3fdde000829463a/colorLogoPNG.png" group-title="Classic TV",More TV Sci-fi
 https://i.mjh.nz/PlutoTV/645e00d5d3fdde000829463a-alt.m3u8
 #EXTINF:-1 tvg-id="645e0092e94c380008133744" tvg-name="More TV Sitcoms" tvg-logo="https://images.pluto.tv/channels/645e0092e94c380008133744/colorLogoPNG.png" group-title="Classic TV",More TV Sitcoms
@@ -193,6 +189,8 @@ https://i.mjh.nz/PlutoTV/5d81607ab737153ea3c1c80e-alt.m3u8
 https://i.mjh.nz/PlutoTV/60f75178e7f8aa0007e9c259-alt.m3u8
 #EXTINF:-1 tvg-id="5ef396d1be50a3000722808b" tvg-name="The Carol Burnett Show" tvg-logo="https://images.pluto.tv/channels/5ef396d1be50a3000722808b/colorLogoPNG.png" group-title="Classic TV",The Carol Burnett Show
 https://i.mjh.nz/PlutoTV/5ef396d1be50a3000722808b-alt.m3u8
+#EXTINF:-1 tvg-id="TheCarolBurnettShow.us" tvg-name="The Carol Burnett Show" tvg-logo="https://i.imgur.com/1a03FlX.png" group-title="Classic TV",The Carol Burnett Show
+https://amg00163-shoutfactory-carolburnett-dmr-cpk9r.amagi.tv/playlist/amg00163-shoutfactory-carolburnett-dmr/playlist.m3u8
 #EXTINF:-1 tvg-id="63d9674b2e477400081b9858" tvg-name="The Dick Van Dyke Show" tvg-logo="https://images.pluto.tv/channels/63d9674b2e477400081b9858/colorLogoPNG.png" group-title="Classic TV",The Dick Van Dyke Show
 https://i.mjh.nz/PlutoTV/63d9674b2e477400081b9858-alt.m3u8
 #EXTINF:-1 tvg-id="62a8e433fbf5460007698214" tvg-name="The Ed Sullivan Show" tvg-logo="https://images.pluto.tv/channels/62a8e433fbf5460007698214/colorLogoPNG.png" group-title="Classic TV",The Ed Sullivan Show
@@ -201,6 +199,8 @@ https://i.mjh.nz/PlutoTV/62a8e433fbf5460007698214-alt.m3u8
 https://i.mjh.nz/PlutoTV/62e91563ce7ce300076f917e-alt.m3u8
 #EXTINF:-1 tvg-id="5e825550e758c700077b0aef" tvg-name="The Rifleman" tvg-logo="https://images.pluto.tv/channels/5e825550e758c700077b0aef/colorLogoPNG.png" group-title="Classic TV",The Rifleman
 https://i.mjh.nz/PlutoTV/5e825550e758c700077b0aef-alt.m3u8
+#EXTINF:-1 tvg-id="USAJ30000100K" tvg-name="The Walking Dead Universe" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ30000100K_20221116T013431SQUARE.png_20221116013432.png" group-title="Classic TV",The Walking Dead Universe
+https://645c5b3f342a4329a847a557fbe77b05.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_TWDUniverseTV14/playlist.m3u8?ads.wurl_channel=844&ads.wurl_name=TWDUniverseTV14&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 tvg-id="5ef3977e5d773400077de284" tvg-name="Three's Company" tvg-logo="https://images.pluto.tv/channels/5ef3977e5d773400077de284/colorLogoPNG.png" group-title="Classic TV",Three's Company
 https://i.mjh.nz/PlutoTV/5ef3977e5d773400077de284-alt.m3u8
 #EXTINF:-1 tvg-id="5dae084727c8af0009fe40a4" tvg-name="Tosh.0" tvg-logo="https://images.pluto.tv/channels/5dae084727c8af0009fe40a4/colorLogoPNG.png" group-title="Classic TV",Tosh.0
@@ -215,10 +215,6 @@ https://i.mjh.nz/PlutoTV/63693fdb2fbc01000786349b-alt.m3u8
 https://i.mjh.nz/PlutoTV/5d48678d34ceb37d3c458a55-alt.m3u8
 #EXTINF:-1 tvg-id="60817936fd2d70000763d2b2" tvg-name="Wild at Heart" tvg-logo="https://images.pluto.tv/channels/60817936fd2d70000763d2b2/colorLogoPNG.PNG" group-title="Classic TV",Wild at Heart
 https://i.mjh.nz/PlutoTV/60817936fd2d70000763d2b2-alt.m3u8
-#EXTINF:-1 tvg-id="JohnnyCarsonTV.us" tvg-name="Johnny Carson TV" tvg-logo="https://i.imgur.com/KBTqpJ7.png" group-title="Classic TV",Johnny Carson TV
-https://amg00163-shoutfactory-johnnycarson-dmr-xydqu.amagi.tv/playlist/amg00163-shoutfactory-johnnycarson-dmr/playlist.m3u8
-#EXTINF:-1 tvg-id="TheCarolBurnettShow.us" tvg-name="The Carol Burnett Show" tvg-logo="https://i.imgur.com/1a03FlX.png" group-title="Classic TV",The Carol Burnett Show
-https://amg00163-shoutfactory-carolburnett-dmr-cpk9r.amagi.tv/playlist/amg00163-shoutfactory-carolburnett-dmr/playlist.m3u8
 #EXTINF:-1 tvg-id="AFV.us" tvg-name="AFV" tvg-logo="https://i.imgur.com/TOB9vmW.png" group-title="Comedy",AFV
 https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
 #EXTINF:-1 tvg-id="AFVFamily.us" tvg-name="AFV Family" tvg-logo="https://i.imgur.com/dLSKBEn.png" group-title="Comedy",AFV Family
@@ -601,8 +597,6 @@ https://f8f59665a66d47ab9f9e8c2b7e6881e1.mediatailor.us-east-1.amazonaws.com/v1/
 https://d3knca0xtk4ya9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1sxenfkl27gw6/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 tvg-id="5dc0c78281eddb0009a02d5e" tvg-name="Mixible" tvg-logo="https://images.pluto.tv/channels/5dc0c78281eddb0009a02d5e/colorLogoPNG.png" group-title="Entertainment",Mixible
 https://i.mjh.nz/PlutoTV/5dc0c78281eddb0009a02d5e-alt.m3u8
-#EXTINF:-1 tvg-id="613260e4bdb71c00070d63fa" tvg-name="More TV Drama" tvg-logo="https://images.pluto.tv/channels/613260e4bdb71c00070d63fa/colorLogoPNG.png" group-title="Entertainment",More TV Drama
-https://i.mjh.nz/PlutoTV/613260e4bdb71c00070d63fa-alt.m3u8
 #EXTINF:-1 tvg-id="6081648340382e0007f73d45" tvg-name="Most Haunted" tvg-logo="https://images.pluto.tv/channels/6081648340382e0007f73d45/colorLogoPNG.png" group-title="Entertainment",Most Haunted
 https://i.mjh.nz/PlutoTV/6081648340382e0007f73d45-alt.m3u8
 #EXTINF:-1 tvg-id="63335b193583440007c859fb" tvg-name="Movie Favorites by Lifetime" tvg-logo="https://images.pluto.tv/channels/63335b193583440007c859fb/colorLogoPNG.png" group-title="Entertainment",Movie Favorites by Lifetime
@@ -693,6 +687,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-wickedtuna-sa
 https://i.mjh.nz/PlutoTV/5f1efad04320070007dbb60b-alt.m3u8
 #EXTINF:-1 tvg-id="5d40bebc5e3d2750a2239d7e" tvg-name="TV Land Drama" tvg-logo="https://images.pluto.tv/channels/5d40bebc5e3d2750a2239d7e/colorLogoPNG.png" group-title="Entertainment",TV Land Drama
 https://i.mjh.nz/PlutoTV/5d40bebc5e3d2750a2239d7e-alt.m3u8
+#EXTINF:-1 tvg-id="613260e4bdb71c00070d63fa" tvg-name="More TV Drama" tvg-logo="https://images.pluto.tv/channels/613260e4bdb71c00070d63fa/colorLogoPNG.png" group-title="Entertainment",More TV Drama
+https://i.mjh.nz/PlutoTV/613260e4bdb71c00070d63fa-alt.m3u8
 #EXTINF:-1 tvg-id="5f0dc00b15eef10007726ef7" tvg-name="Undercover Boss Global" tvg-logo="https://images.pluto.tv/channels/5f0dc00b15eef10007726ef7/colorLogoPNG.png" group-title="Entertainment",Undercover Boss Global
 https://i.mjh.nz/PlutoTV/5f0dc00b15eef10007726ef7-alt.m3u8
 #EXTINF:-1 tvg-id="USBB10000047W" tvg-name="Unidentified" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB10000047W_20230125T022635SQUARE.png_20230125022636.png" group-title="Entertainment",Unidentified
