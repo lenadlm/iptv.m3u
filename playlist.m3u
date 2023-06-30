@@ -737,7 +737,7 @@ https://dai.google.com/linear/hls/event/gjI4SECkQo6qLHvqqlbbZA/master.m3u8?imafw
 https://i.mjh.nz/PlutoTV/62fb62081afad500077e915e-alt.m3u8
 #EXTINF:-1 tvg-id="5877ac8cb791f4eb4a140d81" tvg-name="Food TV" tvg-logo="https://images.pluto.tv/channels/5877ac8cb791f4eb4a140d81/colorLogoPNG.png" group-title="Food‚ Home + Travel",Food TV
 https://i.mjh.nz/PlutoTV/5877ac8cb791f4eb4a140d81-alt.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Food TV by Binge" tvg-logo="https://ssl-cdn.carbontv.com/app/webroot/files/assets/cams/facebook_sharing_image/1656514014/Share%20Image.jpg" group-title="Food‚ Home + Travel",Food TV by Binge
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Food TV by Binge" tvg-logo="https://ayozat.com/uploads/tv_image/food-tv-by-binge.png" group-title="Food‚ Home + Travel",Food TV by Binge
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/VXRZC2P7GTRKJSEK9TA0/hls3/now_-1m_15s/m.m3u8
 #EXTINF:-1 tvg-id="GoTraveler.us" tvg-name="Go Traveler" tvg-logo="https://i.imgur.com/IaRcN1G.png" group-title="Food‚ Home + Travel",Go Traveler
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgotraveler/CDN/playlist.m3u8
@@ -1111,7 +1111,7 @@ https://i.mjh.nz/PlutoTV/5c5c2e9d8002db3c3e0b1c72-alt.m3u8
 https://lo2-1.gemporia.com/abrjewellerymaker/smil:livestream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Lifestyle.us" tvg-name="Lifestyle" tvg-logo="https://i.imgur.com/msQsW9M.png" group-title="Lifestyle + Culture",Lifestyle
 https://simultv.s.llnwi.net/o058/Lifestyle/interlink.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lifestyle by Binge" tvg-logo="https://ssl-cdn.carbontv.com/app/webroot/files/assets/cams/facebook_sharing_image/1656516534/Share%20Image.jpg" group-title="Lifestyle + Culture",Lifestyle by Binge
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lifestyle by Binge" tvg-logo="https://ayozat.com/uploads/tv_image/lifestyle-by-binge.png" group-title="Lifestyle + Culture",Lifestyle by Binge
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/TGHMDGWK71ARM14CUY4P/hls3/now_-1m_15s/m.m3u8
 #EXTINF:-1 tvg-id="620f6f9e36a49b000761f0d5" tvg-name="location" tvg-logo="https://images.pluto.tv/channels/620f6f9e36a49b000761f0d5/colorLogoPNG.png" group-title="Lifestyle + Culture",location
 https://i.mjh.nz/PlutoTV/620f6f9e36a49b000761f0d5-alt.m3u8
