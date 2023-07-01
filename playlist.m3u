@@ -394,10 +394,6 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-introublenz
 https://inwild-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="InWonder.nl" tvg-name="InWonder" tvg-logo="https://i.imgur.com/7kOhGef.png" group-title="Documentaries",InWonder
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwondernz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="IONTVEast.us" tvg-name="ION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png" group-title="Documentaries",ION
-https://scripps-ion-1-us.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ION Mystery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/1291px-ION_Mystery_logo.svg.png" group-title="Documentaries",ION Mystery
-https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="USBA3400003IP" tvg-name="Love Nature 4K" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3400003IP_20230131T052034SQUARE.png_20230131052035.png" group-title="Documentaries",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 tvg-id="GBBD500001F5" tvg-name="Love the Planet" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD500001F5_20230412T042258SQUARE.png_20230412042259.png" group-title="Documentaries",Love the Planet
@@ -536,6 +532,8 @@ https://dmnrfk13mvw0g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://dm1y3xxivi9lk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-icxyqeotf73n4-prod/elec/en/elec_en.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 tvg-id="GBBC2300003ZQ" tvg-name="Entertainment Hub" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300003ZQ_20220608T011330SQUARE.png_20220608011332.png" group-title="Entertainment",Entertainment Hub
 https://d1wa6bd97begp2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w17i5m783xt5c-ssai-prd/hls-harvester2-1293-prod-eucentral1/eu-central-1/cc-w17i5m783xt5c/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="ETLive.us" tvg-name="ET Live" tvg-logo="https://i.imgur.com/ksB7Tq5.png" group-title="Entertainment",ET Live
+https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
 #EXTINF:-1 tvg-id="5ea1966ae0e0610007b1faf2" tvg-name="Extreme Channel" tvg-logo="https://images.pluto.tv/channels/5ea1966ae0e0610007b1faf2/colorLogoPNG.png" group-title="Entertainment",Extreme Channel
 https://i.mjh.nz/PlutoTV/5ea1966ae0e0610007b1faf2-alt.m3u8
 #EXTINF:-1 tvg-id="5ca1de9208ee5378be82db3b" tvg-name="Fifth Gear" tvg-logo="https://images.pluto.tv/channels/5ca1de9208ee5378be82db3b/colorLogoPNG.png" group-title="Entertainment",Fifth Gear
@@ -572,9 +570,11 @@ https://i.mjh.nz/PlutoTV/5c3639dd01112605397333a2-alt.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestyle-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 #EXTINF:-1 tvg-id="GBAJ42000038R" tvg-name="INWONDER" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ42000038R_20230125T022343SQUARE.png_20230125022344.png" group-title="Entertainment",INWONDER
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonder-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-#EXTINF:-1 tvg-id="USBD300002TU" tvg-name="ION" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300002TU_20230627T215002SQUARE.png_20230627215003.png" group-title="Entertainment",ION
-https://d1mumb5jst6zw0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqzc6u2smk8dg/ion.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-#EXTINF:-1 tvg-id="USBD300003LK" tvg-name="ION Plus" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300003LK_20230627T215004SQUARE.png_20230627215005.png" group-title="Entertainment",ION Plus
+#EXTINF:-1 tvg-id="IONTVEast.us" tvg-name="ION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png" group-title="Entertainment",ION
+https://scripps-ion-1-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ION Mystery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/1200px-ION_Mystery_logo.svg.png" group-title="Entertainment",ION Mystery
+https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="USBD300003LK" tvg-name="ION Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/1280px-ION_Plus_logo.svg.png" group-title="Entertainment",ION Plus
 https://d2olmevnzmviuu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-drh5os33njrnt/ion_plus.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 tvg-id="62ea46b3495abf00078dc685" tvg-name="Judge Nosey" tvg-logo="https://images.pluto.tv/channels/62ea46b3495abf00078dc685/colorLogoPNG.png" group-title="Entertainment",Judge Nosey
 https://i.mjh.nz/PlutoTV/62ea46b3495abf00078dc685-alt.m3u8
