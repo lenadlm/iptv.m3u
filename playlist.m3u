@@ -2838,6 +2838,8 @@ https://ab8957f603f74b00bb0517913c452ea5.mediatailor.us-east-1.amazonaws.com/v1/
 https://i.mjh.nz/PlutoTV/6334a574605f140007e233c4-alt.m3u8
 #EXTINF:-1 tvg-id="5de94dacb394a300099fa22a" tvg-name="PGA TOUR" tvg-logo="https://images.pluto.tv/channels/5de94dacb394a300099fa22a/colorLogoPNG.png" group-title="Sports",PGA TOUR
 https://i.mjh.nz/PlutoTV/5de94dacb394a300099fa22a-alt.m3u8
+#EXTINF:-1 tvg-id="PlayersTV.ca" tvg-name="Players TV" tvg-logo="https://i.imgur.com/OC3O87c.png" group-title="Sports",Players TV
+https://playerstv-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="5fc54366b04b2300072e31af" tvg-name="PokerGo" tvg-logo="https://images.pluto.tv/channels/5fc54366b04b2300072e31af/colorLogoPNG.png" group-title="Sports",PokerGo
 https://i.mjh.nz/PlutoTV/5fc54366b04b2300072e31af-alt.m3u8
 #EXTINF:-1 tvg-id="USAJ3504717A" tvg-name="PowerNation" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504717A_20230125T022216SQUARE.png_20230125022217.png" group-title="Sports",PowerNation
@@ -2866,22 +2868,18 @@ https://dgwfm675921lp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://d3qg0hadt0dkov.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3sfgyrfz9zduo-prod/amgtennisus/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 tvg-id="GBBA33000529G" tvg-name="Tennis Channel International" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA33000529G_20220323T071122SQUARE.png_20220323071125.png" group-title="Sports",Tennis Channel International
 https://samsunguk-tennischannel-international-samsung-uk-9pdb4.amagi.tv/playlist/samsunguk-tennischannel-international-samsung-uk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRACE Sport Stars" tvg-logo="" group-title="Sports",TRACE Sport Stars
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/Q6ZILPXDVMWLTQLVUCFZ/hls3/now_-1m_15s/m.m3u8
 #EXTINF:-1 tvg-id="USBC2400027NG" tvg-name="Top Gear" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2400027NG_20230627T214919SQUARE.png_20230627214920.png" group-title="Sports",Top Gear
 https://d3mpi5qa5otpo5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i0am1w3cs6gml-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 tvg-id="USBB5200027Z5" tvg-name="Torque" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200027Z5_20221214T015045SQUARE.png_20221214015045.png" group-title="Sports",Torque
 https://3ada9245.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZ19Ub3JxdWVfSExT/playlist.m3u8?ads.wurl_channel=1052&ads.wurl_name=Torque&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 tvg-id="GBBA330004950" tvg-name="Unbeaten" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA330004950_20220323T071214SQUARE.png_20220323071217.png" group-title="Sports",Unbeaten
-https://inverleig-unbeaten-samsunguk-7xv9f.amagi.tv/playlist/inverleig-unbeaten-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-#EXTINF:-1 tvg-id="GBBB4300001NX" tvg-name="Viaplay Xtra" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB4300001NX_20221109T010820SQUARE.png_20221109010820.png" group-title="Sports",Viaplay Xtra
-https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 tvg-id="PlayersTV.ca" tvg-name="Players TV" tvg-logo="https://i.imgur.com/OC3O87c.png" group-title="Sports",Players TV
-https://playerstv-roku-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="61b3ec5ac547920007daf647" tvg-name="Waypoint TV" tvg-logo="https://images.pluto.tv/channels/61b3ec5ac547920007daf647/colorLogoPNG.png" group-title="Sports",Waypoint TV
-https://i.mjh.nz/PlutoTV/61b3ec5ac547920007daf647-alt.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRACE Sport Stars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TraceSSLogo.png/1200px-TraceSSLogo.png" group-title="Sports",TRACE Sport Stars
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/Q6ZILPXDVMWLTQLVUCFZ/hls3/now_-1m_15s/m.m3u8
 #EXTINF:-1 tvg-id="Unbeaten.us" tvg-name="Unbeaten" tvg-logo="https://i.imgur.com/LmkNt3v.png" group-title="Sports",Unbeaten
 https://unbeaten-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="GBBB4300001NX" tvg-name="Viaplay Xtra" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB4300001NX_20221109T010820SQUARE.png_20221109010820.png" group-title="Sports",Viaplay Xtra
+https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="61b3ec5ac547920007daf647" tvg-name="Waypoint TV" tvg-logo="https://images.pluto.tv/channels/61b3ec5ac547920007daf647/colorLogoPNG.png" group-title="Sports",Waypoint TV
+https://i.mjh.nz/PlutoTV/61b3ec5ac547920007daf647-alt.m3u8
 #EXTINF:-1 tvg-id="5616f9c0ada51f8004c4b091" tvg-name="World Poker Tour" tvg-logo="https://images.pluto.tv/channels/5616f9c0ada51f8004c4b091/colorLogoPNG-1664295222280.png" group-title="Sports",World Poker Tour
 https://i.mjh.nz/PlutoTV/5616f9c0ada51f8004c4b091-alt.m3u8
 #EXTINF:-1 tvg-id="externallinearfeed-10-28-2020-232939597-10-28-2020" tvg-name="ACCDN" tvg-logo="https://i.mjh.nz/Stirr/.images/3be6e11606.png" group-title="STIRR",ACCDN
