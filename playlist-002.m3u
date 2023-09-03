@@ -1,4 +1,5 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/68m7n4g88wh4ee28y1ge, https://i.mjh.nz/SamsungTVPlus/all.xml, https://i.mjh.nz/PlutoTV/all.xml, https://i.mjh.nz/Stirr/all.xml, https://i.mjh.nz/Plex/all.xml, https://i.mjh.nz/all/epg.xml, https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml, https://iptv-org.github.io/epg/guides/en/startimestv.com.xml, https://iptv-org.github.io/epg/guides/en/dstv.com.xml"
+#EXTM3U url-tvg="http://m3u4u.com/epg/68m7n4g88wh4ee28y1ge"
 #EXTINF:-1 tvg-id="BumblebeeTVAuroraLive.us" tvg-name="Bumblebee TV Aurora Live (1080p)" tvg-logo="https://i.imgur.com/1WIEWK7.png" group-title="Bumblebee TV",Bumblebee TV Aurora Live (1080p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
 #EXTINF:-1 tvg-id="BumblebeeTVAutoMoto.us" tvg-name="Bumblebee TV AutoMoto (720p)" tvg-logo="https://i.imgur.com/CnbWNc1.png" group-title="Bumblebee TV",Bumblebee TV AutoMoto (720p)
@@ -79,36 +80,22 @@ https://amg00353-lionsgatestudio-arewethereyet-samsunguk-6h2ju.amagi.tv/playlist
 https://d1w5xedouwkj5i.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m8rzyzewdp4tz-prod/amgfusebackstage/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 tvg-id="5d815eb889bca2ce7b746fdd" tvg-name="Baywatch" tvg-logo="https://images.pluto.tv/channels/5d815eb889bca2ce7b746fdd/colorLogoPNG.png" group-title="Classic TV",Baywatch
 https://i.mjh.nz/PlutoTV/5d815eb889bca2ce7b746fdd-alt.m3u8
-#EXTINF:-1 tvg-id="64c0d6f34096290008132d6b" tvg-name="UKTV Play Laughs" tvg-logo="https://images.pluto.tv/channels/64c0d6f34096290008132d6b/colorLogoPNG.png" group-title="Classic TV",UKTV Play Laughs
-https://i.mjh.nz/PlutoTV/64c0d6f34096290008132d6b-alt.m3u8
 #EXTINF:-1 tvg-id="BBCAmericaEast.us" tvg-name="BBC America" tvg-logo="https://i.imgur.com/pTiiPz0.png" group-title="Classic TV",BBC America
 https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
-#EXTINF:-1 tvg-id="64c0d6b424ade50008bc8883" tvg-name="UKTV Play Heroes" tvg-logo="https://images.pluto.tv/channels/64c0d6b424ade50008bc8883/colorLogoPNG.png" group-title="Classic TV",UKTV Play Heroes
-https://i.mjh.nz/PlutoTV/64c0d6b424ade50008bc8883-alt.m3u8
 #EXTINF:-1 tvg-id="60f760bbdf090700075d7bfe" tvg-name="Best of Dr. Phil" tvg-logo="https://images.pluto.tv/channels/60f760bbdf090700075d7bfe/colorLogoPNG.png" group-title="Classic TV",Best of Dr. Phil
 https://i.mjh.nz/PlutoTV/60f760bbdf090700075d7bfe-alt.m3u8
-#EXTINF:-1 tvg-id="64c0d697b0cf5c000824e5d9" tvg-name="UKTV Play Uncovered" tvg-logo="https://images.pluto.tv/channels/64c0d697b0cf5c000824e5d9/colorLogoPNG.png" group-title="Classic TV",UKTV Play Uncovered
-https://i.mjh.nz/PlutoTV/64c0d697b0cf5c000824e5d9-alt.m3u8
 #EXTINF:-1 tvg-id="61858ac0491af10007f8ce4f" tvg-name="Best of The Drew Barrymore Show" tvg-logo="https://images.pluto.tv/channels/61858ac0491af10007f8ce4f/colorLogoPNG.png" group-title="Classic TV",Best of The Drew Barrymore Show
 https://i.mjh.nz/PlutoTV/61858ac0491af10007f8ce4f-alt.m3u8
-#EXTINF:-1 tvg-id="64c0d6765dc1660008a3e033" tvg-name="UKTV Play Full Throttle" tvg-logo="https://images.pluto.tv/channels/64c0d6765dc1660008a3e033/colorLogoPNG.png" group-title="Classic TV",UKTV Play Full Throttle
-https://i.mjh.nz/PlutoTV/64c0d6765dc1660008a3e033-alt.m3u8
 #EXTINF:-1 tvg-id="5f7796e470510900070d4e3d" tvg-name="Beverly Hillbillies" tvg-logo="https://images.pluto.tv/channels/5f7796e470510900070d4e3d/colorLogoPNG.png" group-title="Classic TV",Beverly Hillbillies
 https://i.mjh.nz/PlutoTV/5f7796e470510900070d4e3d-alt.m3u8
 #EXTINF:-1 tvg-id="63565bdbb0d80d00078d3450" tvg-name="Beverly Hills 90210" tvg-logo="https://images.pluto.tv/channels/63565bdbb0d80d00078d3450/colorLogoPNG.png" group-title="Classic TV",Beverly Hills 90210
 https://i.mjh.nz/PlutoTV/63565bdbb0d80d00078d3450-alt.m3u8
-#EXTINF:-1 tvg-id="647f09e5f77b61000823ff24" tvg-name="Tattoo Fixers" tvg-logo="https://images.pluto.tv/channels/647f09e5f77b61000823ff24/colorLogoPNG.png" group-title="Classic TV",Tattoo Fixers
-https://i.mjh.nz/PlutoTV/647f09e5f77b61000823ff24-alt.m3u8
 #EXTINF:-1 tvg-id="60f85644a9493e0007a1f035" tvg-name="Black Classics" tvg-logo="https://images.pluto.tv/channels/60f85644a9493e0007a1f035/colorLogoPNG.png" group-title="Classic TV",Black Classics
 https://i.mjh.nz/PlutoTV/60f85644a9493e0007a1f035-alt.m3u8
 #EXTINF:-1 tvg-id="5f15e32b297f96000768f928" tvg-name="Classic TV Comedy" tvg-logo="https://images.pluto.tv/channels/5f15e32b297f96000768f928/colorLogoPNG.png" group-title="Classic TV",Classic TV Comedy
 https://i.mjh.nz/PlutoTV/5f15e32b297f96000768f928-alt.m3u8
-#EXTINF:-1 tvg-id="647e09c24f5ba500087e70ac" tvg-name="Justified" tvg-logo="https://images.pluto.tv/channels/647e09c24f5ba500087e70ac/colorLogoPNG.png" group-title="Classic TV",Justified
-https://i.mjh.nz/PlutoTV/647e09c24f5ba500087e70ac-alt.m3u8
 #EXTINF:-1 tvg-id="61325c4f982acd000723287e" tvg-name="Classic TV Crime Drama" tvg-logo="https://images.pluto.tv/channels/61325c4f982acd000723287e/colorLogoPNG.png" group-title="Classic TV",Classic TV Crime Drama
 https://i.mjh.nz/PlutoTV/61325c4f982acd000723287e-alt.m3u8
-#EXTINF:-1 tvg-id="645cb54de94c3800080ea6d4" tvg-name="The Night Shift" tvg-logo="https://images.pluto.tv/channels/645cb54de94c3800080ea6d4/colorLogoPNG.png" group-title="Classic TV",The Night Shift
-https://i.mjh.nz/PlutoTV/645cb54de94c3800080ea6d4-alt.m3u8
 #EXTINF:-1 tvg-id="5f15e3cccf49290007053c67" tvg-name="Classic TV Drama" tvg-logo="https://images.pluto.tv/channels/5f15e3cccf49290007053c67/colorLogoPNG.png" group-title="Classic TV",Classic TV Drama
 https://i.mjh.nz/PlutoTV/5f15e3cccf49290007053c67-alt.m3u8
 #EXTINF:-1 tvg-id="61325d18f5166c00081b84e0" tvg-name="Classic TV Families" tvg-logo="https://images.pluto.tv/channels/61325d18f5166c00081b84e0/colorLogoPNG.png" group-title="Classic TV",Classic TV Families
@@ -123,10 +110,10 @@ https://i.mjh.nz/PlutoTV/62da778fad95670007f610c0-alt.m3u8
 https://i.mjh.nz/PlutoTV/5c6eeb85c05dfc257e5a50c4-alt.m3u8
 #EXTINF:-1 tvg-id="5ce4475cd43850831ca91ce7" tvg-name="Doctor Who Classic" tvg-logo="https://images.pluto.tv/channels/5ce4475cd43850831ca91ce7/colorLogoPNG.png" group-title="Classic TV",Doctor Who Classic
 https://i.mjh.nz/PlutoTV/5ce4475cd43850831ca91ce7-alt.m3u8
+#EXTINF:-1 tvg-id="62bdad934d73d50007a82472" tvg-name="Doctor Who Classic" tvg-logo="https://images.pluto.tv/channels/62bdad934d73d50007a82472/colorLogoPNG.png" group-title="Classic TV",Doctor Who Classic
+https://i.mjh.nz/PlutoTV/62bdad934d73d50007a82472-alt.m3u8
 #EXTINF:-1 tvg-id="62e919ca865c590007ecd0bd" tvg-name="Dynasty" tvg-logo="https://images.pluto.tv/channels/62e919ca865c590007ecd0bd/colorLogoPNG.png" group-title="Classic TV",Dynasty
 https://i.mjh.nz/PlutoTV/62e919ca865c590007ecd0bd-alt.m3u8
-#EXTINF:-1 tvg-id="649c22999df8dd00086921c3" tvg-name="Pensacola: Wings of Gold" tvg-logo="https://images.pluto.tv/channels/649c22999df8dd00086921c3/colorLogoPNG.png" group-title="Classic TV",Pensacola: Wings of Gold
-https://i.mjh.nz/PlutoTV/649c22999df8dd00086921c3-alt.m3u8
 #EXTINF:-1 tvg-id="5ad8d883e738977e2c31096b" tvg-name="FailArmy" tvg-logo="https://images.pluto.tv/channels/5ad8d883e738977e2c31096b/colorLogoPNG.png" group-title="Classic TV",FailArmy
 https://i.mjh.nz/PlutoTV/5ad8d883e738977e2c31096b-alt.m3u8
 #EXTINF:-1 tvg-id="620bb260821a860007b2d3df" tvg-name="Family Ties" tvg-logo="https://images.pluto.tv/channels/620bb260821a860007b2d3df/colorLogoPNG.png" group-title="Classic TV",Family Ties
@@ -153,14 +140,14 @@ https://i.mjh.nz/PlutoTV/5e66928133461100077dfd73-alt.m3u8
 https://i.mjh.nz/PlutoTV/622f498d119b4c000719c0b7-alt.m3u8
 #EXTINF:-1 tvg-id="60d32888e31a0300073d9f08" tvg-name="Just for Laughs" tvg-logo="https://images.pluto.tv/channels/60d32888e31a0300073d9f08/colorLogoPNG.png" group-title="Classic TV",Just for Laughs
 https://i.mjh.nz/PlutoTV/60d32888e31a0300073d9f08-alt.m3u8
+#EXTINF:-1 tvg-id="647e09c24f5ba500087e70ac" tvg-name="Justified" tvg-logo="https://images.pluto.tv/channels/647e09c24f5ba500087e70ac/colorLogoPNG.png" group-title="Classic TV",Justified
+https://i.mjh.nz/PlutoTV/647e09c24f5ba500087e70ac-alt.m3u8
 #EXTINF:-1 tvg-id="62f4f414c2ba130007f8b24e" tvg-name="King of Queens" tvg-logo="https://images.pluto.tv/channels/62f4f414c2ba130007f8b24e/colorLogoPNG.png" group-title="Classic TV",King of Queens
 https://i.mjh.nz/PlutoTV/62f4f414c2ba130007f8b24e-alt.m3u8
 #EXTINF:-1 tvg-id="62b97c5f0d8c8e0007cf48b9" tvg-name="Life & Legend of Wyatt Earp" tvg-logo="https://images.pluto.tv/channels/62b97c5f0d8c8e0007cf48b9/colorLogoPNG.png" group-title="Classic TV",Life & Legend of Wyatt Earp
 https://i.mjh.nz/PlutoTV/62b97c5f0d8c8e0007cf48b9-alt.m3u8
 #EXTINF:-1 tvg-id="6152d75abd229300079c7078" tvg-name="Married with Children" tvg-logo="https://images.pluto.tv/channels/6152d75abd229300079c7078/colorLogoPNG.png" group-title="Classic TV",Married with Children
 https://i.mjh.nz/PlutoTV/6152d75abd229300079c7078-alt.m3u8
-#EXTINF:-1 tvg-id="USBD1200004NS" tvg-name="The Walking Dead Universe" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200004NS_20230809T005421SQUARE.png_20230809005422.png" group-title="Classic TV",The Walking Dead Universe
-https://d29miw7j0bncx9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mu1za012fc9c0/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 tvg-id="60f754f98185580007eb0754" tvg-name="Matlock" tvg-logo="https://images.pluto.tv/channels/60f754f98185580007eb0754/colorLogoPNG.png" group-title="Classic TV",Matlock
 https://i.mjh.nz/PlutoTV/60f754f98185580007eb0754-alt.m3u8
 #EXTINF:-1 tvg-id="GBBB3800008UD" tvg-name="McLeod's Daughters" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB3800008UD_20220928T011217SQUARE.png_20220928011218.png" group-title="Classic TV",McLeod's Daughters
@@ -173,8 +160,6 @@ https://i.mjh.nz/PlutoTV/645cf7757cb4b100085b111a-alt.m3u8
 https://i.mjh.nz/PlutoTV/620f6c60b994540007ddd74b-alt.m3u8
 #EXTINF:-1 tvg-id="645cf7b9e94c38000810357d" tvg-name="More Mission: Impossible Movies" tvg-logo="https://images.pluto.tv/channels/645cf7b9e94c38000810357d/colorLogoPNG.png" group-title="Classic TV",More Mission: Impossible Movies
 https://i.mjh.nz/PlutoTV/645cf7b9e94c38000810357d-alt.m3u8
-#EXTINF:-1 tvg-id="634dacf51d90320007fcd5fa" tvg-name="More Star Trek" tvg-logo="https://images.pluto.tv/channels/634dacf51d90320007fcd5fa/colorLogoPNG.png" group-title="Classic TV",More Star Trek
-https://i.mjh.nz/PlutoTV/634dacf51d90320007fcd5fa-alt.m3u8
 #EXTINF:-1 tvg-id="645e00d5d3fdde000829463a" tvg-name="More TV Sci-fi" tvg-logo="https://images.pluto.tv/channels/645e00d5d3fdde000829463a/colorLogoPNG.png" group-title="Classic TV",More TV Sci-fi
 https://i.mjh.nz/PlutoTV/645e00d5d3fdde000829463a-alt.m3u8
 #EXTINF:-1 tvg-id="645e0092e94c380008133744" tvg-name="More TV Sitcoms" tvg-logo="https://images.pluto.tv/channels/645e0092e94c380008133744/colorLogoPNG.png" group-title="Classic TV",More TV Sitcoms
@@ -187,6 +172,8 @@ https://i.mjh.nz/PlutoTV/62fb9ade112ca70007d8441d-alt.m3u8
 https://i.mjh.nz/PlutoTV/63231d3f1e0d4d00076a7a27-alt.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Old West TV" tvg-logo="https://ayozat.com/uploads/tv_image/old-west-tv.jpg" group-title="Classic TV",Old West TV
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/Y680WOKGZK0LH808PJB1/hls3/now_-1m_15s/m.m3u8
+#EXTINF:-1 tvg-id="649c22999df8dd00086921c3" tvg-name="Pensacola: Wings of Gold" tvg-logo="https://images.pluto.tv/channels/649c22999df8dd00086921c3/colorLogoPNG.png" group-title="Classic TV",Pensacola: Wings of Gold
+https://i.mjh.nz/PlutoTV/649c22999df8dd00086921c3-alt.m3u8
 #EXTINF:-1 tvg-id="6197086891ddd4000739941a" tvg-name="Perry Mason" tvg-logo="https://images.pluto.tv/channels/6197086891ddd4000739941a/colorLogoPNG.png" group-title="Classic TV",Perry Mason
 https://i.mjh.nz/PlutoTV/6197086891ddd4000739941a-alt.m3u8
 #EXTINF:-1 tvg-id="63fe249f49839300086d4888" tvg-name="Punk'd" tvg-logo="https://images.pluto.tv/channels/63fe249f49839300086d4888/colorLogoPNG.png" group-title="Classic TV",Punk'd
@@ -205,28 +192,32 @@ https://i.mjh.nz/PlutoTV/55a6a3275616b6240c26f393-alt.m3u8
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/83JW9CE1L3J234Z5J8BB/hls3/now_-1m_15s/m.m3u8
 #EXTINF:-1 tvg-id="5efbd39f8c4ce900075d7698" tvg-name="Star Trek" tvg-logo="https://images.pluto.tv/channels/5efbd39f8c4ce900075d7698/colorLogoPNG.png" group-title="Classic TV",Star Trek
 https://i.mjh.nz/PlutoTV/5efbd39f8c4ce900075d7698-alt.m3u8
+#EXTINF:-1 tvg-id="634dacf51d90320007fcd5fa" tvg-name="More Star Trek" tvg-logo="https://images.pluto.tv/channels/634dacf51d90320007fcd5fa/colorLogoPNG.png" group-title="Classic TV",More Star Trek
+https://i.mjh.nz/PlutoTV/634dacf51d90320007fcd5fa-alt.m3u8
 #EXTINF:-1 tvg-id="620bfa7df72827000703ddb1" tvg-name="Stargate" tvg-logo="https://images.pluto.tv/channels/620bfa7df72827000703ddb1/colorLogoPNG.png" group-title="Classic TV",Stargate
 https://i.mjh.nz/PlutoTV/620bfa7df72827000703ddb1-alt.m3u8
 #EXTINF:-1 tvg-id="GBBB38000106Q" tvg-name="Storylands" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB38000106Q_20220323T070724SQUARE.png_20220323070726.png" group-title="Classic TV",Storylands
 https://amg00654-itvstudios-storyland-samsunguk-dvz4m.amagi.tv/playlist/amg00654-itvstudios-storyland-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:-1 tvg-id="647f09e5f77b61000823ff24" tvg-name="Tattoo Fixers" tvg-logo="https://images.pluto.tv/channels/647f09e5f77b61000823ff24/colorLogoPNG.png" group-title="Classic TV",Tattoo Fixers
+https://i.mjh.nz/PlutoTV/647f09e5f77b61000823ff24-alt.m3u8
 #EXTINF:-1 tvg-id="5d81607ab737153ea3c1c80e" tvg-name="The Addams Family" tvg-logo="https://images.pluto.tv/channels/5d81607ab737153ea3c1c80e/colorLogoPNG.png" group-title="Classic TV",The Addams Family
 https://i.mjh.nz/PlutoTV/5d81607ab737153ea3c1c80e-alt.m3u8
 #EXTINF:-1 tvg-id="60f75178e7f8aa0007e9c259" tvg-name="The Andy Griffith Show" tvg-logo="https://images.pluto.tv/channels/60f75178e7f8aa0007e9c259/colorLogoPNG.png" group-title="Classic TV",The Andy Griffith Show
 https://i.mjh.nz/PlutoTV/60f75178e7f8aa0007e9c259-alt.m3u8
 #EXTINF:-1 tvg-id="5ef396d1be50a3000722808b" tvg-name="The Carol Burnett Show" tvg-logo="https://images.pluto.tv/channels/5ef396d1be50a3000722808b/colorLogoPNG.png" group-title="Classic TV",The Carol Burnett Show
 https://i.mjh.nz/PlutoTV/5ef396d1be50a3000722808b-alt.m3u8
-#EXTINF:-1 tvg-id="TheCarolBurnettShow.us" tvg-name="The Carol Burnett Show" tvg-logo="https://i.imgur.com/1a03FlX.png" group-title="Classic TV",The Carol Burnett Show
-https://amg00163-shoutfactory-carolburnett-dmr-cpk9r.amagi.tv/playlist/amg00163-shoutfactory-carolburnett-dmr/playlist.m3u8
 #EXTINF:-1 tvg-id="63d9674b2e477400081b9858" tvg-name="The Dick Van Dyke Show" tvg-logo="https://images.pluto.tv/channels/63d9674b2e477400081b9858/colorLogoPNG.png" group-title="Classic TV",The Dick Van Dyke Show
 https://i.mjh.nz/PlutoTV/63d9674b2e477400081b9858-alt.m3u8
 #EXTINF:-1 tvg-id="62ac3f4cfd95d4000781a2d6" tvg-name="The Ed Sullivan Show" tvg-logo="https://images.pluto.tv/channels/62ac3f4cfd95d4000781a2d6/colorLogoPNG.png" group-title="Classic TV",The Ed Sullivan Show
 https://i.mjh.nz/PlutoTV/62ac3f4cfd95d4000781a2d6-alt.m3u8
-#EXTINF:-1 tvg-id="62a8e433fbf5460007698214" tvg-name="The Ed Sullivan Show" tvg-logo="https://images.pluto.tv/channels/62a8e433fbf5460007698214/colorLogoPNG.png" group-title="Classic TV",The Ed Sullivan Show
-https://i.mjh.nz/PlutoTV/62a8e433fbf5460007698214-alt.m3u8
 #EXTINF:-1 tvg-id="62e91563ce7ce300076f917e" tvg-name="The Love Boat" tvg-logo="https://images.pluto.tv/channels/62e91563ce7ce300076f917e/colorLogoPNG.png" group-title="Classic TV",The Love Boat
 https://i.mjh.nz/PlutoTV/62e91563ce7ce300076f917e-alt.m3u8
+#EXTINF:-1 tvg-id="645cb54de94c3800080ea6d4" tvg-name="The Night Shift" tvg-logo="https://images.pluto.tv/channels/645cb54de94c3800080ea6d4/colorLogoPNG.png" group-title="Classic TV",The Night Shift
+https://i.mjh.nz/PlutoTV/645cb54de94c3800080ea6d4-alt.m3u8
 #EXTINF:-1 tvg-id="5e825550e758c700077b0aef" tvg-name="The Rifleman" tvg-logo="https://images.pluto.tv/channels/5e825550e758c700077b0aef/colorLogoPNG.png" group-title="Classic TV",The Rifleman
 https://i.mjh.nz/PlutoTV/5e825550e758c700077b0aef-alt.m3u8
+#EXTINF:-1 tvg-id="USBD1200004NS" tvg-name="The Walking Dead Universe" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200004NS_20230809T005421SQUARE.png_20230809005422.png" group-title="Classic TV",The Walking Dead Universe
+https://d29miw7j0bncx9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mu1za012fc9c0/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 tvg-id="5ef3977e5d773400077de284" tvg-name="Three's Company" tvg-logo="https://images.pluto.tv/channels/5ef3977e5d773400077de284/colorLogoPNG.png" group-title="Classic TV",Three's Company
 https://i.mjh.nz/PlutoTV/5ef3977e5d773400077de284-alt.m3u8
 #EXTINF:-1 tvg-id="6490267016014400085c4ab5" tvg-name="TMNT: The 90's Movies" tvg-logo="https://images.pluto.tv/channels/6490267016014400085c4ab5/colorLogoPNG.png" group-title="Classic TV",TMNT: The 90's Movies
@@ -235,6 +226,14 @@ https://i.mjh.nz/PlutoTV/6490267016014400085c4ab5-alt.m3u8
 https://i.mjh.nz/PlutoTV/5dae084727c8af0009fe40a4-alt.m3u8
 #EXTINF:-1 tvg-id="5c2d64ffbdf11b71587184b8" tvg-name="TV Land Sitcoms" tvg-logo="https://images.pluto.tv/channels/5c2d64ffbdf11b71587184b8/colorLogoPNG.png" group-title="Classic TV",TV Land Sitcoms
 https://i.mjh.nz/PlutoTV/5c2d64ffbdf11b71587184b8-alt.m3u8
+#EXTINF:-1 tvg-id="64c0d6765dc1660008a3e033" tvg-name="UKTV Play Full Throttle" tvg-logo="https://images.pluto.tv/channels/64c0d6765dc1660008a3e033/colorLogoPNG.png" group-title="Classic TV",UKTV Play Full Throttle
+https://i.mjh.nz/PlutoTV/64c0d6765dc1660008a3e033-alt.m3u8
+#EXTINF:-1 tvg-id="64c0d6b424ade50008bc8883" tvg-name="UKTV Play Heroes" tvg-logo="https://images.pluto.tv/channels/64c0d6b424ade50008bc8883/colorLogoPNG.png" group-title="Classic TV",UKTV Play Heroes
+https://i.mjh.nz/PlutoTV/64c0d6b424ade50008bc8883-alt.m3u8
+#EXTINF:-1 tvg-id="64c0d6f34096290008132d6b" tvg-name="UKTV Play Laughs" tvg-logo="https://images.pluto.tv/channels/64c0d6f34096290008132d6b/colorLogoPNG.png" group-title="Classic TV",UKTV Play Laughs
+https://i.mjh.nz/PlutoTV/64c0d6f34096290008132d6b-alt.m3u8
+#EXTINF:-1 tvg-id="64c0d697b0cf5c000824e5d9" tvg-name="UKTV Play Uncovered" tvg-logo="https://images.pluto.tv/channels/64c0d697b0cf5c000824e5d9/colorLogoPNG.png" group-title="Classic TV",UKTV Play Uncovered
+https://i.mjh.nz/PlutoTV/64c0d697b0cf5c000824e5d9-alt.m3u8
 #EXTINF:-1 tvg-id="635659445b4c4700076d2ad1" tvg-name="Walker Texas Ranger" tvg-logo="https://images.pluto.tv/channels/635659445b4c4700076d2ad1/colorLogoPNG.png" group-title="Classic TV",Walker Texas Ranger
 https://i.mjh.nz/PlutoTV/635659445b4c4700076d2ad1-alt.m3u8
 #EXTINF:-1 tvg-id="5d48678d34ceb37d3c458a55" tvg-name="Wild 'N Out" tvg-logo="https://images.pluto.tv/channels/5d48678d34ceb37d3c458a55/colorLogoPNG.png" group-title="Classic TV",Wild 'N Out
@@ -243,16 +242,14 @@ https://i.mjh.nz/PlutoTV/5d48678d34ceb37d3c458a55-alt.m3u8
 https://i.mjh.nz/PlutoTV/60817936fd2d70000763d2b2-alt.m3u8
 #EXTINF:-1 tvg-id="5ea190ae85a26900075a80e9" tvg-name="Wipeout" tvg-logo="https://images.pluto.tv/channels/5ea190ae85a26900075a80e9/colorLogoPNG.png" group-title="Classic TV",Wipeout
 https://i.mjh.nz/PlutoTV/5ea190ae85a26900075a80e9-alt.m3u8
-#EXTINF:-1 tvg-id="62bdad934d73d50007a82472" tvg-name="Doctor Who Classic" tvg-logo="https://images.pluto.tv/channels/62bdad934d73d50007a82472/colorLogoPNG.png" group-title="Classic TV",Doctor Who Classic
-https://i.mjh.nz/PlutoTV/62bdad934d73d50007a82472-alt.m3u8
-#EXTINF:-1 tvg-id="643ea768e0789d0008548886" tvg-name="Star Trek" tvg-logo="https://images.pluto.tv/channels/643ea768e0789d0008548886/colorLogoPNG.png" group-title="Classic TV",Star Trek
-https://i.mjh.nz/PlutoTV/643ea768e0789d0008548886-alt.m3u8
 #EXTINF:-1 tvg-id="AFV.us" tvg-name="AFV" tvg-logo="https://i.imgur.com/TOB9vmW.png" group-title="Comedy",AFV
 https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
 #EXTINF:-1 tvg-id="AFVFamily.us" tvg-name="AFV Family" tvg-logo="https://i.imgur.com/dLSKBEn.png" group-title="Comedy",AFV Family
 https://futuretoday-afv-family-2-ie.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="5e82b55ad0213e00079c509f" tvg-name="Always Funny Videos" tvg-logo="https://images.pluto.tv/channels/5e82b55ad0213e00079c509f/colorLogoPNG.png" group-title="Comedy",Always Funny Videos
 https://i.mjh.nz/PlutoTV/5e82b55ad0213e00079c509f-alt.m3u8
+#EXTINF:-1 tvg-id="62e91ea20d06110008396079" tvg-name="Always Funny Videos" tvg-logo="https://images.pluto.tv/channels/62e91ea20d06110008396079/colorLogoPNG.png" group-title="Comedy",Always Funny Videos
+https://i.mjh.nz/PlutoTV/62e91ea20d06110008396079-alt.m3u8
 #EXTINF:-1 tvg-id="61326275b3c86a00078e4833" tvg-name="Black Throwbacks" tvg-logo="https://images.pluto.tv/channels/61326275b3c86a00078e4833/colorLogoPNG.png" group-title="Comedy",Black Throwbacks
 https://i.mjh.nz/PlutoTV/61326275b3c86a00078e4833-alt.m3u8
 #EXTINF:-1 tvg-id="60f870184865da00074210ee" tvg-name="British Comedy" tvg-logo="https://images.pluto.tv/channels/60f870184865da00074210ee/colorLogoPNG.png" group-title="Comedy",British Comedy
@@ -273,6 +270,8 @@ https://i.mjh.nz/PlutoTV/62e922f6675f71000736db3b-alt.m3u8
 https://ed26e7d0159f4266a552c44f68472edc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_DryBarComedy/playlist.m3u8?ads.us_privacy=1YNY&ads.wurl_channel=370&ads.wurl_name=DryBarComedy&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1 tvg-id="554158e864526b29254ff105" tvg-name="FailArmy" tvg-logo="https://images.pluto.tv/channels/554158e864526b29254ff105/colorLogoPNG.png" group-title="Comedy",FailArmy
 https://i.mjh.nz/PlutoTV/554158e864526b29254ff105-alt.m3u8
+#EXTINF:-1 tvg-id="62bdb5500c21270007218ce1" tvg-name="FailArmy" tvg-logo="https://images.pluto.tv/channels/62bdb5500c21270007218ce1/colorLogoPNG.png" group-title="Comedy",FailArmy
+https://i.mjh.nz/PlutoTV/62bdb5500c21270007218ce1-alt.m3u8
 #EXTINF:-1 tvg-id="USBB3500003D6" tvg-name="Family Ties" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3500003D6_20230125T022452SQUARE.png_20230125022453.png" group-title="Comedy",Family Ties
 https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f77939a630f530007dde654/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="62f4f90e39183b000769f12b" tvg-name="Frasier" tvg-logo="https://images.pluto.tv/channels/62f4f90e39183b000769f12b/colorLogoPNG.png" group-title="Comedy",Frasier
@@ -289,6 +288,8 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-620462434ebc
 https://i.mjh.nz/PlutoTV/62e91c3add66e00007eeb24c-alt.m3u8
 #EXTINF:-1 tvg-id="MST3K.us" tvg-name="Mystery Science Theater 3000 (MST3K)" tvg-logo="https://i.imgur.com/2LSdcga.png" group-title="Comedy",Mystery Science Theater 3000 (MST3K)
 https://amg00163-shoutfactory-mst3k-dmr-gdk46.amagi.tv/playlist/amg00163-shoutfactory-mst3k-dmr/playlist.m3u8
+#EXTINF:-1 tvg-id="6479c171536e0c0008942590" tvg-name="Pluto TV Truly Canadian" tvg-logo="https://images.pluto.tv/channels/6479c171536e0c0008942590/colorLogoPNG.png" group-title="Comedy",Pluto TV Truly Canadian
+https://i.mjh.nz/PlutoTV/6479c171536e0c0008942590-alt.m3u8
 #EXTINF:-1 tvg-id="USBD12000038K" tvg-name="Portlandia" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000038K_20230627T215007SQUARE.png_20230627215007.png" group-title="Comedy",Portlandia
 https://d1lko869qis9in.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7b5e3x7prgua5/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 tvg-id="58d947b9e420d8656ee101ab" tvg-name="RiffTrax" tvg-logo="https://images.pluto.tv/channels/58d947b9e420d8656ee101ab/colorLogoPNG.png" group-title="Comedy",RiffTrax
@@ -297,16 +298,10 @@ https://i.mjh.nz/PlutoTV/58d947b9e420d8656ee101ab-alt.m3u8
 https://i.mjh.nz/PlutoTV/633354b63df9700007f6a1b7-alt.m3u8
 #EXTINF:-1 tvg-id="5e82547b6b3df60007fec2b5" tvg-name="Slightly Off IFC" tvg-logo="https://images.pluto.tv/channels/5e82547b6b3df60007fec2b5/colorLogoPNG.png" group-title="Comedy",Slightly Off IFC
 https://i.mjh.nz/PlutoTV/5e82547b6b3df60007fec2b5-alt.m3u8
-#EXTINF:-1 tvg-id="62e91ea20d06110008396079" tvg-name="Always Funny Videos" tvg-logo="https://images.pluto.tv/channels/62e91ea20d06110008396079/colorLogoPNG.png" group-title="Comedy",Always Funny Videos
-https://i.mjh.nz/PlutoTV/62e91ea20d06110008396079-alt.m3u8
 #EXTINF:-1 tvg-id="62bdb1c5e25122000798ac79" tvg-name="South Park" tvg-logo="https://images.pluto.tv/channels/62bdb1c5e25122000798ac79/colorLogoPNG.png" group-title="Comedy",South Park
 https://i.mjh.nz/PlutoTV/62bdb1c5e25122000798ac79-alt.m3u8
-#EXTINF:-1 tvg-id="62bdb5500c21270007218ce1" tvg-name="FailArmy" tvg-logo="https://images.pluto.tv/channels/62bdb5500c21270007218ce1/colorLogoPNG.png" group-title="Comedy",FailArmy
-https://i.mjh.nz/PlutoTV/62bdb5500c21270007218ce1-alt.m3u8
 #EXTINF:-1 tvg-id="5637d31f319573e26b64040b" tvg-name="Stand-Up TV" tvg-logo="https://images.pluto.tv/channels/5637d31f319573e26b64040b/colorLogoPNG.png" group-title="Comedy",Stand-Up TV
 https://i.mjh.nz/PlutoTV/5637d31f319573e26b64040b-alt.m3u8
-#EXTINF:-1 tvg-id="6479c171536e0c0008942590" tvg-name="Pluto TV Truly Canadian" tvg-logo="https://images.pluto.tv/channels/6479c171536e0c0008942590/colorLogoPNG.png" group-title="Comedy",Pluto TV Truly Canadian
-https://i.mjh.nz/PlutoTV/6479c171536e0c0008942590-alt.m3u8
 #EXTINF:-1 tvg-id="USBB36000076Y" tvg-name="That Girl" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB36000076Y_20230307T222258SQUARE.png_20230307222259.png" group-title="Comedy",That Girl
 https://d3dnh4cvyq7g1z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-u13xw4rr8a4op-prod/amgthatgirl/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 tvg-id="USAJ3504704A" tvg-name="The Pet Collective" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504704A_20230222T041251SQUARE.png_20230222041252.png" group-title="Comedy",The Pet Collective
@@ -831,8 +826,6 @@ https://d386m2lmbakvx4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d1wxiaxdr51kqy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-perrpizm3ap26-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 tvg-id="USBC44000226R" tvg-name="Bon Appétit" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC44000226R_20230222T041301SQUARE.png_20230222041301.png" group-title="Food‚ Home + Travel",Bon Appétit
 https://d2oaqmizhqjqau.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4wdain833nzhm/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-#EXTINF:-1 tvg-id="USBB3200024V5" tvg-name="Million Dollar Listing" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200024V5_20220712T041426SQUARE.png_20220712041426.png" group-title="Food‚ Home + Travel",Million Dollar Listing
-https://dmfxzlz63pfyh.cloudfront.net/10508/88886098/hls/master.m3u8?ads.xumo_channelId=88886098&ads.caid=milliondollarlisting_linear&ads.csid=samsungtvplus_us_milliondollarlisting_ssai_%7BAPP_NAME%7D_cro&ads.asnw=169843&ads.afid=347195519&ads.sfid=16772620&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_h_x_country=US&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2780&ads.xu
 #EXTINF:-1 tvg-id="GBBC9000062G" tvg-name="Come Dine With Me" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC9000062G_20230809T053358SQUARE.png_20230809053358.png" group-title="Food‚ Home + Travel",Come Dine With Me
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00654-itvstudios-comedinewithmeu-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 #EXTINF:-1 tvg-id="USBB4800002ZU" tvg-name="Dabl" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4800002ZU_20230426T030441SQUARE.png_20230426030441.png" group-title="Food‚ Home + Travel",Dabl
@@ -849,8 +842,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgotraveler/CDN/playlist.m3u
 https://i.mjh.nz/PlutoTV/5b4e99f4423e067bd6df6903-alt.m3u8
 #EXTINF:-1 tvg-id="GBBC900014LW" tvg-name="Great British Menu" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900014LW_20230712T021153SQUARE.png_20230712021154.png" group-title="Food‚ Home + Travel",Great British Menu
 https://1aff0fa3bd654a519fb776e986e4d6b3.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-gb_GreatBritishMenu/playlist.m3u8?ads.wurl_channel=1231&ads.wurl_name=GreatBritishMenu&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 tvg-id="USBB40000028E" tvg-name="NBC LX Home" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB40000028E_20230823T001545SQUARE.png_20230823001546.png" group-title="Food‚ Home + Travel",NBC LX Home
-https://d2ww7x6333b6qp.cloudfront.net/10507/9999549/hls/master.m3u8?ads.xumo_channelId=9999549&ads.caid=nbclx&ads.csid=samsungtvplus_us_nbclx_ssai_%7BAPP_NAME%7D_cro&ads.asnw=169843&ads.afid=310163898&ads.sfid=16772606&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=News&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_h_x_country=US&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2632&ads.xumo_contentName=nbclxchannel&ads.xumo_provider
 #EXTINF:-1 tvg-id="USAK3508724A" tvg-name="Gusto TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508724A_20230208T100309SQUARE.png_20230208100310.png" group-title="Food‚ Home + Travel",Gusto TV
 https://9e02865ea2934243bfca5b6d7f74aa01.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_GustoTV/playlist.m3u8?ads.wurl_channel=227&ads.wurl_name=GustoTV&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1 tvg-id="62fb62669f35b8000757204e" tvg-name="Home Outside" tvg-logo="https://images.pluto.tv/channels/62fb62669f35b8000757204e/colorLogoPNG.png" group-title="Food‚ Home + Travel",Home Outside
@@ -859,8 +850,6 @@ https://i.mjh.nz/PlutoTV/62fb62669f35b8000757204e-alt.m3u8
 https://d2ye4zo4i90nea.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vtulch6b8gtts-ssai-prd/dist/samsungtv/444/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 tvg-id="USAJ3000006X5" tvg-name="Home.Made.Nation" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000006X5_20220928T005157SQUARE.png_20220928005158.png" group-title="Food‚ Home + Travel",Home.Made.Nation
 https://6d29d5c8.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZ19MaXZlbHlQbGFjZV9ITFM/playlist.m3u8?ads.wurl_channel=285&ads.wurl_name=LivelyPlace&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 tvg-id="GBBD25000019N" tvg-name="Masterchef UK: 'Powered by Banijay'" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD25000019N_20230726T033541SQUARE.png_20230726033542.png" group-title="Food‚ Home + Travel",Masterchef UK: 'Powered by Banijay'
-https://dy4rd1cwfulvo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gk8rd1up1pdpy/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="USBD700022M5" tvg-name="Homeful" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700022M5_20230627T214909SQUARE.png_20230627214910.png" group-title="Food‚ Home + Travel",Homeful
 https://dvslsiv1gepoo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m9v9pl5ygxl32/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 tvg-id="USAJ2200009C2" tvg-name="Hungry" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ2200009C2_20230125T022642SQUARE.png_20230125022642.png" group-title="Food‚ Home + Travel",Hungry
@@ -873,8 +862,6 @@ https://i.mjh.nz/PlutoTV/62fb60d2d835e10007e44a26-alt.m3u8
 https://i.mjh.nz/PlutoTV/6148c756ce8091000748d113-alt.m3u8
 #EXTINF:-1 tvg-id="USBC4400016CL" tvg-name="Jamie Oliver" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400016CL_20230222T041315SQUARE.png_20230222041316.png" group-title="Food‚ Home + Travel",Jamie Oliver
 https://d3mrv0bkzwzeee.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lhqn5l799q762-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-#EXTINF:-1 tvg-id="636c2b3c55d2e700074105c4" tvg-name="PBS Antiques Roadshow" tvg-logo="https://images.pluto.tv/channels/636c2b3c55d2e700074105c4/colorLogoPNG.png" group-title="Food‚ Home + Travel",PBS Antiques Roadshow
-https://i.mjh.nz/PlutoTV/636c2b3c55d2e700074105c4-alt.m3u8
 #EXTINF:-1 tvg-id="USBB1000003HL" tvg-name="Journy" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1000003HL_20230125T022632SQUARE.png_20230125022633.png" group-title="Food‚ Home + Travel",Journy
 https://d2qttxtnwilm4s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-njmc8koqnhqq2-prod/dist/samsungtv/291/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 tvg-id="606b5ee42b54a100079dd593" tvg-name="Julia Child" tvg-logo="https://images.pluto.tv/channels/606b5ee42b54a100079dd593/colorLogoPNG.png" group-title="Food‚ Home + Travel",Julia Child
@@ -885,10 +872,16 @@ https://i.mjh.nz/PlutoTV/62fb66c867976d0007647e54-alt.m3u8
 https://d1khokvdabpp6h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9w80w3f8741eh-ssai-prd/Localish.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 tvg-id="USBB1000002TK" tvg-name="Loupe 4K" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1000002TK_20230307T222244SQUARE.png_20230307222245.png" group-title="Food‚ Home + Travel",Loupe 4K
 https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1 tvg-id="GBBD25000019N" tvg-name="Masterchef UK: 'Powered by Banijay'" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD25000019N_20230726T033541SQUARE.png_20230726033542.png" group-title="Food‚ Home + Travel",Masterchef UK: 'Powered by Banijay'
+https://dy4rd1cwfulvo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gk8rd1up1pdpy/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="USBB3200024V5" tvg-name="Million Dollar Listing" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200024V5_20220712T041426SQUARE.png_20220712041426.png" group-title="Food‚ Home + Travel",Million Dollar Listing
-https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_milliondollarlisting_002.m3u8?ads.caid=milliondollarlisting&ads.csid=samsungtvplus_us_milliondollarlisting_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_gdpr_consent=%7BTC_STRING%7D&ads._fw_h_x_country=US&ads.appName=%7BAPP_NAME
+https://dmfxzlz63pfyh.cloudfront.net/10508/88886098/hls/master.m3u8?ads.xumo_channelId=88886098&ads.caid=milliondollarlisting_linear&ads.csid=samsungtvplus_us_milliondollarlisting_ssai_%7BAPP_NAME%7D_cro&ads.asnw=169843&ads.afid=347195519&ads.sfid=16772620&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_h_x_country=US&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2780&ads.xu
+#EXTINF:-1 tvg-id="USBB40000028E" tvg-name="NBC LX Home" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB40000028E_20230823T001545SQUARE.png_20230823001546.png" group-title="Food‚ Home + Travel",NBC LX Home
+https://d2ww7x6333b6qp.cloudfront.net/10507/9999549/hls/master.m3u8?ads.xumo_channelId=9999549&ads.caid=nbclx&ads.csid=samsungtvplus_us_nbclx_ssai_%7BAPP_NAME%7D_cro&ads.asnw=169843&ads.afid=310163898&ads.sfid=16772606&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=News&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_h_x_country=US&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2632&ads.xumo_contentName=nbclxchannel&ads.xumo_provider
 #EXTINF:-1 tvg-id="62fb675fc9f6da0007b36888" tvg-name="Nonstop Chop" tvg-logo="https://images.pluto.tv/channels/62fb675fc9f6da0007b36888/colorLogoPNG.png" group-title="Food‚ Home + Travel",Nonstop Chop
 https://i.mjh.nz/PlutoTV/62fb675fc9f6da0007b36888-alt.m3u8
+#EXTINF:-1 tvg-id="636c2b3c55d2e700074105c4" tvg-name="PBS Antiques Roadshow" tvg-logo="https://images.pluto.tv/channels/636c2b3c55d2e700074105c4/colorLogoPNG.png" group-title="Food‚ Home + Travel",PBS Antiques Roadshow
+https://i.mjh.nz/PlutoTV/636c2b3c55d2e700074105c4-alt.m3u8
 #EXTINF:-1 tvg-id="USBC1300008AZ" tvg-name="Plated" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1300008AZ_20230125T022111SQUARE.png_20230125022112.png" group-title="Food‚ Home + Travel",Plated
 https://depxeb4uwrea4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-idblv37ixjnw2-ssai-prd/dist/samsungtv/425/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 tvg-id="62fb5f68741416000755b0a1" tvg-name="Reno & Flip" tvg-logo="https://images.pluto.tv/channels/62fb5f68741416000755b0a1/colorLogoPNG.png" group-title="Food‚ Home + Travel",Reno & Flip
@@ -909,8 +902,6 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsung
 https://d1t2ajwv750gfr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f3a38uuov6qei/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 tvg-id="USBD1200022S1" tvg-name="The Design Network" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200022S1_20230627T215019SQUARE.png_20230627215020.png" group-title="Food‚ Home + Travel",The Design Network
 https://d2ot4615xhuuuh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zj5yk7f3ydbqu/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-#EXTINF:-1 tvg-id="62ea45010d0611000839868c" tvg-name="Gordon Ramsay's Hell's Kitchen" tvg-logo="https://images.pluto.tv/channels/62ea45010d0611000839868c/colorLogoPNG.png" group-title="Food‚ Home + Travel",Gordon Ramsay's Hell's Kitchen
-https://i.mjh.nz/PlutoTV/62ea45010d0611000839868c-alt.m3u8
 #EXTINF:-1 tvg-id="GBBC4000002H3" tvg-name="The Jamie Oliver Channel" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC4000002H3_20230809T053414SQUARE.png_20230809053415.png" group-title="Food‚ Home + Travel",The Jamie Oliver Channel
 https://d3cuy2e2e6vm8u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lgi0vfbu48v8n-ssai-prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="USBC1300005T6" tvg-name="This Old House Makers" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1300005T6_20230125T022539SQUARE.png_20230125022540.png" group-title="Food‚ Home + Travel",This Old House Makers
@@ -1503,8 +1494,6 @@ https://i.mjh.nz/PlutoTV/62ac44b44f1912000705274c-alt.m3u8
 https://i.mjh.nz/PlutoTV/624303598e45140007d765c1-alt.m3u8
 #EXTINF:-1 tvg-id="5d14fdb8ca91eedee1633117" tvg-name="MTV Spankin' New" tvg-logo="https://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/colorLogoPNG.png" group-title="Music",MTV Spankin' New
 https://i.mjh.nz/PlutoTV/5d14fdb8ca91eedee1633117-alt.m3u8
-#EXTINF:-1 tvg-id="USBD1200008GL" tvg-name="Vevo Features" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200008GL_20230726T004513SQUARE.png_20230726004514.png" group-title="Music",Vevo Features
-https://d281w17vgfepv6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-00dgfxdry0m4p/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 tvg-id="64ae96904ea48000082e37fb" tvg-name="MTV Summer Hits" tvg-logo="https://images.pluto.tv/channels/64ae96904ea48000082e37fb/colorLogoPNG.png" group-title="Music",MTV Summer Hits
 https://i.mjh.nz/PlutoTV/64ae96904ea48000082e37fb-alt.m3u8
 #EXTINF:-1 tvg-id="USAJ3000013FJ" tvg-name="NEW KPOP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20230627T214901SQUARE.png_20230627214902.png" group-title="Music",NEW KPOP
@@ -1559,12 +1548,12 @@ https://d2u040elo6umri.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://amg01131-tracetv-traceurbanuk-samsunguk-6r213.amagi.tv/playlist/amg01131-tracetv-traceurbanuk-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 #EXTINF:-1 tvg-id="5f32f26bcd8aea00071240e5" tvg-name="Vevo '70s" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/colorLogoPNG.png" group-title="Music",Vevo '70s
 https://i.mjh.nz/PlutoTV/5f32f26bcd8aea00071240e5-alt.m3u8
-#EXTINF:-1 tvg-id="GBBD1900009UD" tvg-name="Vevo '70s & '80s" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1900009UD_20230614T010158SQUARE.png_20230614010159.png" group-title="Music",Vevo '70s & '80s
-https://dljikifwgal69.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vtk9m2r3a4n44/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="5fd7b8bf927e090007685853" tvg-name="Vevo '80s" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/colorLogoPNG.png" group-title="Music",Vevo '80s
 https://i.mjh.nz/PlutoTV/5fd7b8bf927e090007685853-alt.m3u8
 #EXTINF:-1 tvg-id="5fd7bb1f86d94a000796e2c2" tvg-name="Vevo '90s" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/colorLogoPNG.png" group-title="Music",Vevo '90s
 https://i.mjh.nz/PlutoTV/5fd7bb1f86d94a000796e2c2-alt.m3u8
+#EXTINF:-1 tvg-id="GBBD1900009UD" tvg-name="Vevo '70s & '80s" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1900009UD_20230614T010158SQUARE.png_20230614010159.png" group-title="Music",Vevo '70s & '80s
+https://dljikifwgal69.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vtk9m2r3a4n44/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="GBBC2100002HP" tvg-name="Vevo '90s & '00s" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2100002HP_20230412T042246SQUARE.png_20230412042247.png" group-title="Music",Vevo '90s & '00s
 https://d2yw87dguyr3x7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gm31ezw31rx7a/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="USBD120002431" tvg-name="Vevo 2010s" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120002431_20230627T215025SQUARE.png_20230627215025.png" group-title="Music",Vevo 2010s
@@ -1573,6 +1562,8 @@ https://d21cpy4ek4aipj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://i.mjh.nz/PlutoTV/5fd7bca3e0a4ee0007a38e8c-alt.m3u8
 #EXTINF:-1 tvg-id="5da0d75e84830900098a1ea0" tvg-name="Vevo Country" tvg-logo="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/colorLogoPNG.png" group-title="Music",Vevo Country
 https://i.mjh.nz/PlutoTV/5da0d75e84830900098a1ea0-alt.m3u8
+#EXTINF:-1 tvg-id="USBD1200008GL" tvg-name="Vevo Features" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200008GL_20230726T004513SQUARE.png_20230726004514.png" group-title="Music",Vevo Features
+https://d281w17vgfepv6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-00dgfxdry0m4p/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 tvg-id="GBBD2300001C0" tvg-name="Vevo Hip Hop & R&B" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD2300001C0_20230712T021205SQUARE.png_20230712021205.png" group-title="Music",Vevo Hip Hop & R&B
 https://d2x6xe7mb8n9mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h594lykjer9r4/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="USBC3600002EK" tvg-name="Vevo Hip-Hop" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600002EK_20230322T000030SQUARE.png_20230322000031.png" group-title="Music",Vevo Hip-Hop
@@ -1651,8 +1642,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00106-france24-france24-samsunguk/p
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-fox-newsnow-samsung/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 tvg-id="USBB2200014DK" tvg-name="NBC News NOW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2200014DK_20220712T041422SQUARE.png_20220712041422.png" group-title="News",NBC News NOW
 https://d2ww7x6333b6qp.cloudfront.net/10507/9999542/hls/master.m3u8?ads.xumo_channelId=9999542&ads.caid=nbcnewsnow&ads.csid=samsungtvplus_us_nbcnewsnow_ssai_%7BAPP_NAME%7D_cro&ads.asnw=169843&ads.afid=137704898&ads.sfid=16772607&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=News&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_h_x_country=US&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=1828&ads.xumo_contentName=nbcnewsnow&ads.xumo_
-#EXTINF:-1 tvg-id="5df97894467dfa00091c873c" tvg-name="NBC News NOW" tvg-logo="https://images.pluto.tv/channels/5df97894467dfa00091c873c/colorLogoPNG.png" group-title="News",NBC News NOW
-https://i.mjh.nz/PlutoTV/5df97894467dfa00091c873c-alt.m3u8
 #EXTINF:-1 tvg-id="USBA300028QU" tvg-name="Newsmax TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300028QU_20221109T013516SQUARE.png_20221109013517.png" group-title="News",Newsmax TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-newsmax/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 tvg-id="NHKWorldPremium.jp" tvg-name="NHK World Premium" tvg-logo="https://i.imgur.com/4ESi2La.png" group-title="News",NHK World Premium
