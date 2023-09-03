@@ -1,6 +1,4 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/68m7n4g88wh4ee28y1ge, https://i.mjh.nz/SamsungTVPlus/all.xml, https://i.mjh.nz/PlutoTV/all.xml, https://i.mjh.nz/Stirr/all.xml, https://i.mjh.nz/Plex/all.xml, https://i.mjh.nz/all/epg.xml, https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml, https://iptv-org.github.io/epg/guides/en/startimestv.com.xml, https://iptv-org.github.io/epg/guides/en/dstv.com.xml"
-#EXTM3U url-tvg="http://m3u4u.com/epg/68m7n4g88wh4ee28y1ge"
-#EXTM3U url-tvg="http://m3u4u.com/epg/68m7n4g88wh4ee28y1ge"
 #EXTINF:-1 tvg-id="BumblebeeTVAuroraLive.us" tvg-name="Bumblebee TV Aurora Live (1080p)" tvg-logo="https://i.imgur.com/1WIEWK7.png" group-title="Bumblebee TV",Bumblebee TV Aurora Live (1080p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
 #EXTINF:-1 tvg-id="BumblebeeTVAutoMoto.us" tvg-name="Bumblebee TV AutoMoto (720p)" tvg-logo="https://i.imgur.com/CnbWNc1.png" group-title="Bumblebee TV",Bumblebee TV AutoMoto (720p)
