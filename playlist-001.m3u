@@ -2688,8 +2688,6 @@ https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7ac.m3u8
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-62efba6588a16bb7d6b6fb58" tvg-name="Éxitos del Momento" tvg-logo="https://provider-static.plex.tv/epg/cms/production/db81c10a-93cb-4966-ae48-5e3f0f741110/Exitos_Del_momento.png" group-title="Plex TV",Éxitos del Momento
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-62efba6588a16bb7d6b6fb58.m3u8
-#EXTINF:-1 tvg-id="64daafc53d48f40008861727" tvg-name="Casos de la Dra. Polo" tvg-logo="https://images.pluto.tv/channels/64daafc53d48f40008861727/colorLogoPNG.png" group-title="Pluto TV",Casos de la Dra. Polo
-https://i.mjh.nz/PlutoTV/64daafc53d48f40008861727-alt.m3u8
 #EXTINF:-1 tvg-id="64634eb42858cb0008fd92d6" tvg-name="How To Use Pluto TV" tvg-logo="https://images.pluto.tv/channels/64634eb42858cb0008fd92d6/colorLogoPNG.png" group-title="Pluto TV",How To Use Pluto TV
 https://i.mjh.nz/PlutoTV/64634eb42858cb0008fd92d6-alt.m3u8
 #EXTINF:-1 tvg-id="561d7d484dc7c8770484914a" tvg-name="Pluto TV Action" tvg-logo="https://images.pluto.tv/channels/561d7d484dc7c8770484914a/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Action
