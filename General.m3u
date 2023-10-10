@@ -1,0 +1,102 @@
+#EXTINF:-1 tvg-id="DareToDreamNetwork.us" tvg-name="3ABN Dare To Dream Network" tvg-logo="https://i.imgur.com/JwCLwQ2.png" group-title="General",3ABN Dare To Dream Network
+https://3abn-live.akamaized.net/hls/live/2010545/D2D/master.m3u8
+#EXTINF:-1 tvg-id="3ABNInternational.us" tvg-name="3ABN International" tvg-logo="https://i.imgur.com/8YMLPA3.png" group-title="General",3ABN International
+https://3abn-live.akamaized.net/hls/live/2010544/International/master.m3u8
+#EXTINF:-1 tvg-id="3ABNKids.us" tvg-name="3ABN Kids Network" tvg-logo="https://i.imgur.com/SUPQAok.png" group-title="General",3ABN Kids Network
+https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8
+#EXTINF:-1 tvg-id="3ABNPraiseHimMusicNetwork.us" tvg-name="3ABN Praise Him Music Network" tvg-logo="https://i.imgur.com/iBcqT8L.png" group-title="General",3ABN Praise Him Music Network
+https://3abn-live.akamaized.net/hls/live/2010551/Praise_Him/master.m3u8
+#EXTINF:-1 tvg-id="AfriwoodBlockbuster.za" tvg-name="Afriwood Blockbuster" tvg-logo="https://i.imgur.com/xcskfGJ.png" group-title="General",Afriwood Blockbuster
+https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodbb/playlist.m3u8
+#EXTINF:-1 tvg-id="AfriwoodSeries.za" tvg-name="Afriwood Series" tvg-logo="https://i.imgur.com/NOArgpj.png" group-title="General",Afriwood Series
+https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodseries/playlist.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60e737a4ebef9d002c4d0a0c" tvg-name="AfroLandTV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/AfroLandTV_logo_dark_v3.png" group-title="General",AfroLandTV
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60e737a4ebef9d002c4d0a0c.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=9bNN8yEFejZU9uk1Dian
+#EXTINF:-1 tvg-id="AmazingDiscoveriesTV.ca" tvg-name="Amazing Discoveries TV" tvg-logo="https://i.imgur.com/I0oPFTj.png" group-title="General",Amazing Discoveries TV
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
+#EXTINF:-1 tvg-id="AngelTVAfrica.in" tvg-name="Angel TV Africa" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="General",Angel TV Africa
+https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelafrica_all/playlist.m3u8
+#EXTINF:-1 tvg-id="K21JQD1.us" tvg-name="Blue Mountain TV" tvg-logo="https://i.imgur.com/k9Ze0cr.png" group-title="General",Blue Mountain TV
+https://1189614805.rsc.cdn77.org/hls/bmt.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bongo TV" tvg-logo="https://image.roku.com/developer_channels/prod/f2b868a5fc83e36401b6f82cb2129523f07da171f0bfd82ead1b0eb02c45b1ce.png" group-title="General",Bongo TV
+https://origin3.afxp.telemedia.co.za/PremiumFree/bongotv/playlist.m3u8
+#EXTINF:-1 tvg-id="BukeddeTV1.ug" tvg-name="Bukedde TV 1" tvg-logo="https://i.imgur.com/HFq5QlJ.png" group-title="General",Bukedde TV 1
+https://stream.hydeinnovations.com/bukedde1flussonic/index.m3u8
+#EXTINF:-1 tvg-id="BukeddeTV2.ug" tvg-name="Bukedde TV 2" tvg-logo="https://i.imgur.com/ukwPZeY.png" group-title="General",Bukedde TV 2
+https://stream.hydeinnovations.com/bukedde2flussonic/index.m3u8
+#EXTINF:-1 tvg-id="CapeTownTV.za" tvg-name="Cape Town TV" tvg-logo="https://i.imgur.com/Y8FK1Kk.png" group-title="General",Cape Town TV
+https://capetowntv.net/lvod/6107c8d77d6b693df801ae2e/playlist.m3u8
+#EXTINF:-1 tvg-id="CatholicTV.us" tvg-name="Catholic TV" tvg-logo="https://i.imgur.com/RI9GbLX.jpg" group-title="General",Catholic TV
+https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
+#EXTINF:-1 tvg-id="CGNTVJapan.jp" tvg-name="CGNTV" tvg-logo="https://i.imgur.com/v3QCaCe.png" group-title="General",CGNTV
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Citizen Extra" tvg-logo="https://imgur.com/Pv22Xat.png" group-title="General",Citizen Extra
+https://74937.global.ssl.fastly.net/5ea49827ff3b5d7b22708777/live_40c5808063f711ec89a87b62db2ecab5/index.m3u8
+#EXTINF:-1 tvg-id="CNBCAfrica.za" tvg-name="CNBC Africa" tvg-logo="https://i.imgur.com/BnNYzWI.png" group-title="General",CNBC Africa
+https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DaystarTV.us" tvg-name="Daystar TV" tvg-logo="https://i.imgur.com/IjzCv8f.png" group-title="General",Daystar TV
+https://hls-live-media.cdn01.net/dvr/stream_37099_1.m3u8
+#EXTINF:-1 tvg-id="Diva.za" tvg-name="Diva" tvg-logo="https://www.premiumfree.tv/wp-content/uploads/2022/09/PF-TV-OFFICIAL-LOGO_no-transparent-border-1280x251.png" group-title="General",Diva
+https://origin3.afxp.telemedia.co.za/PremiumFree/diva/playlist.m3u8
+#EXTINF:-1 tvg-id="FightNight.za" tvg-name="Fight Night" tvg-logo="https://www.premiumfree.tv/wp-content/uploads/2022/09/PF-TV-OFFICIAL-LOGO_no-transparent-border-1280x251.png" group-title="General",Fight Night
+https://origin3.afxp.telemedia.co.za/PremiumFree/fightnight/playlist.m3u8
+#EXTINF:-1 tvg-id="Fresh.za" tvg-name="Fresh" tvg-logo="https://www.premiumfree.tv/wp-content/uploads/2022/09/PF-TV-OFFICIAL-LOGO_no-transparent-border-1280x251.png" group-title="General",Fresh
+https://origin3.afxp.telemedia.co.za/PremiumFree/freshtv/playlist.m3u8
+#EXTINF:-1 tvg-id="GBNTV.us" tvg-name="Gospel Broadcasting Network (GBN)" tvg-logo="https://i.imgur.com/DsFyyHy.png" group-title="General",Gospel Broadcasting Network (GBN)
+https://cdn3.wowza.com/5/Wi9jakJPdFhPREFj/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="Hope4LifeTV.us" tvg-name="Hope4Life TV" tvg-logo="https://i.imgur.com/p24tAjs.jpg" group-title="General",Hope4Life TV
+http://144.217.14.88/hls/hope4life.m3u8
+#EXTINF:-1 tvg-id="InooroTV.ke" tvg-name="Inooro TV" tvg-logo="https://i.imgur.com/5qFJtmo.png" group-title="General",Inooro TV
+https://74937-castr.akamaized.net/5ea49827ff3b5d7b22708777/live_cd93fa8063f411ecb28b5d4f40b51a46/index.m3u8
+#EXTINF:-1 tvg-id="K24.ke" tvg-name="K24" tvg-logo="https://i.imgur.com/SUjo6Bm.png" group-title="General",K24
+https://5de06ce62a0b5.streamlock.net/k24/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="KBCChannel1.ke" tvg-name="KBC Channel 1" tvg-logo="https://i.imgur.com/Km0GINR.png" group-title="General",KBC Channel 1
+https://ythls.onrender.com/channel/UCypNjM5hP1qcUqQZe57jNfg.m3u8
+#EXTINF:-1 tvg-id="Kiddiwinks.za" tvg-name="Kiddiwinks" tvg-logo="https://i.imgur.com/ZEp1y2E.png" group-title="General",Kiddiwinks
+https://origin3.afxp.telemedia.co.za/PremiumFree/kiddiwinks/playlist.m3u8
+#EXTINF:-1 tvg-id="KTNNews.ke" tvg-name="KTN News" tvg-logo="https://i.imgur.com/AYxanoy.png" group-title="General",KTN News
+https://ythls.onrender.com/channel/UCKVsdeoHExltrWMuK0hOWmg.m3u8
+#EXTINF:-1 tvg-id="KweliTV.us" tvg-name="Kweli TV" tvg-logo="https://i.imgur.com/LXMlbda.png" group-title="General",Kweli TV
+https://a.jsrdn.com/broadcast/9c897f1973/+0000/c.m3u8
+#EXTINF:-1 tvg-id="LifeTV.za" tvg-name="Life TV" tvg-logo="https://www.premiumfree.tv/wp-content/uploads/2022/09/PF-TV-OFFICIAL-LOGO_no-transparent-border-1280x251.png" group-title="General",Life TV
+https://origin3.afxp.telemedia.co.za/PremiumFree/lifetv/playlist.m3u8
+#EXTINF:-1 tvg-id="Limelight.za" tvg-name="Limelight" tvg-logo="https://i.imgur.com/4h8q1NU.png" group-title="General",Limelight
+https://origin3.afxp.telemedia.co.za/PremiumFree/limelight/playlist.m3u8
+#EXTINF:-1 tvg-id="LOL.za" tvg-name="LOL" tvg-logo="https://www.premiumfree.tv/wp-content/uploads/2022/09/PF-TV-OFFICIAL-LOGO_no-transparent-border-1280x251.png" group-title="General",LOL
+https://origin3.afxp.telemedia.co.za/PremiumFree/lol/playlist.m3u8
+#EXTINF:-1 tvg-id="LoveWorldSat.za" tvg-name="LoveWorld Sat" tvg-logo="https://i.imgur.com/HoAUs2V.png" group-title="General",LoveWorld Sat
+https://c6v6m6p7.stackpathcdn.com/lwsat/lwsatmobile/playlist.m3u8
+#EXTINF:-1 tvg-id="LoveworldTV.uk" tvg-name="Loveworld TV" tvg-logo="https://i.imgur.com/3dPE3aw.png" group-title="General",Loveworld TV
+https://cdn.lwuk.live/live/smil:lwukweb.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NTVKenya.ke" tvg-name="NTV" tvg-logo="https://i.imgur.com/8xhvuJQ.png" group-title="General",NTV
+https://ythls.onrender.com/channel/UCqBJ47FjJcl61fmSbcadAVg.m3u8
+#EXTINF:-1 tvg-id="NTVUganda.ug" tvg-name="NTV Uganda" tvg-logo="https://i.imgur.com/ej5A6RZ.png" group-title="General",NTV Uganda
+https://ythls.onrender.com/channel/UCwga1dPCqBddbtq5KYRii2g.m3u8
+#EXTINF:-1 tvg-id="Pulse.za" tvg-name="Pulse" tvg-logo="https://www.premiumfree.tv/wp-content/uploads/2022/09/PF-TV-OFFICIAL-LOGO_no-transparent-border-1280x251.png" group-title="General",Pulse
+https://origin3.afxp.telemedia.co.za/PremiumFree/pulse/playlist.m3u8
+#EXTINF:-1 tvg-id="RamogiTV.ke" tvg-name="Ramogi" tvg-logo="https://royalmedia.s3.amazonaws.com/wp-content/uploads/2022/05/ramogitv.jpg" group-title="General",Ramogi
+https://citizentv.castr.com/5ea49827ff3b5d7b22708777/live_9b761ff063f511eca12909b8ef1524b4/index.m3u8
+#EXTINF:-1 tvg-id="Romanza.za" tvg-name="Romanza" tvg-logo="https://www.premiumfree.tv/wp-content/uploads/2022/09/PF-TV-OFFICIAL-LOGO_no-transparent-border-1280x251.png" group-title="General",Romanza
+https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/playlist.m3u8
+#EXTINF:-1 tvg-id="TanzaniaSafariChannel.tz" tvg-name="Tanzania Safari Channel" tvg-logo="https://i.imgur.com/fcLFYhn.png" group-title="General",Tanzania Safari Channel
+https://134630.global.ssl.fastly.net/5fe35eae8c53540cab83659a/live_0a6ef900ad0511ed8f65a940024f638d/index.m3u8
+#EXTINF:-1 tvg-id="TBC1.tz" tvg-name="TBC 1" tvg-logo="https://i.imgur.com/OmiVZ1u.png" group-title="General",TBC 1
+https://134630.global.ssl.fastly.net/5fe35eae8c53540cab83659a/live_5ffe3dc07b8f11ec89fd476d1ed4a755/index.m3u8
+#EXTINF:-1 tvg-id="TBC2.tz" tvg-name="TBC 2" tvg-logo="https://i.imgur.com/E14JGmT.png" group-title="General",TBC 2
+https://134630.global.ssl.fastly.net/5fe35eae8c53540cab83659a/live_36e8f510dfee11ec9dc2d5b207a2c04f/index.m3u8
+#EXTINF:-1 tvg-id="TBNAfrica.za" tvg-name="TBN Africa" tvg-logo="https://i.imgur.com/6VjLFmR.png" group-title="General",TBN Africa
+https://tbn-jw.cdn.vustreams.com/live/tbn-africa/live.isml/cc850928-d0d8-4336-84d0-999581129465.m3u8
+#EXTINF:-1 tvg-id="TopChannel.gr" tvg-name="Top Channel" tvg-logo="https://i.imgur.com/SfV2gJg.png" group-title="General",Top Channel
+http://eu1.vectromdigital.com:1935/topchannel/topchannel/playlist.m3u8
+#EXTINF:-1 tvg-id="Trigger.za" tvg-name="Trigger" tvg-logo="https://www.premiumfree.tv/wp-content/uploads/2022/09/PF-TV-OFFICIAL-LOGO_no-transparent-border-1280x251.png" group-title="General",Trigger
+https://origin2.afxp.telemedia.co.za/abr/trigger/playlist.m3u8
+#EXTINF:-1 tvg-id="TrueAfrican.za" tvg-name="True African" tvg-logo="https://i.imgur.com/PKkMr0G.png" group-title="General",True African
+https://origin3.afxp.telemedia.co.za/PremiumFree/trueafrican/playlist.m3u8
+#EXTINF:-1 tvg-id="TrueHistory.us" tvg-name="True History" tvg-logo="https://i.imgur.com/1BHDGXx.png" group-title="General",True History
+https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="TrustTV.ng" tvg-name="Trust TV" tvg-logo="https://i.imgur.com/2le4qYj.png" group-title="General",Trust TV
+https://ythls.onrender.com/channel/UCTlqstA2Wrt4fimd_VWKr8g.m3u8
+#EXTINF:-1 tvg-id="TVWest.ug" tvg-name="TV West" tvg-logo="https://i.imgur.com/EiJzkIz.png" group-title="General",TV West
+https://stream.hydeinnovations.com/tvwest-flussonic/index.m3u8
+#EXTINF:-1 tvg-id="VoxAfrica.uk" tvg-name="VoxAfrica" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/63/Voxafrica-1.png/512px-Voxafrica-1.png" group-title="General",VoxAfrica
+http://188.227.164.31/tsstreamer/VoxAfrica_SD.ts
