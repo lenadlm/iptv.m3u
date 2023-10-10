@@ -1,3 +1,4 @@
+#EXTM3U url-tvg=""
 #EXTINF:-1 tvg-id="DareToDreamNetwork.us" tvg-name="3ABN Dare To Dream Network" tvg-logo="https://i.imgur.com/JwCLwQ2.png" group-title="General",3ABN Dare To Dream Network
 https://3abn-live.akamaized.net/hls/live/2010545/D2D/master.m3u8
 #EXTINF:-1 tvg-id="3ABNInternational.us" tvg-name="3ABN International" tvg-logo="https://i.imgur.com/8YMLPA3.png" group-title="General",3ABN International
@@ -100,46 +101,39 @@ https://ythls.onrender.com/channel/UCTlqstA2Wrt4fimd_VWKr8g.m3u8
 https://stream.hydeinnovations.com/tvwest-flussonic/index.m3u8
 #EXTINF:-1 tvg-id="VoxAfrica.uk" tvg-name="VoxAfrica" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/63/Voxafrica-1.png/512px-Voxafrica-1.png" group-title="General",VoxAfrica
 http://188.227.164.31/tsstreamer/VoxAfrica_SD.ts
-#EXTM3U
-#EXTINF:-1 tvg-id="3StonesTV.ke" tvg-logo="https://i.imgur.com/im3g7T2.png" group-title="",3 Stones TV
-https://goliveafrica.media:9998/live/64d21e682fd26/index.m3u8
-#EXTINF:-1 tvg-id="AviationTV.ke" tvg-logo="https://i.imgur.com/WOU9z5G.png" group-title="",Aviation TV
-http://streamer02.nbo1.angani.co:1935/aviationtv/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="BTLTV.ke" tvg-logo="https://i.imgur.com/4r09woD.jpg" group-title="Religious",BTL TV
-https://goliveafrica.media:9998/live/638da5440743c/index.m3u8
-#EXTINF:-1 tvg-id="CitizenExtra.ke" tvg-logo="https://i.imgur.com/16d8NJd.jpg" group-title="General",Citizen Extra
-https://74937.global.ssl.fastly.net/5ea49827ff3b5d7b22708777/live_40c5808063f711ec89a87b62db2ecab5/index.m3u8
-#EXTINF:-1 tvg-id="CitizenTV.ke" tvg-logo="https://i.imgur.com/Pv22Xat.png" group-title="General",Citizen TV
+#EXTINF:-1 tvg-id="CitizenTV.ke" tvg-name="Citizen TV" tvg-logo="https://i.imgur.com/Pv22Xat.png" group-title="General",Citizen TV
 https://ythls.onrender.com/channel/UChBQgieUidXV1CmDxSdRm3g.m3u8
-#EXTINF:-1 tvg-id="CMTvKenya.ke" tvg-logo="https://i.imgur.com/ewHBokK.jpg" group-title="General",CMTv Kenya
+#EXTINF:-1 tvg-id="CMTvKenya.ke" tvg-name="CMTv Kenya" tvg-logo="https://i.imgur.com/ewHBokK.jpg" group-title="General",CMTv Kenya
 https://goliveafrica.media:9998/live/64ede813cfe1a/index.m3u8
-#EXTINF:-1 tvg-id="DestinyVoicesTV.ke" tvg-logo="https://i.imgur.com/yedftwj.jpg" group-title="Religious",Destiny Voices TV
-https://apps.digitaltv.co.ke/live/2004.m3u8
-#EXTINF:-1 tvg-id="ElevateTV.ke" tvg-logo="https://i.imgur.com/M7xaQ7o.jpg" group-title="Religious",Elevate TV
-https://goliveafrica.media:9998/live/64a98a7eac12a/index.m3u8
-#EXTINF:-1 tvg-id="FaithTVKenya.ke" tvg-logo="https://i.imgur.com/HxyDjxO.png" group-title="",Faith TV Kenya
-https://ythls.onrender.com/channel/UCQFnIxX1vwsqW7MPcJdYTeg.m3u8
-#EXTINF:-1 tvg-id="GBSTV.ke" tvg-logo="https://i.imgur.com/2AP1xVg.png" group-title="General",GBS TV
+#EXTINF:-1 tvg-id="GBSTV.ke" tvg-name="GBS TV" tvg-logo="https://i.imgur.com/2AP1xVg.png" group-title="General",GBS TV
 https://goliveafrica.media:9998/live/647460ac1ddd6/index.m3u8
-#EXTINF:-1 tvg-id="HLCTV.ke" tvg-logo="https://i.imgur.com/TPZoSXM.jpg" group-title="General",HLC TV
+#EXTINF:-1 tvg-id="HLCTV.ke" tvg-name="HLC TV" tvg-logo="https://i.imgur.com/TPZoSXM.jpg" group-title="General",HLC TV
 https://goliveafrica.media:9998/live/627d06e001aaf/index.m3u8
-#EXTINF:-1 tvg-id="InooroTV.ke" tvg-logo="https://i.imgur.com/5qFJtmo.png" group-title="",Inooro TV
-https://74937-castr.akamaized.net/5ea49827ff3b5d7b22708777/live_cd93fa8063f411ecb28b5d4f40b51a46/index.m3u8
-#EXTINF:-1 tvg-id="KassTV.ke" tvg-logo="https://i.imgur.com/MW8wZ5v.png" group-title="General",Kass TV
+#EXTINF:-1 tvg-id="KassTV.ke" tvg-name="Kass TV" tvg-logo="https://i.imgur.com/MW8wZ5v.png" group-title="General",Kass TV
 https://goliveafrica.media:9998/live/62f643cdca8cf/index.m3u8
-#EXTINF:-1 tvg-id="KTNHome.ke" tvg-logo="https://i.imgur.com/qDJrzNO.png" group-title="",KTN Home
-https://ythls.onrender.com/channel/UCkWr5PLM8hp8M4WNIkjpKsQ.m3u8
-#EXTINF:-1 tvg-id="NiceTVKenya.ke" tvg-logo="https://i.imgur.com/UawxLTW.jpg" group-title="General",Nice TV Kenya
+#EXTINF:-1 tvg-id="NiceTVKenya.ke" tvg-name="Nice TV Kenya" tvg-logo="https://i.imgur.com/UawxLTW.jpg" group-title="General",Nice TV Kenya
 https://goliveafrica.media:9998/live/64ada04aa7678/index.m3u8
-#EXTINF:-1 tvg-id="NTVKenya.ke" tvg-logo="https://i.imgur.com/8xhvuJQ.png" group-title="General",NTV Kenya
-https://ythls.onrender.com/channel/UCqBJ47FjJcl61fmSbcadAVg.m3u8
-#EXTINF:-1 tvg-id="ParliamentofKenya.ke" tvg-logo="https://i.imgur.com/fAULyHh.jpg" group-title="Legislative",Parliament of Kenya
-https://ythls.onrender.com/channel/UCXuseB7juWB7DIgTJcwtHFQ.m3u8
-#EXTINF:-1 tvg-id="PillarTV.ke" tvg-logo="https://i.imgur.com/9kCxFqj.png" group-title="Religious",Pillar TV
-https://goliveafrica.media:9998/live/627e198474bd1/index.m3u8
-#EXTINF:-1 tvg-id="RaiaTV.ke" tvg-logo="https://i.imgur.com/IyFULjw.png" group-title="",Raia TV
+#EXTINF:-1 tvg-id="3StonesTV.ke" tvg-name="3 Stones TV" tvg-logo="https://i.imgur.com/im3g7T2.png" group-title="General",3 Stones TV
+https://goliveafrica.media:9998/live/64d21e682fd26/index.m3u8
+#EXTINF:-1 tvg-id="AviationTV.ke" tvg-name="Aviation TV" tvg-logo="https://i.imgur.com/WOU9z5G.png" group-title="General",Aviation TV
+http://streamer02.nbo1.angani.co:1935/aviationtv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="FaithTVKenya.ke" tvg-name="Faith TV Kenya" tvg-logo="https://i.imgur.com/HxyDjxO.png" group-title="General",Faith TV Kenya
+https://ythls.onrender.com/channel/UCQFnIxX1vwsqW7MPcJdYTeg.m3u8
+#EXTINF:-1 tvg-id="InooroTV.ke" tvg-name="Inooro TV" tvg-logo="https://i.imgur.com/5qFJtmo.png" group-title="General",Inooro TV
+https://74937-castr.akamaized.net/5ea49827ff3b5d7b22708777/live_cd93fa8063f411ecb28b5d4f40b51a46/index.m3u8
+#EXTINF:-1 tvg-id="KTNHome.ke" tvg-name="KTN Home" tvg-logo="https://i.imgur.com/qDJrzNO.png" group-title="General",KTN Home
+https://ythls.onrender.com/channel/UCkWr5PLM8hp8M4WNIkjpKsQ.m3u8
+#EXTINF:-1 tvg-id="RaiaTV.ke" tvg-name="Raia TV" tvg-logo="https://i.imgur.com/IyFULjw.png" group-title="General",Raia TV
 https://goliveafrica.media:9998/live/64873b6222c93/index.m3u8
-#EXTINF:-1 tvg-id="RamogiTV.ke" tvg-logo="https://i.ytimg.com/vi/hQgTTvf0xfc/mqdefault.jpg" group-title="General",Ramogi TV
-https://citizentv.castr.com/5ea49827ff3b5d7b22708777/live_9b761ff063f511eca12909b8ef1524b4/index.m3u8
-#EXTINF:-1 tvg-id="SasaTV.ke" tvg-logo="https://i.imgur.com/wOe4shP.png" group-title="",Sasa TV
+#EXTINF:-1 tvg-id="SasaTV.ke" tvg-name="Sasa TV" tvg-logo="https://i.imgur.com/wOe4shP.png" group-title="General",Sasa TV
 https://ythls.onrender.com/channel/UCrBGAWr24pPQn-HUWZDBelQ.m3u8
+#EXTINF:-1 tvg-id="BTLTV.ke" tvg-name="BTL TV" tvg-logo="https://i.imgur.com/4r09woD.jpg" group-title="General",BTL TV
+https://goliveafrica.media:9998/live/638da5440743c/index.m3u8
+#EXTINF:-1 tvg-id="DestinyVoicesTV.ke" tvg-name="Destiny Voices TV" tvg-logo="https://i.imgur.com/yedftwj.jpg" group-title="General",Destiny Voices TV
+https://apps.digitaltv.co.ke/live/2004.m3u8
+#EXTINF:-1 tvg-id="ElevateTV.ke" tvg-name="Elevate TV" tvg-logo="https://i.imgur.com/M7xaQ7o.jpg" group-title="General",Elevate TV
+https://goliveafrica.media:9998/live/64a98a7eac12a/index.m3u8
+#EXTINF:-1 tvg-id="PillarTV.ke" tvg-name="Pillar TV" tvg-logo="https://i.imgur.com/9kCxFqj.png" group-title="General",Pillar TV
+https://goliveafrica.media:9998/live/627e198474bd1/index.m3u8
+#EXTINF:-1 tvg-id="ParliamentofKenya.ke" tvg-name="Parliament of Kenya" tvg-logo="https://i.imgur.com/fAULyHh.jpg" group-title="General",Parliament of Kenya
+https://ythls.onrender.com/channel/UCXuseB7juWB7DIgTJcwtHFQ.m3u8
